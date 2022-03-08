@@ -1,0 +1,2336 @@
+TY  - JOUR
+TI  - Developing a Culture of Privacy: A Case Study
+T2  - IEEE Security & Privacy
+SP  - 58
+EP  - 60
+AU  - E. M. Power
+PY  - 2007
+KW  - Privacy
+KW  - Information security
+KW  - Protection
+KW  - Data security
+KW  - ISO standards
+KW  - Medical services
+KW  - Government
+KW  - Information management
+KW  - Power system security
+KW  - Protocols
+KW  - privacy
+KW  - best practices
+KW  - training
+KW  - privacy interests
+DO  - 10.1109/MSP.2007.163
+JO  - IEEE Security & Privacy
+IS  - 6
+SN  - 1558-4046
+VO  - 5
+VL  - 5
+JA  - IEEE Security & Privacy
+Y1  - Nov.-Dec. 2007
+AB  - In building a culture of privacy, an organization must clearly articulate privacy as an organizational priority; communicate key privacy and security messages; educate across the organization; raise awareness of the importance of registering privacy incidents and breaches; build privacy into the fabric of the organization's activities; and make privacy information and guidance readily accessible. Accomplishing these objectives provides a framework to create or reinforce a privacy culture. In 2003, the province of Ontario, Canada, created the smart systems for health agency (SSHA) to connect healthcare professionals across the province.
+ER  - 
+
+TY  - CONF
+TI  - [Journal First] Privacy by Designers: Software Developers' Privacy Mindset
+T2  - 2018 IEEE/ACM 40th International Conference on Software Engineering (ICSE)
+SP  - 396
+EP  - 396
+AU  - I. Hadar
+AU  - T. Hasson
+AU  - O. Ayalon
+AU  - E. Toch
+AU  - M. Birnhack
+AU  - S. Sherman
+AU  - A. Balissa
+PY  - 2018
+KW  - Privacy
+KW  - Data privacy
+KW  - Meteorology
+KW  - Software
+KW  - Information systems
+KW  - Vocabulary
+KW  - Software engineering
+KW  - Data protection
+KW  - Privacy
+KW  - Privacy by design
+KW  - Qualitative research
+KW  - Grounded analysis
+KW  - Social cognitive theory
+KW  - Organizational climate
+DO  - 10.1145/3180155.3182531
+JO  - 2018 IEEE/ACM 40th International Conference on Software Engineering (ICSE)
+IS  - 
+SN  - 1558-1225
+VO  - 
+VL  - 
+JA  - 2018 IEEE/ACM 40th International Conference on Software Engineering (ICSE)
+Y1  - 27 May-3 June 2018
+AB  - Privacy by design (PbD) is a policy measure that guides software developers to apply inherent solutions to achieve better privacy protection. For PbD to be a viable option, it is important to understand developers' perceptions, interpretation and practices as to informational privacy (or data protection). To this end, we conducted in-depth interviews with 27 developers from different domains, who practice software design. Grounded analysis of the data revealed an interplay between several different forces affecting the way in which developers handle privacy concerns. Borrowing the schema of Social Cognitive Theory (SCT), we classified and analyzed the cognitive, organizational and behavioral factors that play a role in developers' privacy decision making. Our findings indicate that developers use the vocabulary of data security to approach privacy challenges, and that this vocabulary limits their perceptions of privacy mainly to third-party threats coming from outside of the organization; that organizational privacy climate is a powerful means for organizations to guide developers toward particular practices of privacy; and that software architectural patterns frame privacy solutions that are used throughout the development process, possibly explaining developers' preference of policy-based solutions to architectural solutions. Further, we show, through the use of the SCT schema for framing the findings of this study, how a theoretical model of the factors that influence developers' privacy practices can be conceptualized and used as a guide for future research toward effective implementation of PbD.
+ER  - 
+
+TY  - CONF
+TI  - 3-Way game model for privacy-preserving cybersecurity information exchange framework
+T2  - MILCOM 2017 - 2017 IEEE Military Communications Conference (MILCOM)
+SP  - 829
+EP  - 834
+AU  - I. Vakilinia
+AU  - D. K. Tosh
+AU  - S. Sengupta
+PY  - 2017
+KW  - Organizations
+KW  - Computer security
+KW  - Standards organizations
+KW  - Privacy
+KW  - Games
+KW  - Cybersecurity information-sharing
+KW  - privacy-preservation
+KW  - information sanitization
+KW  - game theory
+DO  - 10.1109/MILCOM.2017.8170842
+JO  - MILCOM 2017 - 2017 IEEE Military Communications Conference (MILCOM)
+IS  - 
+SN  - 2155-7586
+VO  - 
+VL  - 
+JA  - MILCOM 2017 - 2017 IEEE Military Communications Conference (MILCOM)
+Y1  - 23-25 Oct. 2017
+AB  - With the growing number of cyberattack incidents, organizations are required to have proactive knowledge on the cybersecurity landscape for efficiently defending their resources. To achieve this, organizations must develop the culture of sharing their threat information with others for effectively assessing the associated risks. However, sharing cybersecurity information is costly for the organizations due to the fact that the information conveys sensitive and private data. Hence, making the decision for sharing information is a challenging task and requires to resolve the trade-off between sharing advantages and privacy exposure. On the other hand, cybersecurity information exchange (CYBEX) management is crucial in stabilizing the system through setting the correct values for participation fees and sharing incentives. In this work, we model the interaction of organizations, CYBEX, and attackers involved in a sharing system using dynamic game. With devising appropriate payoff models for each player, we analyze the best strategies of the entities by incorporating the organizations' privacy component in the sharing model. Using the best response analysis, the simulation results demonstrate the efficiency of our proposed framework.
+ER  - 
+
+TY  - CONF
+TI  - A conceptual privacy governance framework
+T2  - 2019 Conference on Information Communications Technology and Society (ICTAS)
+SP  - 1
+EP  - 6
+AU  - P. Swartz
+AU  - A. Da Veiga
+AU  - N. Martins
+PY  - 2019
+KW  - Privacy
+KW  - Training
+KW  - Monitoring
+KW  - Law
+KW  - Data protection
+KW  - Privacy
+KW  - privacy governance
+KW  - privacy governance framework
+KW  - Protection of Personal Information Act
+KW  - POPIA
+DO  - 10.1109/ICTAS.2019.8703636
+JO  - 2019 Conference on Information Communications Technology and Society (ICTAS)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2019 Conference on Information Communications Technology and Society (ICTAS)
+Y1  - 6-8 March 2019
+AB  - Owing to the growth of technological advancements and the enactment of comprehensive data privacy legislation, organisations must meet the requirements of privacy laws. Organisations must incorporate the protection of personal information in their strategic planning and govern it across the organisation. The purpose of this paper is to propose a conceptual privacy governance framework. This is done by comparing existing privacy governance frameworks and proposing a consolidated framework that incorporates a comprehensive set of privacy components that can assist management in governing privacy across an organisation. Such a framework can serve as a point of reference to assist organisations in obtaining the support of senior management, establishing clear processes and delegating responsibilities to individuals, utilising existing standards, and establishing monitoring and audit practices. The privacy governance framework can help to reinforce privacy protection, enhance the organisation's reputation, foster a culture of privacy and ensure compliance with privacy regulatory requirements.
+ER  - 
+
+TY  - CONF
+TI  - Preliminary study for determining bring your own device implementation framework based on organizational culture analysis enhanced by cloud management control
+T2  - 2015 3rd International Conference on Information and Communication Technology (ICoICT)
+SP  - 113
+EP  - 118
+AU  - N. Selviandro
+AU  - G. Wisudiawan
+AU  - S. Puspitasari
+AU  - M. Adrian
+PY  - 2015
+KW  - Privacy
+KW  - Security
+KW  - Media
+KW  - Companies
+KW  - History
+KW  - Electronic mail
+KW  - BYOD
+KW  - Organization Culture
+KW  - Cloud Computing Management Control
+KW  - Customer Satisfaction
+DO  - 10.1109/ICoICT.2015.7231407
+JO  - 2015 3rd International Conference on Information and Communication Technology (ICoICT)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2015 3rd International Conference on Information and Communication Technology (ICoICT)
+Y1  - 27-29 May 2015
+AB  - Bring your own device or BYOD is one of the technological trends that give direct impact for organizations, because of technology information adaptation in organizations. BYOD referred to an environment in which employees use personal technology such as laptops, smartphones, tablets, and even desktop PCs - to access corporate networks, applications, and data. Furthermore, basic motivation of this study is trying to answer whether implementing BYOD in organizations with respect to organizational culture and adaptation of cloud management control, may gives better result while implementing it without considering organizational culture and adaptation of cloud management control. In this study, the organizational culture will refer to OCAI organizational types and BYOD implementation will refer to BYOD privacy concerns indicators. This paper shall discuss the formulation and methodology to develop a proposed framework and the expected benefits while implementing BYOD by considering organizations culture.
+ER  - 
+
+TY  - CONF
+TI  - Analyzing information security culture: increased trust by an appropriate information security culture
+T2  - 14th International Workshop on Database and Expert Systems Applications, 2003. Proceedings.
+SP  - 405
+EP  - 409
+AU  - T. Schlienger
+AU  - S. Teufel
+PY  - 2003
+KW  - Information security
+KW  - Information analysis
+KW  - Cultural differences
+KW  - Information systems
+KW  - Instruments
+KW  - Information processing
+KW  - Internet
+KW  - Computer industry
+KW  - Computer security
+KW  - Art
+DO  - 10.1109/DEXA.2003.1232055
+JO  - 14th International Workshop on Database and Expert Systems Applications, 2003. Proceedings.
+IS  - 
+SN  - 1529-4188
+VO  - 
+VL  - 
+JA  - 14th International Workshop on Database and Expert Systems Applications, 2003. Proceedings.
+Y1  - 1-5 Sept. 2003
+AB  - Security culture encompasses all socio-cultural measures that support technical security measures, so that information security becomes a natural aspect in the daily activities of every employee. The cultural concept helps to increase trust between the different actors concerning information security within an organization. We start with the explanation of the "organizational culture concept," asking how it can be used to implement information security culture. To create, maintain and change security culture, certain measuring instruments are necessary. We discuss several ways and methods to analyze organizational culture. Furthermore, we ask to what extent they could be used in the context of security culture and what special problems might arise. Finally, the possible implementation is discussed in the context of an ongoing survey from which we present some results.
+ER  - 
+
+TY  - CONF
+TI  - Privacy and Security in the Digitalisation Era
+T2  - 2020 11th IEEE Annual Information Technology, Electronics and Mobile Communication Conference (IEMCON)
+SP  - 0837
+EP  - 0844
+AU  - G. M. Jonathan
+AU  - B. K. Gebremeskel
+AU  - S. D. Yalew
+PY  - 2020
+KW  - Privacy
+KW  - Technological innovation
+KW  - Systematics
+KW  - Digital transformation
+KW  - Bibliographies
+KW  - Security
+KW  - Stakeholders
+KW  - Digitalisation
+KW  - Digital Transformation
+KW  - Privacy
+KW  - Security
+KW  - Systematic Literature Review
+DO  - 10.1109/IEMCON51383.2020.9284952
+JO  - 2020 11th IEEE Annual Information Technology, Electronics and Mobile Communication Conference (IEMCON)
+IS  - 
+SN  - 2644-3163
+VO  - 
+VL  - 
+JA  - 2020 11th IEEE Annual Information Technology, Electronics and Mobile Communication Conference (IEMCON)
+Y1  - 4-7 Nov. 2020
+AB  - The IT-enabled organisational transformation has been one of the widely studied topics since the introduction of IT in the business process of organisations, regardless of size and industry. Digital transformation, a relatively new but related phenomenon, has recently dominated the debates in the information systems (IS) research domain. Even though there is little disagreement in the role of new digital technologies in enabling innovation and providing a competitive advantage for organisations, researchers and practitioners have also voiced their concerns on the challenges associated with this technology-induced change. Among others, the volume of data collected and stored to make the digital transformation possible has brought the issue of security and privacy to the fore. A systematic literature review of recent studies was conducted to provide an overview of the developments on how organisations attempt to maintain privacy and security while undertaking digital transformation. The results suggest that the adoption of new technologies is contingent on the perception of different stakeholders on how privacy and security are maintained. Besides technical measures in place, organisational culture, organisational structure, HR practices, privacy and security policy, as well as senior leaders' commitment and IT leadership skills are essential to maintain acceptable privacy and security measures that support digital transformation. Implications for research and practice, as well as opportunities for future research, are also presented.
+ER  - 
+
+TY  - JOUR
+TI  - Inside the Organization: Why Privacy and Security Engineering Is a Challenge for Engineers
+T2  - Proceedings of the IEEE
+SP  - 600
+EP  - 615
+AU  - S. Spiekermann
+AU  - J. Korunovska
+AU  - M. Langheinrich
+PY  - 2019
+KW  - Privacy
+KW  - Security
+KW  - Ethics
+KW  - Social implications of technology
+KW  - Data privacy
+KW  - Robots
+KW  - Behavioral sciences
+KW  - Design methodology
+KW  - Engineering behavior
+KW  - ethics
+KW  - privacy
+KW  - responsibility
+KW  - security
+KW  - value-based design
+KW  - values
+DO  - 10.1109/JPROC.2018.2866769
+JO  - Proceedings of the IEEE
+IS  - 3
+SN  - 1558-2256
+VO  - 107
+VL  - 107
+JA  - Proceedings of the IEEE
+Y1  - March 2019
+AB  - Machine ethics is a key challenge in times when digital systems play an increasing role in people's lives. At the core of machine ethics is the handling of personal data and the security of machine operations. Yet, privacy and security engineering are a challenge in today's business world where personal data markets, corporate deadlines, and a lack of perfectionism frame the context in which engineers need to work. Besides these organizational and market challenges, each engineer has his or her specific view on the importance of these values that can foster or inhibit taking them into consideration. We present the results of an empirical study of 124 engineers based on the Theory of Planned Behavior and Jonas' Principle of Responsibility to understand the drivers and impediments of ethical system development as far as privacy and security engineering are concerned. We find that many engineers find the two values important, but do not enjoy working on them. We also find that many struggle with the organizational environment: They face a lack of time and autonomy that is necessary for building ethical systems, even at this basic level. Organizations' privacy and security norms are often too weak or even oppose value-based design, putting engineers in conflict with their organizations. Our data indicate that it is largely engineers' individually perceived responsibility as well as a few character traits that make a positive difference to ethical system development.
+ER  - 
+
+TY  - JOUR
+TI  - A Privacy Preserving Distributed Ledger Framework for Global Human Resource Record Management: The Blockchain Aspect
+T2  - IEEE Access
+SP  - 96455
+EP  - 96467
+AU  - T. Kim
+AU  - G. Kumar
+AU  - R. Saha
+AU  - M. K. Rai
+AU  - W. J. Buchanan
+AU  - R. Thomas
+AU  - M. Alazab
+PY  - 2020
+KW  - Organizations
+KW  - Privacy
+KW  - Contracts
+KW  - Peer-to-peer computing
+KW  - Data privacy
+KW  - Blockchain
+KW  - distributed ledger
+KW  - human resource
+KW  - management
+KW  - privacy
+DO  - 10.1109/ACCESS.2020.2995481
+JO  - IEEE Access
+IS  - 
+SN  - 2169-3536
+VO  - 8
+VL  - 8
+JA  - IEEE Access
+Y1  - 2020
+AB  - Blockchain is a technology used with the series of users in peer-to-peer transactions to utilize the usability properties of the immutable data records. The distributed nature of this technology has given the wide acceptance to its range of applications in various sectors. Seeing the prospect of this new technology, we have chosen the field of human resource management as these data needs to be privacy preserving and confidential along with significant research value. Distributed ledger approach is a novel idea in this field of work specifically for the application of human resource records management. We have used a privacy preserving framework that provides a transparent system for human resource record management. Wallets are generated with organization id and outputting with public-private key pair along with privacy parameter mapping with hash. Keys are used to provide confidentiality, integrity and authentication. Smart contract uses distributed but converged decision with privacy level classification. Performance of the proposed work has been measured based on time, memory consumptions, failure point identification and read-write latencies. The analysis of the results confirms the efficiency of the system.
+ER  - 
+
+TY  - CONF
+TI  - Reviewing for Privacy in Internet and Web Standard-Setting
+T2  - 2015 IEEE Security and Privacy Workshops
+SP  - 185
+EP  - 192
+AU  - N. Doty
+PY  - 2015
+KW  - Privacy
+KW  - Security
+KW  - Internet
+KW  - Standards organizations
+KW  - Organizations
+KW  - Protocols
+KW  - Internet
+KW  - Privacy
+KW  - Standards organizations
+KW  - World Wide Web
+DO  - 10.1109/SPW.2015.18
+JO  - 2015 IEEE Security and Privacy Workshops
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2015 IEEE Security and Privacy Workshops
+Y1  - 21-22 May 2015
+AB  - The functionality of the Internet and the World Wide Web is determined in large part by the standards that allow for interoperable implementations, as a result, the privacy of our online interactions depends on the work done within standard-setting organizations. But how do the organizational structure and processes of these multistake holder groups affect the engineering of values such as privacy? This paper reviews the history of considerations for security and privacy in Internet and Web standard-setting, the impact of Snowden surveillance revelations and reactions to them, and some trends in how we review for privacy in Internet and Web standards.
+ER  - 
+
+TY  - CONF
+TI  - Proposal of l-diversity algorithm considering distance between sensitive attribute values
+T2  - 2017 IEEE Symposium Series on Computational Intelligence (SSCI)
+SP  - 1
+EP  - 8
+AU  - K. Oishi
+AU  - Y. Tahara
+AU  - Y. Sei
+AU  - A. Ohsuga
+PY  - 2017
+KW  - Databases
+KW  - Diseases
+KW  - Lung
+KW  - Privacy
+KW  - Diversity reception
+KW  - Proposals
+KW  - Algorithm design and analysis
+DO  - 10.1109/SSCI.2017.8280973
+JO  - 2017 IEEE Symposium Series on Computational Intelligence (SSCI)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2017 IEEE Symposium Series on Computational Intelligence (SSCI)
+Y1  - 27 Nov.-1 Dec. 2017
+AB  - Consideration of privacy is crucial when sharing a database that contains personal information with other organizations. Many organizations have utilized personal information while realizing the importance of personal privacy protection by anonymizing personal information according to existing indicators, such as k-anonymity. A database with personal information is defined as satisfying l-diversity when a specific record group that has the same combination of quasi-identifiers (QIDs) holds at least / kinds of sensitive attribute value. By satisfying l-diversity, the identification probability of the individual's sensitive attribute value becomes less than 1/l, and it can be said that privacy is protected. The l-diversity has been widely studied in the area of privacy-preserving data mining. However, if a database containing certain personal information holds similar sensitive attribute values, there is a possibility that de facto diversity is not satisfied, even if anonymization is performed to satisfy l-diversity. In this research, we propose (l, d)-semantic diversity that is able to consider more actual diversity to solve the problem of not being able to satisfy de facto diversity with the existing indicator. The (l, d)-semantic diversity considers the similarity of sensitive attribute values by adding distances, d, defined using categorization. We also propose an anonymization algorithm and analysis algorithm suitable for the proposal indicator, and we conduct evaluation experiments.
+ER  - 
+
+TY  - CONF
+TI  - Challenges of e-Business in Dubai's Development Industry
+T2  - 2007 29th International Conference on Information Technology Interfaces
+SP  - 471
+EP  - 475
+AU  - A. Al-Alawi
+AU  - J. Kuzic
+PY  - 2007
+KW  - Internet
+KW  - Privacy
+KW  - Joining processes
+KW  - Companies
+KW  - Customer service
+KW  - Consumer electronics
+KW  - Organizational aspects
+KW  - Customer satisfaction
+KW  - Cultural differences
+KW  - Security
+KW  - E-Business challenges
+KW  - Development industry
+KW  - Dubai
+DO  - 10.1109/ITI.2007.4283817
+JO  - 2007 29th International Conference on Information Technology Interfaces
+IS  - 
+SN  - 1330-1012
+VO  - 
+VL  - 
+JA  - 2007 29th International Conference on Information Technology Interfaces
+Y1  - 25-28 June 2007
+AB  - To achieve success, it is important for businesses in Dubai to overcome challenges. The research reported in this paper shows that the most encountered challenges the development industry in Dubai is facing include: convincing decision makers, lack of EB strategies, organisational culture, ensuring customer satisfaction, international recognition, etc. This research also shows that, companies in the development industry have identified very similar challenges of EB as their counterparts in other industries in Dubai.
+ER  - 
+
+TY  - CONF
+TI  - Inter-organizational Processes: Requirements for Securing Data
+T2  - 2009 20th International Workshop on Database and Expert Systems Application
+SP  - 112
+EP  - 116
+AU  - A. Zilli
+AU  - N. Sicilia
+AU  - A. Corallo
+PY  - 2009
+KW  - Supply chains
+KW  - Aerospace industry
+KW  - Privacy
+KW  - Industrial relations
+KW  - Research and development
+KW  - Risk management
+KW  - Data security
+KW  - Process planning
+KW  - Technology planning
+KW  - Cryptography
+KW  - supply chain
+KW  - security
+KW  - aerospace
+KW  - inter-organizational process
+DO  - 10.1109/DEXA.2009.96
+JO  - 2009 20th International Workshop on Database and Expert Systems Application
+IS  - 
+SN  - 2378-3915
+VO  - 
+VL  - 
+JA  - 2009 20th International Workshop on Database and Expert Systems Application
+Y1  - 31 Aug.-4 Sept. 2009
+AB  - Supply chains, built by the flow of goods and money between firms, are changing their nature into value networks, built on strategic and knowledge-based relationships. This phenomenon characterizes mainly complex product industries, i.e. aerospace, requiring long research and development projects. Strategic relationships are implemented by processes crossing organizational boundaries. To carry them out, data exchange is required, but this introduces risks, too. These risks can be faced by defining more accurate privacy management techniques and functionalities of inter-organizational platforms. In this paper some inter-organizational processes characterizing the aero-engine supply chains are discussed focusing on their security and privacy issues. They were explored thanks to the Italian aerospace company Avio. One of them, the supply chain planning process, involving high classified data exchange among all the firms in the value network, will be faced by the SecureSCM research project through cryptography and secure multiparty computation technology.
+ER  - 
+
+TY  - JOUR
+TI  - Human Values in Software Engineering: Contrasting Case Studies of Practice
+T2  - IEEE Transactions on Software Engineering
+SP  - 1
+EP  - 1
+AU  - W. Hussain
+AU  - H. Perera
+AU  - J. Whittle
+AU  - A. Nurwidyantoro
+AU  - R. Hoda
+AU  - R. A. Shams
+AU  - G. Oliver
+PY  - 2020
+KW  - Software
+KW  - Software engineering
+KW  - Privacy
+KW  - Security
+KW  - Companies
+KW  - Human factors
+KW  - Artificial intelligence
+KW  - Engineering Human Values
+KW  - Software Engineering
+KW  - Human Values in Software Practice
+KW  - Challenges in Human Values
+KW  - Case Studies of Practice
+KW  - Ethics
+KW  - Responsible Innovations
+KW  - Non-functional Requirements
+DO  - 10.1109/TSE.2020.3038802
+JO  - IEEE Transactions on Software Engineering
+IS  - 
+SN  - 1939-3520
+VO  - 
+VL  - 
+JA  - IEEE Transactions on Software Engineering
+Y1  - 
+AB  - The growing diffusion of software in society and its influence on people demands from its creators that their work carefully considers human values such as transparency, social responsibility, and equality. But how do software practitioners address human values in software engineering practice’ We interviewed 31 software practitioners from two organizations, each having a strong values framework, with the aim to understand: (a) practitioners’ perceptions of human values and their role in software engineering; (b)practices that practitioners use to address human values in software; and (c) challenges they face during this process. We report our findings from two contrasting case studies on how practitioners “engineer” values in their unique organizational settings. We found evidence that organizational culture significantly contributes to how values are addressed in software. We summarize recommendations from the practitioners to support proactive engineering of values-conscious software.
+ER  - 
+
+TY  - CONF
+TI  - Privacy in Service Oriented Architectures: SOA Boundary Identity Masking for Enterprises
+T2  - 2010 IEEE 12th Conference on Commerce and Enterprise Computing
+SP  - 204
+EP  - 211
+AU  - B. Liver
+AU  - R. Di Paolo
+AU  - K. Tice
+PY  - 2010
+KW  - Service oriented architecture
+KW  - Logic gates
+KW  - Data privacy
+KW  - Business
+KW  - Data structures
+KW  - Marketing and sales
+KW  - Context
+KW  - service oriented architecture
+KW  - data privacy
+KW  - trust
+KW  - data aliasing
+KW  - enterprise architecture
+DO  - 10.1109/CEC.2010.21
+JO  - 2010 IEEE 12th Conference on Commerce and Enterprise Computing
+IS  - 
+SN  - 2378-1971
+VO  - 
+VL  - 
+JA  - 2010 IEEE 12th Conference on Commerce and Enterprise Computing
+Y1  - 10-12 Nov. 2010
+AB  - Sensitive data is increasingly proliferating due to outsourcing, application service provisioning, cloud computing and so on. The control of such data is increasingly crucial for enterprises, because of regulatory scrutiny, data privacy concerns, and so on. One approach to confine storing and processing sensitive data is our Boundary Identity Masking approach [1], in which a key-value token substitution ensures that sensitive data in its clear-text representation is available only within a well-defined boundary. However, the governance of these boundaries and substitution rules is not defined in [1]. This paper introduces a model for defining boundaries for sensitive data in the context of an enterprise. Next, the paper describes how to govern data privacy of services given the boundary model and a Service Oriented Architecture (SOA). Furthermore, we describe how the data structures of our Boundary Identity Masking approach are governed at an enterprise level. This addresses the scaling of our approach with respect to a large number of services and many boundaries.
+ER  - 
+
+TY  - CONF
+TI  - Probabilistic km-anonymity efficient anonymization of large set-valued datasets
+T2  - 2015 IEEE International Conference on Big Data (Big Data)
+SP  - 1164
+EP  - 1173
+AU  - G. Acs
+AU  - J. P. Achara
+AU  - C. Castelluccia
+PY  - 2015
+KW  - Privacy
+KW  - Itemsets
+KW  - Probabilistic logic
+KW  - Data privacy
+KW  - Big data
+KW  - Electronic mail
+KW  - Motion pictures
+DO  - 10.1109/BigData.2015.7363870
+JO  - 2015 IEEE International Conference on Big Data (Big Data)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2015 IEEE International Conference on Big Data (Big Data)
+Y1  - 29 Oct.-1 Nov. 2015
+AB  - Set-valued dataset contains different types of items/values per individual, for example, visited locations, purchased goods, watched movies, or search queries. As it is relatively easy to re-identify individuals in such datasets, their release poses significant privacy threats. Hence, organizations aiming to share such datasets must adhere to personal data regulations. In order to get rid of these regulations and also to beneit from sharing, these datasets should be anonymized before their release. In this paper, we revisit the problem of anonymizing set-valued data. We argue that anonymization techniques targeting traditional km-anonymity model, which limits the adversarial background knowledge to at most m items per individual, are impractical for large real-world datasets. Hence, we propose a probabilistic relaxation of km-anonymity and present an anonymization technique to achieve it. This relaxation also improves the utility of the anonymized data. We also demonstrate the effectiveness of our scalable anonymization technique on a real-world location dataset consisting of more than 4 million subscribers of a large European telecom operator. We believe that our technique can be very appealing for practitioners willing to share such large datasets.
+ER  - 
+
+TY  - CONF
+TI  - Data-driven and value sensitive urban decision making
+T2  - eChallenges e-2015 Conference
+SP  - 1
+EP  - 9
+AU  - C. Voigt
+AU  - S. Dobner
+AU  - J. Neuschmid
+PY  - 2015
+KW  - Decision making
+KW  - Media
+KW  - Stakeholders
+KW  - Urban areas
+KW  - Data privacy
+KW  - Monitoring
+KW  - Data visualization
+DO  - 10.1109/eCHALLENGES.2015.7441077
+JO  - eChallenges e-2015 Conference
+IS  - 
+SN  - 2166-1677
+VO  - 
+VL  - 
+JA  - eChallenges e-2015 Conference
+Y1  - 25-27 Nov. 2015
+AB  - Cities are complex systems. Different stakeholders with diverse interests and intentions come from public administration, industry sectors, research, real estate, service providers, civil society organisations, etc. In order to make sound decisions for a city, decision makers need to cross thematic as well as administrative borders. Novel ways of decision making include increasing inter-organisational cooperation on the one side and more interactive formats of citizen participation on the other side. Whereas `big data' has enormous potential to support these developments from an information systems' perspective, they also raise concerns about the possibility of misleading data interpretations or unnecessary privacy violations. This paper presents conceptual design recommendations including principles of value sensitive data selection and the contextual integrity of data interpretation.
+ER  - 
+
+TY  - CONF
+TI  - A Method to Price Your Information Asset in the Information Market
+T2  - 2016 IEEE International Congress on Big Data (BigData Congress)
+SP  - 307
+EP  - 314
+AU  - D. Rao
+AU  - N. W. Keong
+PY  - 2016
+KW  - Privacy
+KW  - Organizations
+KW  - Big data
+KW  - Data privacy
+KW  - Distortion
+KW  - Gaussian distribution
+KW  - Pricing
+KW  - big data
+KW  - information pricing
+KW  - information demand
+KW  - information value
+DO  - 10.1109/BigDataCongress.2016.46
+JO  - 2016 IEEE International Congress on Big Data (BigData Congress)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2016 IEEE International Congress on Big Data (BigData Congress)
+Y1  - 27 June-2 July 2016
+AB  - Big Data is not just a buzz-word anymore. It is an important asset for organizations who can profit from the use and analysis of this big data. This has given a major impetus to data brokers and marketing research firms to trawl and collate all this information from often unsuspecting users and sell this big data in neat packages to major organizations, all for a price. Everyone ends up making money off this big data except the users to whom this information actually belongs to originally. But to make users understand the importance of their information, we need to first make them aware of the value of their information. Once they realize this, they can then monetize, if they choose to on their information eliminating the presence of middle men like the data broker firms. Towards this, in our paper, we present our idea of valuing information based on Shannon's information value. In order to protect user privacy, we allow users to introduce distortion to their data which represents the 'risk' parameter from the buyer's point of view. Then we use the Sharpe ratio to compare the values of the information with and without the risk (in this case, it is the distortion introduced), thus allowing the buyer the flexibility to choose if he wants to invest in that information. In support of our idea, we also present our preliminary results detailing the working of the model and conclude with the potential of the idea of valuating information.
+ER  - 
+
+TY  - CONF
+TI  - An interdisciplinary approach for security, privacy and trust in the electronic medical record : A pragmatic legal perspective
+T2  - 2019 IEEE International Conference on E-health Networking, Application & Services (HealthCom)
+SP  - 1
+EP  - 6
+AU  - L. Cellier
+AU  - S. Ghernaouti
+PY  - 2019
+KW  - Hospitals
+KW  - Law
+KW  - Data protection
+KW  - Electronic medical records
+KW  - Security
+KW  - medical data protection
+KW  - electronic medical record security
+KW  - GDPR
+KW  - trust
+KW  - privacy
+KW  - technico- legal complementarity
+KW  - cybersecurity culture
+DO  - 10.1109/HealthCom46333.2019.9009588
+JO  - 2019 IEEE International Conference on E-health Networking, Application & Services (HealthCom)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2019 IEEE International Conference on E-health Networking, Application & Services (HealthCom)
+Y1  - 14-16 Oct. 2019
+AB  - The use of electronic medical records in healthcare institutions is becoming more widespread, bringing benefits in terms of quality, security and efficiency of patient care. The development of e-health, i.e. the integrated use of information and communication technologies and services, is considered a performance factor in medicine. The purpose of this article is to identify the key success factors of cybersecurity for e-health and to demonstrate that the effectiveness of cybersecurity depends on the complementarity of organizational, managerial, human, legal and technical measures. Technical innovation alone cannot meet the requirements of security and trust. The latter must be achieved through organizational policies that take into account the needs of each party. Our research was conducted from a European perspective and focused on Swiss university hospitals and the laws applicable to them. Since the issues are similar everywhere, however, the recommendations are generic, global and effective in different countries.
+ER  - 
+
+TY  - JOUR
+TI  - Corporate Governance of Big Data: Perspectives on Value, Risk, and Cost
+T2  - Computer
+SP  - 32
+EP  - 38
+AU  - P. P. Tallon
+PY  - 2013
+KW  - Standards
+KW  - Standards organizations
+KW  - Information management
+KW  - Data handling
+KW  - Data storage systems
+KW  - Risk management
+KW  - Data privacy
+KW  - big data
+KW  - information governance
+KW  - information lifecycle
+KW  - e-discovery
+KW  - data storage
+KW  - data risk factors
+DO  - 10.1109/MC.2013.155
+JO  - Computer
+IS  - 6
+SN  - 1558-0814
+VO  - 46
+VL  - 46
+JA  - Computer
+Y1  - June 2013
+AB  - Finding data governance practices that maintain a balance between value creation and risk exposure is the new organizational imperative for unlocking competitive advantage and maximizing value from the application of big data. The first Web extra at http://youtu.be/B2RlkoNjrzA is a video in which author Paul Tallon expands on his article "Corporate Governance of Big Data: Perspectives on Value, Risk, and Cost" and discusses how finding data governance practices that maintain a balance between value creation and risk exposure is the new organizational imperative for unlocking competitive advantage and maximizing value from the application of big data. The second Web extra at http://youtu.be/g0RFa4swaf4 is a video in which author Paul Tallon discusses the supplementary material to his article "Corporate Governance of Big Data: Perspectives on Value, Risk, and Cost" and how projection models can help individuals responsible for data handling plan for and understand big data storage issues.
+ER  - 
+
+TY  - CONF
+TI  - Stakeholders in the cloud computing value-chain : A socio-technical review of data breach literature
+T2  - 2020 IEEE International Symposium on Technology and Society (ISTAS)
+SP  - 290
+EP  - 293
+AU  - D. Kolevski
+AU  - K. Michael
+AU  - R. Abbas
+AU  - M. Freeman
+PY  - 2020
+KW  - Cloud computing
+KW  - Regulators
+KW  - Law enforcement
+KW  - Scalability
+KW  - Force
+KW  - Data breach
+KW  - Reliability engineering
+KW  - stakeholders
+KW  - cloud computing
+KW  - data breach
+KW  - ecosystems
+KW  - value-chain
+KW  - socio-technical
+KW  - operational
+KW  - non-operational
+KW  - end-users
+KW  - literature review
+DO  - 10.1109/ISTAS50296.2020.9462169
+JO  - 2020 IEEE International Symposium on Technology and Society (ISTAS)
+IS  - 
+SN  - 2158-3412
+VO  - 
+VL  - 
+JA  - 2020 IEEE International Symposium on Technology and Society (ISTAS)
+Y1  - 12-15 Nov. 2020
+AB  - This paper is about stakeholders in the cloud computing value-chain. Early cloud computing literature focused on the technical aspect of the technology and viewed the provider and customer as essential value-chain stakeholders. The more users that use cloud services, the potential for data breaches increases. The review of the literature was carried out using a social-technical approach. Socio-technical theory encapsulates the social, technical and environmental dimensions of a system. The outcomes of the search indicated that there are two pertinent stakeholder types: operational and non-operational. Operational stakeholders include cloud providers, customers, enablers, resellers and third-party providers. Non-operational stakeholders include regulators, legislators, courts, non-government organisations, law enforcement, industry-standard bodies and end-users. The end-users are critically important in the cloud value-chain in that they rely on online services for everyday activities and have their data compromised. The cloud value-chain presents that cloud services encapsulate more than just technology services. The paper considers the complex stakeholder relationships and data breach issues, indicating the need for a better socio-technical response from the stakeholders within the value-chain.
+ER  - 
+
+TY  - CONF
+TI  - Leveraging Social Grouping for Organizational Endorsement in Mobile Commerce Across Cultures: Transforming Outgroups into Ingroups
+T2  - 2010 Ninth International Conference on Mobile Business and 2010 Ninth Global Mobility Roundtable (ICMB-GMR)
+SP  - 487
+EP  - 492
+AU  - C. L. Sia
+AU  - Y. Shi
+AU  - C. Tan
+AU  - J. Wei
+AU  - J. Yang
+AU  - N. Wang
+PY  - 2010
+KW  - Business
+KW  - Cultural differences
+KW  - Internet
+KW  - Information systems
+KW  - Social network services
+KW  - Marketing and sales
+KW  - Privacy
+KW  - Safety devices
+KW  - Social implications of technology
+KW  - Companies
+KW  - trust
+KW  - mobile commerce
+KW  - trust
+KW  - cross-cultural strudy
+KW  - web strategies
+DO  - 10.1109/ICMB-GMR.2010.11
+JO  - 2010 Ninth International Conference on Mobile Business and 2010 Ninth Global Mobility Roundtable (ICMB-GMR)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2010 Ninth International Conference on Mobile Business and 2010 Ninth Global Mobility Roundtable (ICMB-GMR)
+Y1  - 13-15 June 2010
+AB  - As a subset of e-commerce, m-commerce (mobile commerce) also faces problems of trust building. The limitation of mobile devices, such as screen size, privacy and safety problem, make it important to build trust effectively and efficiently. In e-commerce, culture can exert a significant impact on how trust is built through various web strategies. Similarly, trust-building strategies in m-commerce could also have different effects on people in specific cultures, because of the extent to which they favor in-groups versus out-groups. Given features of mobile technologies and growing popularity of social network media, it is interesting to investigate whether personalized trust building via social ties with consumers could be explored to transform entities viewed as out-groups into in-groups of consumers, and the extent to which such strategies are effective in different cultures. Three studies are planned to pursue this line of enquiry. The results could have important implications for scholars and practitioners to leverage on social ties to boost sales in m-commerce.
+ER  - 
+
+TY  - CONF
+TI  - Interaction design of social software: Clarifying requirements through a culturally aware artifact
+T2  - International Conference on Information Society (i-Society 2011)
+SP  - 293
+EP  - 298
+AU  - R. Pereira
+AU  - L. C. de Miranda
+AU  - M. C. C. Baranauskas
+AU  - L. S. G. Piccolo
+AU  - L. D. A. Almeida
+AU  - J. C. d. Reis
+PY  - 2011
+KW  - Privacy
+KW  - Technological innovation
+KW  - Collaboration
+KW  - Usability
+KW  - Human computer interaction
+KW  - Security
+KW  - social web
+KW  - culture
+KW  - values
+KW  - valuation framing
+KW  - organizational semiotics
+DO  - 10.1109/i-Society18435.2011.5978455
+JO  - International Conference on Information Society (i-Society 2011)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - International Conference on Information Society (i-Society 2011)
+Y1  - 27-29 June 2011
+AB  - Taking part in a social software is a growing reality worldwide, while the interaction design of social software is still a challenging task due to the lack of third HCI paradigm artifacts, methods, tools and even theories for supporting designers. In this paper we present an artifact for the requirements clarification activity, and suggest some activities in order to guide designers to take cultural issues into account. We situate our discussions in a practical context related to the development of social software for professionals of the Special Education field.
+ER  - 
+
+TY  - CONF
+TI  - Determinants of E-Government Use in Developing Countries: The Influence of Privacy and Security Concerns
+T2  - 2019 Conference on Next Generation Computing Applications (NextComp)
+SP  - 1
+EP  - 7
+AU  - A. Bayaga
+AU  - J. Ophoff
+PY  - 2019
+KW  - Electronic government
+KW  - Security
+KW  - Privacy
+KW  - Cultural differences
+KW  - Information systems
+KW  - E-government
+KW  - South Africa
+KW  - citizens
+KW  - influencers
+DO  - 10.1109/NEXTCOMP.2019.8883653
+JO  - 2019 Conference on Next Generation Computing Applications (NextComp)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2019 Conference on Next Generation Computing Applications (NextComp)
+Y1  - 19-21 Sept. 2019
+AB  - There has been growing concern about privacy and security risks towards electronic-government (e-government) services adoption. Though there are positive results of e- government, there are still other contestable challenges that hamper success of e-government services. While many of the challenges have received considerable attention, there is still little to no firm research on others such as privacy and security risks, effects of infrastructure both in urban and rural settings. Other concerns that have received little consideration are how for instance; e-government serves as a function of perceived usefulness, ease of use, perceived benefit, as well as cultural dimensions and demographic constructs in South Africa. Guided by technology acceptance model, privacy calculus, Hofstede cultural theory and institutional logic theory, the current research sought to examine determinants of e- government use in developing countries. Anchored upon the aforementioned theories and background, the current study proposed three recommendations as potential value chain, derived from e-government service in response to citizens (end- user) support, government and community of stakeholders.
+ER  - 
+
+TY  - CONF
+TI  - A Natural User Interface and Blockchain-Based In-Home Smart Health Monitoring System
+T2  - 2020 IEEE International Conference on Informatics, IoT, and Enabling Technologies (ICIoT)
+SP  - 262
+EP  - 266
+AU  - M. A. Rahman
+AU  - K. Abualsaud
+AU  - S. Barnes
+AU  - M. Rashid
+AU  - S. M. Abdullah
+PY  - 2020
+KW  - Smart homes
+KW  - Monitoring
+KW  - Peer-to-peer computing
+KW  - Multimedia systems
+KW  - Intelligent sensors
+KW  - Secure Multimedia IoT
+KW  - blockchain
+KW  - off-chain
+KW  - IoT
+DO  - 10.1109/ICIoT48696.2020.9089613
+JO  - 2020 IEEE International Conference on Informatics, IoT, and Enabling Technologies (ICIoT)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2020 IEEE International Conference on Informatics, IoT, and Enabling Technologies (ICIoT)
+Y1  - 2-5 Feb. 2020
+AB  - In this paper, we propose a gesture-based secure interaction system with smart home IoT health devices to support elderly people or people with special needs. The framework uses a decentralized blockchain consensus for storing the smart home IoT health data and user identities. The framework leverages off-chain solution for storing raw multimedia IoT sensory payload and gesture data. Using our proposed health monitoring framework, a smart homeowner or service provider can create a cyber-physical space with a secure digital wallet for each human resident and authorized IoT health devices. Multiple authorized home residents can interact with the IoT-based smart home monitoring sensors, carry out user and IoT health sensory media registration, and transfer transactional values via secure tokens, as well as raw IoT health data payload through gesture. In this paper, we will present the design and implementation details of the smart home health monitoring framework in terms of gesture-based interaction with smart home IoT health devices, such as smart locks and light bulbs, which uses decentralized blockchain for security, trust, digital identity and privacy preservation.
+ER  - 
+
+TY  - CONF
+TI  - A System Approach for Evaluating Current and Emerging Army Open-Source Intelligence Tools
+T2  - 2019 IEEE International Systems Conference (SysCon)
+SP  - 1
+EP  - 5
+AU  - J. Chae
+AU  - D. Graham
+AU  - A. Henderson
+AU  - M. Matthews
+AU  - J. Orcutt
+AU  - M. S. Song
+PY  - 2019
+KW  - Tools
+KW  - Stakeholders
+KW  - Privacy
+KW  - Training
+KW  - Analytical models
+KW  - Open Source Intelligence (OSINT)
+KW  - Systems Decision Process
+KW  - Value Modeling
+DO  - 10.1109/SYSCON.2019.8836885
+JO  - 2019 IEEE International Systems Conference (SysCon)
+IS  - 
+SN  - 2472-9647
+VO  - 
+VL  - 
+JA  - 2019 IEEE International Systems Conference (SysCon)
+Y1  - 8-11 April 2019
+AB  - The United States Army maximizes combat effectiveness by synthesizing intelligence on the enemy. Open Source Intelligence, also known as OSINT, is a growing and maturing intelligence discipline that has promising potential for the United States Army. Today's OSINT tools provide various capabilities to enhance privacy and protect organizations from online threats. Although OSINT provides useful information, there are limitations that hinder the effectiveness of intelligence gathering. Our client, the Army Open Source Office (AOO), sponsored our team to develop a methodology to assess the current and emerging OSINT tools and technologies. Our team applies a systems decision process to develop a value model to improve OSINT operations. This paper outlines the systems approach, uses a client-oriented problem statement, and creates a value model. The results indicate that some OSINT tools do not completely meet the Army's requirements. This indicates a significant value gap between the current and desired OSINT tools. The model also makes a cost versus value comparison; however, the costs and tools are classified. This model serves two purposes. First, this model measures the performance of the Army's current toolkit to compare against other available tools. Secondly, this model evaluates emerging tools. Lastly, this model provides the decision maker with quantitative measures of performance to make better decisions on the allocation of resources.
+ER  - 
+
+TY  - CONF
+TI  - Predicting Personal Mobility Data Disclosure
+T2  - 2018 IEEE Conference on Big Data and Analytics (ICBDA)
+SP  - 1
+EP  - 6
+AU  - J. Dinero
+AU  - H. N. Chua
+PY  - 2018
+KW  - Mathematical model
+KW  - Data privacy
+KW  - Privacy
+KW  - Analytical models
+KW  - Big Data
+KW  - Companies
+KW  - Data models
+KW  - Mobility Data
+KW  - Information Privacy
+KW  - Data Protection
+KW  - Location-based Services
+KW  - Behavioral Intention
+DO  - 10.1109/ICBDAA.2018.8629651
+JO  - 2018 IEEE Conference on Big Data and Analytics (ICBDA)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2018 IEEE Conference on Big Data and Analytics (ICBDA)
+Y1  - 21-22 Nov. 2018
+AB  - Personal data has multiple categories, such as demographic, firmographic (organizational), behavioral and psychographic data. Mobility data is one of the behavioral pattern information, for example, location tracking. Disclosing mobility data is a privacy concern of individuals as their location and physical moving pattern can be uncovered and potentially be misused by third parties. Despite the privacy concern, exposing mobility data can be beneficial for individuals to gain advantages of getting customized services from service providers. On the other hand, companies get benefit from mobility data by providing value added services to individuals. Several influential factors of individual's intention in personal data disclosure have been identified based on existing literature. However, we argue that contextual aspects play an important role in effecting the intention. Therefore, in this research we seek to investigate if the identified factors by prior studies are significantly influential in Malaysian context. Additionally, from a different perspective, our research focuses on mobility data instead of personal data in general using Structural Equation Modelling analysis method. Based on our research finding, we identified an unexplored factor that can be used to predict the intention to disclose mobility data, and our result also confirmed that context aspects such as demographics and different personal data categories (e.g. mobility data) do have impact on the disclosure attention.
+ER  - 
+
+TY  - CONF
+TI  - Automated cross-organisational trust establishment on extranets
+T2  - Proceedings Workshop on Information Technology for Virtual Enterprises. ITVE 2001
+SP  - 3
+EP  - 11
+AU  - R. Au
+AU  - M. Looi
+AU  - P. Ashley
+PY  - 2001
+KW  - Extranets
+KW  - Information security
+KW  - Authentication
+KW  - Virtual enterprises
+KW  - Authorization
+KW  - Computer network management
+KW  - Environmental management
+KW  - Access control
+KW  - Access protocols
+KW  - Gold
+DO  - 10.1109/ITVE.2001.904483
+JO  - Proceedings Workshop on Information Technology for Virtual Enterprises. ITVE 2001
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - Proceedings Workshop on Information Technology for Virtual Enterprises. ITVE 2001
+Y1  - 29-30 Jan. 2001
+AB  - Trust management is an important aspect of information security in an organisation. It involves the complexity of relationships among people, computers and the organisational system. It becomes even more complex in the virtual enterprise environment where cross-organisational activities are involved. The paper presents a new paradigm for establishing trust across multiple organisations for external users on extranets. In our approach, the authorities of organisations administer their local users and at the same time can act as trust agents for distributing trust management information for other users in the virtual enterprise. Trust is propagated in the form of trust tokens through the web of trust. After collecting these trust tokens as recommendations, a new user can submit them to his destined organisation in order to acquire secure trust relation. By representing trust with a quantitative and comparable value, an automated mechanism for composing trust tokens is demonstrated.
+ER  - 
+
+TY  - CONF
+TI  - The regulatory world and the machine: Harmonizing legal requirements and the systems they affect
+T2  - 2013 21st IEEE International Requirements Engineering Conference (RE)
+SP  - 381
+EP  - 384
+AU  - D. G. Gordon
+PY  - 2013
+KW  - Law
+KW  - Organizations
+KW  - Standards organizations
+KW  - Industries
+KW  - Conferences
+DO  - 10.1109/RE.2013.6636760
+JO  - 2013 21st IEEE International Requirements Engineering Conference (RE)
+IS  - 
+SN  - 2332-6441
+VO  - 
+VL  - 
+JA  - 2013 21st IEEE International Requirements Engineering Conference (RE)
+Y1  - 15-19 July 2013
+AB  - The past decade has seen a substantial increase in the issuance of privacy and security regulations governing personal information. Ensuring system and organizational compliance is both more important and more difficult than ever before, as the penalties have become more severe, and regulations more complex and nuanced. This also presents substantial difficulties for multi-national companies, as different states, countries, or regions do not adhere to a uniform standard, resulting in a mixed set of regulations for the systems they govern. In this work, I describe a framework to address this issue, referred to as requirements water marking, wherein requirements from different jurisdictions that govern the same system may be evaluated and reduced to a single standard of care, establishing a “high water mark” for regulatory compliance and reducing requirements complexity. The framework, which draws on work in requirements specification languages and requirements comparison, allows engineers and legal experts to systematically simplify compliance and determine both high and low standards of care, while maintaining traceability back to the original legal text. In addition, I investigate the proposed value of legal requirements models, demonstrating the relationship between proposed value of these models to organizational decision-making and the validity of the model.
+ER  - 
+
+TY  - STD
+TI  - IEEE Standard Model Process for Addressing Ethical Concerns during System Design
+T2  - IEEE Std 7000-2021
+SP  - 1
+EP  - 82
+PY  - 2021
+KW  - IEEE Standards
+KW  - Ethics
+KW  - System analysis and design
+KW  - Stakeholders
+KW  - Engineering management
+KW  - Process control
+KW  - Operations research
+KW  - case for ethics
+KW  - concept of operations
+KW  - ethical value requirements
+KW  - ethical values elicitation
+KW  - ethically aligned design
+KW  - IEEE 7000™
+KW  - software engineering
+KW  - system engineering
+KW  - value-based requirements
+KW  - value prioritization
+DO  - 10.1109/IEEESTD.2021.9536679
+JO  - IEEE Std 7000-2021
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - IEEE Std 7000-2021
+Y1  - 15 Sept. 2021
+AB  - A set of processes by which organizations can include consideration of ethical values throughout the stages of concept exploration and development is established by this standard. Management and engineering in transparent communication with selected stakeholders for ethical values elicitation and prioritization is supported by this standard, involving traceability of ethical values through an operational concept, value propositions, and value dispositions in the system design. Processes that provide for traceability of ethical values in the concept of operations, ethical requirements, and ethical risk-based design are described in the standard. All sizes and types of organizations using their own life cycle models are relevant to this standard.
+ER  - 
+
+TY  - STD
+TI  - IEEE Approved Draft Model Process for Addressing Ethical Concerns During System Design
+T2  - IEEE P7000/D7, April 2021
+SP  - 1
+EP  - 83
+PY  - 2021
+KW  - IEEE Standards
+KW  - Ethics
+KW  - System analysis and design
+KW  - Software engineering
+KW  - Risk management
+KW  - case for ethics
+KW  - concept of operations
+KW  - ethical value requirements
+KW  - ethical values elicitation
+KW  - ethically aligned design
+KW  - IEEE 7000™
+KW  - software engineering
+KW  - system engineering
+KW  - value-based requirements
+KW  - value prioritization
+DO  - 
+JO  - IEEE P7000/D7, April 2021
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - IEEE P7000/D7, April 2021
+Y1  - 21 June 2021
+AB  - A set of processes by which organizations can include consideration of ethical values throughout the stages of concept exploration and development is established by this standard. Management and engineering in transparent communication with selected stakeholders for ethical values elicitation and prioritization is supported by this standard, involving traceability of ethical values through an operational concept, value propositions, and value dispositions in the system design. Processes that provide for traceability of ethical values in the concept of operations, ethical requirements, and ethical risk-based design are described in the standard. All sizes and types of organizations using their own life cycle models are relevant to this standard.
+ER  - 
+
+TY  - CONF
+TI  - Mine or ours: email privacy expectations, employee attitudes, and perceived work environment characteristics
+T2  - Proceedings of the 35th Annual Hawaii International Conference on System Sciences
+SP  - 2471
+EP  - 2480
+AU  - R. Agarwal
+AU  - F. Rodhain
+PY  - 2002
+KW  - Privacy
+KW  - Electronic mail
+KW  - Information technology
+KW  - Educational institutions
+KW  - Employment
+KW  - Context
+KW  - Testing
+KW  - Guidelines
+KW  - Technological innovation
+KW  - Communication system security
+DO  - 10.1109/HICSS.2002.994186
+JO  - Proceedings of the 35th Annual Hawaii International Conference on System Sciences
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - Proceedings of the 35th Annual Hawaii International Conference on System Sciences
+Y1  - 10-10 Jan. 2002
+AB  - In spite of the growing importance of ethical and privacy concerns in the information age, there is a surprising paucity of academic literature on the subject. The research reported in this paper attempts to address this gap by focusing on privacy perceptions related to email. We adopt a behavioral perspective on the use of email in that we treat email policy as an embodiment of managerial beliefs and values about the employer-employee relationship and the role of communication in the workplace. Specifically, we examine employee attitudes towards email, their perceptions and expectations regarding the privacy and ownership of email, and a variety of work environment characteristics. Drawing upon prior theoretical work in organizational behavior and the use of email in work contexts, we propose a variety of research hypotheses. Data gathered from a sample of 193 respondents which includes email users from two different national contexts with different email policies in the host organizations is used to test the hypotheses. While we do not examine the effects of a specific policy in this study, our results nonetheless have interesting implications for organizations desirous of constructing an email policy. Theoretical implications as well as guidelines for practicing managers are offered.
+ER  - 
+
+TY  - JOUR
+TI  - Maximizing business information security's educational value
+T2  - IEEE Security & Privacy
+SP  - 56
+EP  - 60
+AU  - M. R. Grimaila
+PY  - 2004
+KW  - Information security
+KW  - Business continuity
+KW  - Disaster management
+KW  - Strategic planning
+KW  - Information analysis
+KW  - Cost accounting
+KW  - Ethics
+KW  - Professional communication
+KW  - Risk management
+KW  - Continuing education
+DO  - 10.1109/MSECP.2004.1264855
+JO  - IEEE Security & Privacy
+IS  - 1
+SN  - 1558-4046
+VO  - 2
+VL  - 2
+JA  - IEEE Security & Privacy
+Y1  - Jan.-Feb. 2004
+AB  - A business information security course's goals and objectives are quite different from most traditional security courses, which focus on designing and developing new security technologies. Business information security primarily concerns the strategic, tactical, and operational management issues surrounding the planning, analysis, design, implementation, and maintenance of an organization's information security program. Core issues include asset valuation, auditing, business continuity planning, disaster recovery planning, ethics, organizational communication, policy development, project planning, risk management, security awareness education and training, and various legal issues such as liability and regulatory compliance. Because businesses can't afford to mitigate all security risks, students must learn methods to identify and justify the optimal amount of expenditures to ensure that their information assets are sufficiently protected. Students should also understand the technical components of security so they can appreciate the problems experienced by the people they manage. This paper describes my experiences in developing a business information security course that provides students the knowledge arid experience to succeed in today's competitive information-intensive corporate environment.
+ER  - 
+
+TY  - CONF
+TI  - Dynamic inter-organizational cooperation setup in Circle-of-Trust environments
+T2  - NOMS 2008 - 2008 IEEE Network Operations and Management Symposium
+SP  - 113
+EP  - 120
+AU  - L. Boursas
+AU  - V. A. Danciu
+PY  - 2008
+KW  - Security
+KW  - Identity management systems
+KW  - Environmental management
+KW  - Software packages
+KW  - Acceleration
+KW  - Authentication
+KW  - Appraisal
+KW  - Data privacy
+KW  - Online Communities/Technical Collaboration
+KW  - Certification
+DO  - 10.1109/NOMS.2008.4575124
+JO  - NOMS 2008 - 2008 IEEE Network Operations and Management Symposium
+IS  - 
+SN  - 2374-9709
+VO  - 
+VL  - 
+JA  - NOMS 2008 - 2008 IEEE Network Operations and Management Symposium
+Y1  - 7-11 April 2008
+AB  - The need for collaborative service provisioning across different providerspsila domains is being addressed by circles of trust (CoT), whose members adhere to the same policies and expose the same interfaces for collaboration. Todaypsilas CoT specifications require a high initial effort on behalf of enrolling members, thus obviating quick or even ad hoc setup of business cooperation with entities outside a CoT. We explore a procedure that complements the static aspects of the CoT by a dynamic assessment of trust levels between organizations. Its benefit lies in the shortened setup time for a business interaction, which can be achieved by automating the assessment process. The appraisement of a potential partner outside a CoT leverages existing CoT memberspsila experience. We propose algorithms suitable for calculating trust values and discuss alternative solutions to be used where reputation-based assessment within the CoT is impossible.
+ER  - 
+
+TY  - CONF
+TI  - Co-designing Employees' Data Privacy: a Technology Consultancy Company Use Case
+T2  - 2021 28th Conference of Open Innovations Association (FRUCT)
+SP  - 398
+EP  - 406
+AU  - W. Sahqani
+AU  - L. Turchet
+PY  - 2021
+KW  - Data privacy
+KW  - Sensitivity
+KW  - Conferences
+KW  - Collaboration
+KW  - Prototypes
+KW  - Companies
+KW  - Usability
+DO  - 10.23919/FRUCT50888.2021.9347593
+JO  - 2021 28th Conference of Open Innovations Association (FRUCT)
+IS  - 
+SN  - 2305-7254
+VO  - 
+VL  - 
+JA  - 2021 28th Conference of Open Innovations Association (FRUCT)
+Y1  - 27-29 Jan. 2021
+AB  - Employee data is increasingly becoming crucial for organisations to improve workflow and foresight. Furthermore, with the onset of the GDPR law, the MyData movement is pushing for human-centric personal data. This presents an opportunity not only to improve how employees can understand their data, but also have transparency and control over it. This paper investigates how a collaborative design process was used at a technology consultancy company to design a service aimed at enabling data transparency and control as well as at communicating its value. We collected qualitative data from a survey, interviews, and workshops conducted with employees. We then built a prototype and tested its usability using a questionnaire. Results showed a clear need among participants for transparency. Results also showed the effectiveness of the prototype in positively enhancing transparency and in generating a good level of usability. The adopted process also led to the formulation of data categories to improve the service's comprehensiveness. Taken together, our results highlight how the proposed model of co-creative design may aid complex transformations in large technology organisations. We provide a set of recommendations in this space and envision future directions for our study.
+ER  - 
+
+TY  - JOUR
+TI  - Security Dialogues: Building Better Relationships between Security and Business
+T2  - IEEE Security & Privacy
+SP  - 82
+EP  - 87
+AU  - D. Ashenden
+AU  - D. Lawrence
+PY  - 2016
+KW  - Computer security
+KW  - Organizational aspects
+KW  - Risk management
+KW  - Medical services
+KW  - security
+KW  - privacy
+KW  - cybersecurity
+KW  - security dialogues
+KW  - organizations
+DO  - 10.1109/MSP.2016.57
+JO  - IEEE Security & Privacy
+IS  - 3
+SN  - 1558-4046
+VO  - 14
+VL  - 14
+JA  - IEEE Security & Privacy
+Y1  - May-June 2016
+AB  - In the real world, there's often a discrepancy between an organization's mandated security processes and what actually happens. The social practice of security flourishes in the space between and around formal organizational security processes. By recognizing the value of risk management as a communication tool, security practitioners can tap opportunities to improve the security dialogue with staff.
+ER  - 
+
+TY  - CONF
+TI  - Towards a Language to Support Value Cocreation: An Extension to the ArchiMate Modeling Framework
+T2  - 2018 Federated Conference on Computer Science and Information Systems (FedCSIS)
+SP  - 751
+EP  - 760
+AU  - C. Feltus
+AU  - E. H. A. Proper
+AU  - K. Haki
+PY  - 2018
+KW  - Organizations
+KW  - Security
+KW  - Information systems
+KW  - Stakeholders
+KW  - Data privacy
+KW  - Semantics
+DO  - 
+JO  - 2018 Federated Conference on Computer Science and Information Systems (FedCSIS)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2018 Federated Conference on Computer Science and Information Systems (FedCSIS)
+Y1  - 9-12 Sept. 2018
+AB  - Value cocreation is gaining momentum as organizations' underlying business logic and encompasses tools and techniques for discovering new valuable and necessary artefacts to support inter-organizational and network-centric business activities. To cocreate value, organizations must talk to each other using a clear and easy to use language. In the course of the ValCoLa (Value Cocreation Language) proj ect, we aim at elaborating such language. To that end, in previous work, we developed a value cocreation metamodel based on three dimensions: the nature of the value, the object concerned by the value and the method to cocreate value. In this paper, we first extend ArchiMate to the domain of value cocreation to provide our metamodel with a dedicated modeling language. Second, we illustrate the language with a case study from the financial sector.
+ER  - 
+
+TY  - JOUR
+TI  - AI Loyalty: A New Paradigm for Aligning Stakeholder Interests
+T2  - IEEE Transactions on Technology and Society
+SP  - 128
+EP  - 137
+AU  - A. Aguirre
+AU  - G. Dempsey
+AU  - H. Surden
+AU  - P. B. Reiner
+PY  - 2020
+KW  - Artificial intelligence
+KW  - Ethics
+KW  - Task analysis
+KW  - Law
+KW  - Privacy
+KW  - Artificial intelligence (AI) assistant
+KW  - AI ethics
+KW  - conflict of interest
+KW  - fiduciary duty
+KW  - loyalty
+KW  - value alignment
+DO  - 10.1109/TTS.2020.3013490
+JO  - IEEE Transactions on Technology and Society
+IS  - 3
+SN  - 2637-6415
+VO  - 1
+VL  - 1
+JA  - IEEE Transactions on Technology and Society
+Y1  - Sept. 2020
+AB  - When we consult a doctor, lawyer, or financial advisor, we assume that they are acting in our best interests. But what should we assume when we interact with an artificial intelligence (AI) system? AI-driven personal assistants, such as Alexa and Siri, already serve as interfaces between consumers and information on the Web, and users routinely rely upon these and similar systems to take automated actions or provide information. Superficially, they may appear to be acting according to user interests, but many are designed with embedded conflicts of interests. To address this problem, we introduce the concept of AI loyalty. AI systems are loyal to the degree that they minimize and make transparent, conflicts of interest, and act in ways that prioritize the interests of users. Loyal AI products hold obvious appeal for the end-user and could promote the alignment of the long-term interests of AI developers and customers. To this end, we suggest criteria for assessing whether an AI system is acting in a manner that is loyal to the user, and argue that AI loyalty should be deliberately considered during the technological design process alongside other important values in AI ethics, such as fairness, accountability privacy, and equity.
+ER  - 
+
+TY  - CONF
+TI  - A new reality requiers new ecosystems
+T2  - 2015 International Conference on High Performance Computing & Simulation (HPCS)
+SP  - 665
+EP  - 666
+AU  - S. Klous
+PY  - 2015
+KW  - Big data
+KW  - Ecosystems
+KW  - Standards organizations
+KW  - Companies
+KW  - Patents
+KW  - Big Data
+KW  - Data Analytics
+KW  - Ecosystems
+KW  - Privacy
+DO  - 10.1109/HPCSim.2015.7237115
+JO  - 2015 International Conference on High Performance Computing & Simulation (HPCS)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2015 International Conference on High Performance Computing & Simulation (HPCS)
+Y1  - 20-24 July 2015
+AB  - We live in a time where borders between organizations are vanishing. A time where division equals multiplication. Where Open Source is the new alternative for a patent application. And in a time where Big Data offers new ways to add value to business and society. Such a time requires new ways of collaboration and organization of partners in the value chain. What we need is ecosystems that assure responsible application of data analysis and stimulate quality and innovation. In such a way that participants can easily plug in and out.
+ER  - 
+
+TY  - JOUR
+TI  - "Constructing a Culture of Honesty and Integrity": The Evolution of China's Han-centric Surveillance System
+T2  - IEEE Technology and Society Magazine
+SP  - 75
+EP  - 81
+AU  - A. Trauth-Goik
+PY  - 2019
+KW  - Surveillance
+KW  - Terrorism
+KW  - Government
+KW  - Cultural differences
+KW  - Ethics
+KW  - Law enforcement
+DO  - 10.1109/MTS.2019.2948444
+JO  - IEEE Technology and Society Magazine
+IS  - 4
+SN  - 1937-416X
+VO  - 38
+VL  - 38
+JA  - IEEE Technology and Society Magazine
+Y1  - Dec. 2019
+AB  - Surveillance has become the dominant organizing force of the modern era. A once isolated and limited practice, surveillance now pervades every facet of urban existence in practically all corners of the globe. Contemporary surveillance of the type facilitated by information and communication technologies embodies the logical outcome of a positivist rationality that seeks to reduce all life phenomena to calculation and quantifiable management. The quest for security, risk management, administrative efficiency, and consumer convenience continues to motivate the global expansion of surveillance and facilitates the creation of new types of technologies and regimes. However, as new global actors seek to deploy their own advanced digitized systems, attention must be focused on the unique socio-cultural background against which both overt and covert forms of surveillance are being formulated.
+ER  - 
+
+TY  - CONF
+TI  - The Impact of Physical Work Environment on The Employee Job Satisfaction in Private Office Type: The Case of Erbil City
+T2  - 2020 4th International Symposium on Multidisciplinary Studies and Innovative Technologies (ISMSIT)
+SP  - 1
+EP  - 9
+AU  - N. J. Abdulhamid
+AU  - Z. K. Majid
+PY  - 2020
+KW  - Productivity
+KW  - Privacy
+KW  - Design methodology
+KW  - Urban areas
+KW  - Employment
+KW  - Companies
+KW  - Proposals
+KW  - Office Interior Design
+KW  - Job Satisfaction
+KW  - Employees Performance
+KW  - Office arrangement
+KW  - Business Productivity
+DO  - 10.1109/ISMSIT50672.2020.9254817
+JO  - 2020 4th International Symposium on Multidisciplinary Studies and Innovative Technologies (ISMSIT)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2020 4th International Symposium on Multidisciplinary Studies and Innovative Technologies (ISMSIT)
+Y1  - 22-24 Oct. 2020
+AB  - Changing the physical work environment as an aid to public and private organizational transformation is supported by many researchers. They established the notion behind workspace suppleness via offering a modest and discreet method to workplace design. The core proposal of this research is the urge for the workplace environment to be free of clutter, which can hold the organization's capability to become accustomed and reach out rapidly to market forces. The objective of this research is to detect the physical work atmosphere factors, which are having a direct and indirect influence upon employee's job gratification and of employee performance, consequently finding the connection between them. On the other note, this research was implemented in 11 offices with 144 employees in private companies in Erbil city, Kurdistan region of Iraq. In this in-depth research, multiple physical work environment factors have been conducted whilst taking in consideration all office types. Other factors included were 1. Ambient Factors, 2. Noise and Privacy Factors and 3. Design Related Factors, each with various measures as listed in “ TABLE. IV” in the measures section. Questionnaires were pre-tested prior to pilot-exercise which included 58 questions &amp; sub-questions. The results showed the impact of those factors with the most significant P-value on the employee's job performance.
+ER  - 
+
+TY  - JOUR
+TI  - The Potential Short- and Long-Term Disruptions and Transformative Impacts of 5G and Beyond Wireless Networks: Lessons Learnt From the Development of a 5G Testbed Environment
+T2  - IEEE Access
+SP  - 11352
+EP  - 11379
+AU  - M. N. Patwary
+AU  - S. Junaid Nawaz
+AU  - M. A. Rahman
+AU  - S. K. Sharma
+AU  - M. M. Rashid
+AU  - S. J. Barnes
+PY  - 2020
+KW  - 5G mobile communication
+KW  - Biological system modeling
+KW  - Security
+KW  - Urban areas
+KW  - Licenses
+KW  - Wireless communication
+KW  - 5G
+KW  - beyond 5G
+KW  - deployment
+KW  - infrastructure
+KW  - testbed
+KW  - security
+KW  - teleco business
+DO  - 10.1109/ACCESS.2020.2964673
+JO  - IEEE Access
+IS  - 
+SN  - 2169-3536
+VO  - 8
+VL  - 8
+JA  - IEEE Access
+Y1  - 2020
+AB  - The capacity and coverage requirements for 5<sup>th</sup> generation (5G) and beyond wireless connectivity will be significantly different from the predecessor networks. To meet these requirements, the anticipated deployment cost in the United Kingdom (UK) is predicted to be between £30bn and £50bn, whereas the current annual capital expenditure (CapEX) of the mobile network operators (MNOs) is £2.5bn. This prospect has vastly impacted and has become one of the major delaying factors for building the 5G physical infrastructure, whereas other areas of 5G are progressing at their speed. Due to the expensive and complicated nature of the network infrastructure and spectrum, the second-tier operators, widely known as mobile virtual network operators (MVNO), are entirely dependent on the MNOs. In this paper, an extensive study is conducted to explore the possibilities of reducing the 5G deployment cost and developing viable business models. In this regard, the potential of infrastructure, data, and spectrum sharing is thoroughly investigated. It is established that the use of existing public infrastructure (e.g., streetlights, telephone poles, etc.) has a potential to reduce the anticipated cost by about 40% to 60%. This paper also reviews the recent Ofcom initiatives to release location-based licenses of the 5G-compatible radio spectrum. Our study suggests that simplification of infrastructure and spectrum will encourage the exponential growth of scenario-specific cellular networks (e.g., private networks, community networks, micro-operators) and will potentially disrupt the current business models of telecommunication business stakeholders - specifically MNOs and TowerCos. Furthermore, the anticipated dense device connectivity in 5G will increase the resolution of traditional and non-traditional data availability significantly. This will encourage extensive data harvesting as a business opportunity and function within small and medium-sized enterprises (SMEs) as well as large social networks. Consequently, the rise of new infrastructures and spectrum stakeholders is anticipated. This will fuel the development of a 5G data exchange ecosystem where data transactions are deemed to be high-value business commodities. The privacy and security of such data, as well as definitions of the associated revenue models and ownership, are challenging areas - and these have yet to emerge and mature fully. In this direction, this paper proposes the development of a unified data hub with layered structured privacy and security along with blockchain and encrypted off-chain based ownership/royalty tracking. Also, a data economy-oriented business model is proposed. The study found that with the potential commodification of data and data transactions along with the low-cost physical infrastructure and spectrum, the 5G network will introduce significant disruption in the Telco business ecosystem.
+ER  - 
+
+TY  - CONF
+TI  - 2 Fast 2 Secure: A Case Study of Post-Breach Security Changes
+T2  - 2019 IEEE European Symposium on Security and Privacy Workshops (EuroS&PW)
+SP  - 192
+EP  - 201
+AU  - A. Demjaha
+AU  - T. Caulfield
+AU  - M. Angela Sasse
+AU  - D. Pym
+PY  - 2019
+KW  - Companies
+KW  - Data breach
+KW  - Interviews
+KW  - Investment
+KW  - Task analysis
+KW  - data breach, post-breach security, participatory action research, humble inquiry, security culture
+DO  - 10.1109/EuroSPW.2019.00028
+JO  - 2019 IEEE European Symposium on Security and Privacy Workshops (EuroS&PW)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2019 IEEE European Symposium on Security and Privacy Workshops (EuroS&PW)
+Y1  - 17-19 June 2019
+AB  - A security breach often makes companies react by changing their attitude and approach to security within the organization. This paper presents an in-depth case study of post-breach security changes made by a company and the consequences of those changes. We employ the principles of participatory action research and humble inquiry to conduct a long-term study with employee interviews while embedded in the organization's security division. Despite an extremely high level of financial investment in security, and consistent attention and involvement from the board, the interviews indicate a significant level of friction between employees and security. In the main themes that emerged from our data analysis, a number of factors shed light on the friction: fear of another breach leading to zero risk appetite, impossible security controls making non-compliance a norm, security theatre underminining the purpose of security policies, employees often trading-off security with productivity, and as such being treated as children in detention rather than employees trying to finish their paid jobs. This paper shows that post-breach security changes can be complex and sometimes risky due to emotions often being involved. Without an approach considerate of how humans and security interact, even with high financial investment, attempts to change an organization's security behaviour may be ineffective.
+ER  - 
+
+TY  - CONF
+TI  - A New Formula of Security Risk Analysis That Takes Risk Improvement Factor into Account
+T2  - 2011 IEEE Third International Conference on Privacy, Security, Risk and Trust and 2011 IEEE Third International Conference on Social Computing
+SP  - 1243
+EP  - 1248
+AU  - H. Sato
+PY  - 2011
+KW  - Investments
+KW  - Information security
+KW  - Risk management
+KW  - Organizations
+KW  - Decision making
+KW  - security
+KW  - risk assessment
+KW  - risk formula
+KW  - security investment
+DO  - 10.1109/PASSAT/SocialCom.2011.44
+JO  - 2011 IEEE Third International Conference on Privacy, Security, Risk and Trust and 2011 IEEE Third International Conference on Social Computing
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2011 IEEE Third International Conference on Privacy, Security, Risk and Trust and 2011 IEEE Third International Conference on Social Computing
+Y1  - 9-11 Oct. 2011
+AB  - Risk analysis is the very first step for organizational information security, where a qualitative approach is a major methodology. Today, it is required that risk treatment is discussed also in terms of security investment. Considering that a security model can be represented as a set of risk formulas, we propose a new risk formula that can also rep- resent improvement factors of securitv. The resulting formula is R = e<sup>C</sup> · A<sup>αA</sup>V<sup>αV</sup>T<sup>αT</sup>, which includes the conventional multiplicative risk formula. We show how to calculate α's by using the risk reduction matrix. As an available scenario, we propose that we use the formula as a perturbation to the conventional risk formula. We show an example scenario in which by using the conventional multiplicative risk formula and a risk reduction matrix for representing the risk improving factor, a risk value is re-calculated. Security investment can also be evaluated by using our formula. Moreover, we propose that α's represent a factor of significance in decision making. Keywords: security, risk assessment, risk formula, security investment.
+ER  - 
+
+TY  - CONF
+TI  - Notice of Violation of IEEE Publication Principles: Detecting high-value individuals in covert networks: 7/7 London bombing case study
+T2  - 2008 IEEE/ACS International Conference on Computer Systems and Applications
+SP  - 206
+EP  - 215
+AU  - N. Memon
+AU  - N. Harkiolakis
+AU  - D. L. Hicks
+PY  - 2008
+DO  - 10.1109/AICCSA.2008.4493536
+JO  - 2008 IEEE/ACS International Conference on Computer Systems and Applications
+IS  - 
+SN  - 2161-5330
+VO  - 
+VL  - 
+JA  - 2008 IEEE/ACS International Conference on Computer Systems and Applications
+Y1  - 31 March-4 April 2008
+AB  - This article focuses on the study and development of recently introduced new measures, theories, mathematical models and algorithms to detect high value individuals in terrorist networks. Specific models and tools are described, and applied to a case study to demonstrate their applicability to the area. We are confident that the models described can help intelligence agencies in understanding and dealing with terrorist networks.
+ER  - 
+
+TY  - CONF
+TI  - Modeling IoT and Big Data Implementation
+T2  - 2021 International Conference on Information Management and Technology (ICIMTech)
+SP  - 645
+EP  - 650
+AU  - Jonny
+AU  - Kriswanto
+AU  - M. Toshio
+PY  - 2021
+KW  - Manufacturing industries
+KW  - Technological innovation
+KW  - Privacy
+KW  - Ethics
+KW  - Companies
+KW  - Big Data
+KW  - Data models
+KW  - IoT
+KW  - big data
+KW  - structural equation modeling
+DO  - 10.1109/ICIMTech53080.2021.9535084
+JO  - 2021 International Conference on Information Management and Technology (ICIMTech)
+IS  - 
+SN  - 
+VO  - 1
+VL  - 1
+JA  - 2021 International Conference on Information Management and Technology (ICIMTech)
+Y1  - 19-20 Aug. 2021
+AB  - As business entering industry 4.0, many emerging technologies have been evolved and utilized by many companies to promote their business performances. Several previous studies have shown lack of knowledge regarding to their implementation. From those studies, there are several factors that should be considered in the implementation including: 1) Business Process Improvement, 2) Marketing Strategies, 3) Business Management Innovation, 4) Business Models, 5) Organizational Culture, 6) Privacy and 7) Ethics. This paper is to propose a model in implementing IoT and Big Data for business performance. A survey is conducted among managers in manufacturing industry using purposive sampling with sample size of 51 managers. After conducting the survey, Smart PLS is used to observe if the developed model is accurate and robust. As expected, the Goodness of Fit (GoF) is 0.74 compared to required 0.67 and the model is said to be robust and accurate. Several findings can be gained including 1) Business Models &amp; Organizational Culture positively influence Business Process Improvement while Privacy and Ethics negatively influence it, 2) Business Process Improvement positively influences Marketing Strategies, Business Management Innovation and Business Performance, and 3) Both Marketing Strategies and Business Management Innovation positively influence Business Performance.
+ER  - 
+
+TY  - CONF
+TI  - On access control of Cloud service chains
+T2  - 17th IEEE International Multi Topic Conference 2014
+SP  - 293
+EP  - 298
+AU  - K. M. Abbasi
+AU  - I. ul Haq
+AU  - A. K. Malik
+AU  - S. Khalid
+AU  - S. Fazil
+AU  - H. Durad
+PY  - 2014
+KW  - Engines
+KW  - Access control
+KW  - Service-oriented architecture
+KW  - Supply chains
+KW  - Privacy
+KW  - Mathematical model
+KW  - Automation
+DO  - 10.1109/INMIC.2014.7097354
+JO  - 17th IEEE International Multi Topic Conference 2014
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 17th IEEE International Multi Topic Conference 2014
+Y1  - 8-10 Dec. 2014
+AB  - Service-oriented architecture may be regarded as an incubator for small resources entrepreneurs to bid and work on bigger projects. It also helps large enterprise to trade their resources at various levels. This has opened new gateways for renting out resources. Sometimes a single service is sold at different levels making the Cloud service a supply chain of added value. This supply chain which is built on the same resources but varying claims of ownership, poses novel challenges related to security, trust and privacy of data. There is still no popular system of governing body which can glue together the participating stakeholders through mutual trust and organizational policies. A governing mechanism that can preserve stakeholders' privacy issues and resolve their conflicts throughout the emerging service chains is also non-existent. In this paper we are introducing a mechanism of access control for such Cloud service chains. Building on our pevious work of SLA-based privacy model, we have discussed the realization of Role-based Access Control (RBAC) to services of federated-cloud. The main advantage of RBAC is that it provides an efficient control to resources and data access. We have also provided a preliminary analysis of this on-going research.
+ER  - 
+
+TY  - CONF
+TI  - RUP-based process model for security requirements engineering in value-added service development
+T2  - 2009 ICSE Workshop on Software Engineering for Secure Systems
+SP  - 54
+EP  - 60
+AU  - H. Belani
+AU  - Z. Car
+AU  - A. Caric
+PY  - 2009
+KW  - Protection
+KW  - Programming
+KW  - Message service
+KW  - Privacy
+KW  - Software performance
+KW  - Software maintenance
+KW  - Communication system security
+KW  - Mobile communication
+KW  - Peer to peer computing
+KW  - Telecommunication computing
+DO  - 10.1109/IWSESS.2009.5068459
+JO  - 2009 ICSE Workshop on Software Engineering for Secure Systems
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2009 ICSE Workshop on Software Engineering for Secure Systems
+Y1  - 19-19 May 2009
+AB  - Due to the spreading of SMS services and appearing of new business models, value-added SMS services have been introduced. According to the research results about wide distribution of security incidents on ICT systems worldwide, in spite of known security solutions, there is a necessity for organizational approach to implement security. This paper presents research and development efforts in building process model SecuRUP for security requirements engineering conformed to RUP framework. The model consists of processes, artifacts, activities and according roles for successful elicitation, analysis and specification of recognized security requirements and is validated on presented case study. The model validation results have shown significant process improvement, especially on roles and activities identification in SecuRUP elaboration process, but only further case studies in industry can be best indicators for usefulness of such models.
+ER  - 
+
+TY  - CONF
+TI  - Cool Hunting the Kids' Digital Playground: Datamining and the Privacy Debates in Children's Online Entertainment Sites
+T2  - Proceedings of the 38th Annual Hawaii International Conference on System Sciences
+SP  - 194a
+EP  - 194a
+AU  - G. Chung
+AU  - S. M. Grimes
+PY  - 2005
+KW  - Data privacy
+KW  - Data mining
+KW  - Internet
+KW  - Protection
+KW  - Information management
+KW  - Legislation
+KW  - Market research
+KW  - Law
+KW  - Legal factors
+KW  - Web sites
+DO  - 10.1109/HICSS.2005.168
+JO  - Proceedings of the 38th Annual Hawaii International Conference on System Sciences
+IS  - 
+SN  - 1530-1605
+VO  - 
+VL  - 
+JA  - Proceedings of the 38th Annual Hawaii International Conference on System Sciences
+Y1  - 6-6 Jan. 2005
+AB  - This paper takes up the social and theoretical implications surrounding the information management practices found within children's online entertainment sites. Although the increasing integration of information and data gathering systems is oriented towards enhancing organizational efficiency and consumer service provisions, explicating the administration of online gaming community information infrastructures reveals the threats of "digital redlining" or "weblining." Empirical data from ongoing case studies of popular children's game sites are presented to reflect on discourses of privacy, data protection and the ethical dimensions of data mining. These issues are seen as especially relevant in view of the recent implementation of national privacy legislation which apply to children's online culture. Child users are not only highly targeted by data mining and market research practices but also disadvantaged by a limited awareness of the legal and ethical implications of their online interactions with commercial spaces.
+ER  - 
+
+TY  - CONF
+TI  - Cloud Computing adoption in developing countries: A systematic literature review
+T2  - 2018 IEEE International Conference on Technology Management, Operations and Decisions (ICTMOD)
+SP  - 73
+EP  - 79
+AU  - I. M'rhaouarh
+AU  - C. Okar
+AU  - A. Namir
+AU  - N. Chafiq
+PY  - 2018
+KW  - Cloud computing
+KW  - Developing countries
+KW  - Computational modeling
+KW  - Systematics
+KW  - Standards organizations
+KW  - Companies
+KW  - Technology-Organization-Environment (TOE)
+KW  - Cloud computing
+KW  - Developing countries
+KW  - Adoption
+DO  - 10.1109/ITMC.2018.8691295
+JO  - 2018 IEEE International Conference on Technology Management, Operations and Decisions (ICTMOD)
+IS  - 
+SN  - 2159-5119
+VO  - 
+VL  - 
+JA  - 2018 IEEE International Conference on Technology Management, Operations and Decisions (ICTMOD)
+Y1  - 21-23 Nov. 2018
+AB  - Purpose: The Cloud computing has been defined as a new evolution in the domain of information technology (IT). With this progress comes a huge potential which governments and organizations in the developed world are already used with the view to enhance performance and service delivery. This paper depends on Technology-Organization-Environment (TOE) frame-work to review the cloud computing adoption in developing countries. Methodology: We conducted a systematic review according to guidelines Kitchenham to elaborate the review methodology in detail and identify documents that reported on cloud computing adoption in developing countries. In particular, several databases were systematically searched, and the reference list of relevant forty studies were screened and ultimately were involved in this review. Findings: The findings of the study reveal that security concern, privacy and data loss were the technology, organization and environment factors found to be significant in cloud computing adoption in a developing country context and there are also some advantages that encourage the adoption of this paradigm in these countries. Originality/value: A systematic framework of cloud computing adoption in developing countries will be essential to accelerate the use of this technology in these countries for working well in fact.
+ER  - 
+
+TY  - CONF
+TI  - A collaborative distributed privacy-sensitive decision support system for monitoring heterogeneous data sources
+T2  - Proceedings of the 2005 International Symposium on Collaborative Technologies and Systems, 2005.
+SP  - 380
+EP  - 387
+AU  - H. Kargupta
+AU  - K. Sarkar
+AU  - Dipti Aswath
+AU  - W. D. Handy
+PY  - 2005
+KW  - Collaboration
+KW  - Decision support systems
+KW  - Monitoring
+KW  - Collaborative software
+KW  - Disaster management
+KW  - Humans
+KW  - Software agents
+KW  - Environmental management
+KW  - Asset management
+KW  - Data mining
+DO  - 10.1109/ISCST.2005.1553338
+JO  - Proceedings of the 2005 International Symposium on Collaborative Technologies and Systems, 2005.
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - Proceedings of the 2005 International Symposium on Collaborative Technologies and Systems, 2005.
+Y1  - 20-20 May 2005
+AB  - This paper introduces MCDS, a multi-organizational collaborative decision support system that makes an effort to support seamless integration of humans and software agents for collaborative emergency preparedness and threat management in a distributed multi-party environment with heterogeneous social and organizational cultures. MCDS offers mechanisms for systematic detection, tracking, and management of emerging threat-structures in the context of the existing assets, algorithms for mining distributed multi-party data in a privacy-sensitive manner, archival and retrieval of case histories, and relevance feedback-based personalization. The paper provides an overview of a few modules and describes two ongoing applications of this collaborative problem solving technology
+ER  - 
+
+TY  - CONF
+TI  - Practical Data Compliance for Cloud Storage
+T2  - 2017 IEEE International Conference on Cloud Engineering (IC2E)
+SP  - 252
+EP  - 258
+AU  - M. Henze
+AU  - R. Matzutt
+AU  - J. Hiller
+AU  - E. Mühmer
+AU  - J. H. Ziegeldorf
+AU  - J. Van Der Giet
+AU  - K. Wehrle
+PY  - 2017
+KW  - Cloud computing
+KW  - Relays
+KW  - Data handling
+KW  - Standards
+KW  - Organizations
+KW  - Law
+KW  - Load management
+KW  - cloud storage
+KW  - privacy
+KW  - data handling requirements
+KW  - compliance
+DO  - 10.1109/IC2E.2017.32
+JO  - 2017 IEEE International Conference on Cloud Engineering (IC2E)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2017 IEEE International Conference on Cloud Engineering (IC2E)
+Y1  - 4-7 April 2017
+AB  - Despite their increasing proliferation and technical variety, existing cloud storage technologies by design lack support for enforcing compliance with regulatory, organizational, or contractual data handling requirements. However, with legislation responding to rising privacy concerns, this becomes a crucial technical capability for cloud storage systems. In this paper, we introduce PRADA, a practical approach to enforce data compliance in key-value based cloud storage systems. To this end, PRADA introduces a transparent data handling layer which enables clients to specify data handling requirements and provides operators with the technical means to adhere to them. The evaluation of our prototype shows that the modest overheads for supporting data handling requirements in cloud storage systems are practical for real-world deployments.
+ER  - 
+
+TY  - CONF
+TI  - Factors influencing cloud technology adoption in Australian organisations
+T2  - 2017 2nd International Conference on Information Technology (INCIT)
+SP  - 1
+EP  - 6
+AU  - L. N. P. Balaaooriya
+AU  - S. Wibowo
+AU  - M. Wells
+PY  - 2017
+KW  - Cloud computing
+KW  - Security
+KW  - Information technology
+KW  - Data privacy
+KW  - Australia
+KW  - Atmospheric measurements
+KW  - Particle measurements
+KW  - Cloud technology
+KW  - motivation
+KW  - Cloud adoption
+KW  - culture
+KW  - collaboration
+DO  - 10.1109/INCIT.2017.8257858
+JO  - 2017 2nd International Conference on Information Technology (INCIT)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2017 2nd International Conference on Information Technology (INCIT)
+Y1  - 2-3 Nov. 2017
+AB  - The purpose of this paper is to investigate the relevant factors including security, perceived usefulness, and perceived ease of use affect employee's behavioral and adoption intentions of Cloud technology in organisations. This study was carried out using the quantitative research methodology based on a survey distributed to information technology (IT) professionals in Australia. The survey questionnaire was developed based 6 hypotheses and 13 indicator variables. Around 220 valid responses were received and analyzed by adopting a two-tier approach consisting of (1) confirmatory factor analysis to confirm the reliability and validity of the latent variables, and (2) analysis of the structural model to confirm or reject the hypothesis. The finding of this study indicates that the hypotheses that have been developed are valid and can be adopted in an organisation. This study has found that cyber attacks and Cloud reliability factors are insignificant and have no affects in the Cloud adoption. Furthermore, this study suggests that approximately 37 % of other factors which are not covered in this study need to be considered during its adoption.
+ER  - 
+
+TY  - CONF
+TI  - Security Solutions for Big Data Analytics in Healthcare
+T2  - 2015 Second International Conference on Advances in Computing and Communication Engineering
+SP  - 510
+EP  - 514
+AU  - S. Rao
+AU  - S. N. Suma
+AU  - M. Sunitha
+PY  - 2015
+KW  - Big data
+KW  - Medical services
+KW  - Security
+KW  - Databases
+KW  - Data privacy
+KW  - Business
+KW  - Data models
+KW  - Big Databases
+KW  - Jujutsu Security
+KW  - Healthcare Analytics
+KW  - Encryption
+KW  - Masking
+KW  - De-Identification
+DO  - 10.1109/ICACCE.2015.83
+JO  - 2015 Second International Conference on Advances in Computing and Communication Engineering
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2015 Second International Conference on Advances in Computing and Communication Engineering
+Y1  - 1-2 May 2015
+AB  - Today data is a strategic asset and organizational goal is to maximize the value of their information. A growing number of companies are using technology to store and analyze petabytes of data including web logs, click stream data and social media content to gain better insights about their customers and their business. Big Data analytics provides enormous competitive advantage for corporations, helping the businesses, tailor their products to consumer needs. Big data in healthcare refers to electronic health data sets that are related to patient healthcare and well-being. In healthcare sector the privacy and security issues of big data are a major concern as data is bound by international regulations like the Health Insurance Portability and Accountability Act (HIPAA), The Health Information Technology for Economic and Clinical Health (HITECH), HCSC, FTC (Federal Trade Commission) etc. In Hospital Information System the applications/modules that are impacted by big data are genomics, pharmacovigilance, patient care etc. The aim of this paper is to present various viable security solutions to harness the potential of big data pertaining to healthcare in a highly regulated environment.
+ER  - 
+
+TY  - CONF
+TI  - Meeting intensity as an indicator for project pressure: Exploring meeting profiles
+T2  - 2013 6th International Workshop on Cooperative and Human Aspects of Software Engineering (CHASE)
+SP  - 153
+EP  - 156
+AU  - O. Liskin
+AU  - K. Schneider
+AU  - S. Kiesling
+AU  - S. Kauffeld
+PY  - 2013
+KW  - Software
+KW  - Collaboration
+KW  - Logic gates
+KW  - Software engineering
+KW  - Calendars
+KW  - Electronic mail
+KW  - Programming
+KW  - team communication
+KW  - meeting culture
+KW  - software development
+DO  - 10.1109/CHASE.2013.6614754
+JO  - 2013 6th International Workshop on Cooperative and Human Aspects of Software Engineering (CHASE)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2013 6th International Workshop on Cooperative and Human Aspects of Software Engineering (CHASE)
+Y1  - 25-25 May 2013
+AB  - Meetings are hot spots of communication and collaboration in software development teams. Both distributed and co-located teams need to meet for coordination, communication, and collaboration. It is difficult to assess the quality of these three crucial aspects, or the social effectiveness and impact of a meeting: Personalities, psychological and professional aspects interact. It is, therefore, challenging to identify emerging communication problems or to improve collaboration by studying a wealth of interrelated details of project meetings. However, it is relatively easy to count meetings, and to measure when and how long they took place. This is objective information, does not violate privacy of participants, and the data might even be retrieved from project calendars automatically. In an exploratory study, we observed 14 student teams working on comparable four-month projects. Among many other aspects, we counted and measured meetings. In this contribution, we compare the meeting profiles qualitatively, and derive a number of hypotheses relevant for software projects.
+ER  - 
+
+TY  - CONF
+TI  - Correlating Risk Findings to Quantify Risk
+T2  - 2012 International Conference on Privacy, Security, Risk and Trust and 2012 International Confernece on Social Computing
+SP  - 752
+EP  - 759
+AU  - A. Sanders
+AU  - T. Sun
+AU  - Y. Pan
+AU  - B. Yuan
+PY  - 2012
+KW  - Servers
+KW  - Correlation
+KW  - Organizations
+KW  - Measurement
+KW  - Databases
+KW  - Risk management
+KW  - information security
+KW  - risk analysis
+KW  - correlation
+DO  - 10.1109/SocialCom-PASSAT.2012.95
+JO  - 2012 International Conference on Privacy, Security, Risk and Trust and 2012 International Confernece on Social Computing
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2012 International Conference on Privacy, Security, Risk and Trust and 2012 International Confernece on Social Computing
+Y1  - 3-5 Sept. 2012
+AB  - Research in quantitative Information Technology (IT) risk analysis has increased in the past decade, but much of that research has focused on creating new approaches that replace existing ones. Since organizations have extensive sunk costs invested in their risk management programs, there exists a need to extend and improve existing approaches. Additionally, many quantitative approaches are difficult to implement without mathematical expertise or specialized tools, focus on quantifying individual vulnerabilities, provide little insight into underlying process gaps affecting IT risk and do not facilitate including environmental factors in risk ratings. Our research focuses on identifying attributes or characteristics of risk that are missing from existing approaches, and quantifying their relevance using statistical analysis techniques. We seek to identify and quantify attributes that further close the gap between enumerating IT risks and understanding the actual risk they present. In this paper we identify the relationship between risk findings as a key attribute, and demonstrate using correlation to quantify the relationship. Correlation analysis enables organizations to uncover process gaps, and situations where default risk ratings may not be sufficient. In this paper, we discuss the benefits of correlating risk findings and demonstrate value and feasibility through an empirical case study.
+ER  - 
+
+TY  - JOUR
+TI  - Electronic Regulation of Data Sharing and Processing Using Smart Ledger Technologies for Supply-Chain Security
+T2  - IEEE Transactions on Engineering Management
+SP  - 1059
+EP  - 1073
+AU  - G. Epiphaniou
+AU  - P. Pillai
+AU  - M. Bottarelli
+AU  - H. Al-Khateeb
+AU  - M. Hammoudesh
+AU  - C. Maple
+PY  - 2020
+KW  - Distributed databases
+KW  - Security
+KW  - Distributed ledger
+KW  - Manufacturing
+KW  - Biological system modeling
+KW  - Smart contracts
+KW  - Blockchain
+KW  - docker
+KW  - hyperledger
+KW  - smart contracts
+KW  - supply chain
+DO  - 10.1109/TEM.2020.2965991
+JO  - IEEE Transactions on Engineering Management
+IS  - 4
+SN  - 1558-0040
+VO  - 67
+VL  - 67
+JA  - IEEE Transactions on Engineering Management
+Y1  - Nov. 2020
+AB  - Traditional centralized data storage and processing solutions manifest limitations with regards to overall operational cost and the security and auditability of data. One of the biggest issues with existing solutions is the difficulty of keeping track of who has had access to the data and how the data may have changed over its lifetime; while providing a secure and easy-to-use mechanism to share the data between different users. The ability to electronically regulate data sharing within and across different organizational entities in the supply chain (SC) is an open issue that is only addressed partially by existing legal and regulatory compliance frameworks. In this article, we present Cydon, a decentralized data management platform that executes bespoke distributed applications utilizing a novel search and retrieve algorithm leveraging metadata attributes. Cydon utilizes a smart distributed ledger to offer an immutable audit trail and transaction history for all different levels of data access and modification within a SC and for all data flows within the environment. Results suggest that Cydon provides authorized and fast access to secure distributed data, avoids single points of failure by securely distributing encrypted data across different nodes while maintains an “always-on” chain of custody.
+ER  - 
+
+TY  - JOUR
+TI  - Driving Data Dissemination: The "Term" Governing Connected Car Information
+T2  - IEEE Intelligent Transportation Systems Magazine
+SP  - 20
+EP  - 30
+AU  - D. Suo
+AU  - J. Siegel
+AU  - A. Soley
+PY  - 2021
+KW  - Companies
+KW  - Connected vehicles
+KW  - Licenses
+KW  - Automotive engineering
+KW  - Optimized production technology
+KW  - Monitoring
+KW  - Automobiles
+DO  - 10.1109/MITS.2020.3037315
+JO  - IEEE Intelligent Transportation Systems Magazine
+IS  - 1
+SN  - 1941-1197
+VO  - 13
+VL  - 13
+JA  - IEEE Intelligent Transportation Systems Magazine
+Y1  - Spring 2021
+AB  - As automotive data increase in scale and value, it is important to understand who owns and has the ability to access information generated by connected vehicles. The plummeting costs of sensing, connectivity, and storage mean that original equipment manufacturers (OEMs), their suppliers, and end users have access to more realtime data than ever [1]. Data collection is complicated by the public?s perception that data are kept locally to the vehicle, as opposed to being sent to the connected car service. We have seen in other industries how confusion about terms of service can lead to large and potentially harmful misunderstanding. This article explores the complexi ties of automotive data ownership, privacy, accessibility, and stewardship by comparing and contrasting automotive terms of service ("Terms"), agreements critical to an emerging US$11.6-$92.6 billion market, from multiple stakeholders? perspectives [2]. In the comparison, we aim to highlight the strengths, weaknesses, and opportunities that may prevent connected-vehicle services from suffering the same pitfalls as related industries. Our discussion is highlighted in a matrix comparing and contrasting information ownership, access, and control Terms for customers, OEMs, their subsidiaries, partners, affiliates in the U.S. market, and regulatory agencies. The results are useful for service designers, end users, and regulators to evaluate Terms for differing and often competing interests and constraints.
+ER  - 
+
+TY  - CONF
+TI  - Social Media and Ubiquitous Technologies for Remote Worker Wellbeing and Productivity in a Post-Pandemic World
+T2  - 2020 IEEE Second International Conference on Cognitive Machine Intelligence (CogMI)
+SP  - 121
+EP  - 130
+AU  - V. Das Swain
+AU  - K. Saha
+AU  - G. D. Abowd
+AU  - M. De Choudhury
+PY  - 2020
+KW  - Pandemics
+KW  - Employment
+KW  - COVID-19
+KW  - Task analysis
+KW  - Social networking (online)
+KW  - Social factors
+KW  - Human factors
+KW  - COVID-19
+KW  - future of work
+KW  - remote work
+KW  - social media
+KW  - worker wellbeing
+KW  - personnel management
+KW  - routine
+KW  - persona
+KW  - role
+KW  - culture
+KW  - LinkedIn
+KW  - Bluetooth
+KW  - passive sensing
+DO  - 10.1109/CogMI50398.2020.00025
+JO  - 2020 IEEE Second International Conference on Cognitive Machine Intelligence (CogMI)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2020 IEEE Second International Conference on Cognitive Machine Intelligence (CogMI)
+Y1  - 28-31 Oct. 2020
+AB  - In light of the ongoing COVID-19 pandemic, remote work styles have become the norm. However, these work settings introduce new intricacies in worker behaviors. The overlap between work and home can disrupt performance. The lack of social interaction can affect motivation. This elicits a need to implement novel methods to evaluate and enhance remote worker functioning. The potential to unobtrusively and automatically assess such workers can be fulfilled by social media and ubiquitous technologies. This paper situates recent research in the new context by extending our insights for increased remote interaction and online presence. We present implications for proactive assessment of remote workers by understanding day-level activities, coordination, role awareness, and organizational culture. Additionally, we discuss the ethics of privacy-preserving deployment, employer surveillance, and digital inequity. This paper aims to inspire pervasive technologies for the new future of work.
+ER  - 
+
+TY  - CONF
+TI  - Cloud Computing Adoption by Higher Education Institutions in Saudi Arabia: Analysis Based on TOE
+T2  - 2015 International Conference on Cloud Computing (ICCC)
+SP  - 1
+EP  - 8
+AU  - A. Tashkandi
+AU  - I. Al-Jabri
+PY  - 2015
+KW  - Cloud computing
+KW  - Education
+KW  - Computational modeling
+KW  - Organizations
+KW  - Technological innovation
+KW  - Context
+KW  - Complexity theory
+DO  - 10.1109/CLOUDCOMP.2015.7149634
+JO  - 2015 International Conference on Cloud Computing (ICCC)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2015 International Conference on Cloud Computing (ICCC)
+Y1  - 26-29 April 2015
+AB  - (1) Background, Motivation and Objective: Academic study of Cloud Computing within Saudi Arabia is an emerging research field. Saudi Arabia represents the largest economy in the Arabian Gulf region. This positions it as a potential market of cloud computing technologies. Adoption of new innovations should be preceded by analysis of the added value, challenges and adequacy from technological, organizational and environmental perspectives. (2) Statement of Contribution/Method: This cross-sectional exploratory empirical research is based on Technology, Organization and Environment model targeting higher education institutions. In this study, the factors that influence the adoption by higher education institutions were analyzed and tested using Partial Least Square. (3) Results, Discussion and Conclusions: Three factors were found significant in this context. Relative Advantage, Data Privacy and Complexity are the most significant factors. The model explained 43% of the total adoption measure variation. Significant differences in the areas of cloud computing compatibility, complexity, vendor lock-in and peer pressure between large and small institutions were revealed. Items for future cloud computing research were explored through open-ended questions. Adoption of cloud services by higher education institutions has been started. It was found that the adoption rate among large universities is higher than small higher education institutions. Improving the network and Internet Infrastructure in Saudi Arabia at an affordable cost is a pre-requisite for cloud computing adoption. Cloud service provider should address the privacy and complexity concerns raised by non-adopters. Future information systems that are potential for hosting in cloud were prioritized.
+ER  - 
+
+TY  - CONF
+TI  - Leveraging big data technology for small and medium-sized enterprises (SMEs)
+T2  - 2016 6th International Conference on Computer and Knowledge Engineering (ICCKE)
+SP  - 1
+EP  - 6
+AU  - R. S. Kalan
+AU  - M. O. Ünalir
+PY  - 2016
+KW  - Organizations
+KW  - Parallel processing
+KW  - Computer architecture
+KW  - Security
+KW  - Privacy
+KW  - big data
+KW  - data analytic
+KW  - data quality
+KW  - SMEs
+KW  - business intelligence
+KW  - cloud computing
+DO  - 10.1109/ICCKE.2016.7802106
+JO  - 2016 6th International Conference on Computer and Knowledge Engineering (ICCKE)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2016 6th International Conference on Computer and Knowledge Engineering (ICCKE)
+Y1  - 20-20 Oct. 2016
+AB  - Wisdom aligns with technology is the key factor for sustainable business development. By increasing amount of public and private data, organizations need to find new solutions to manage data and information which lead to knowledge, better decision making, and value. In the big data-bang, smart organization surfing on-line technology and start planning big data strategy. However, many organizations do not yet have a big data strategy. A challenge facing SMEs is that they may not have the same capacity as large companies to analysis new data sets. Also, traditional data processing tools are not capable for SMEs decision making because of volume, velocity and variety if data. For address this problem we need new leveraging technology, tools and talent. SMEs which have risen to leveraging the value of big data are using advantage of cloud computing and open-source software to realize various goals. The main goal of this investment is about value as a new concept in a big data era. In this study, we focus on emerging trends and future requirement: technology and tools for SMEs.
+ER  - 
+
+TY  - CONF
+TI  - Trust Model for Virtual Organizations
+T2  - 2011 13th International Symposium on Symbolic and Numeric Algorithms for Scientific Computing
+SP  - 357
+EP  - 364
+AU  - S. Neata
+AU  - A. Urzica
+AU  - A. M. Florea
+PY  - 2011
+KW  - Organizations
+KW  - Adaptation models
+KW  - Mathematical model
+KW  - Standards organizations
+KW  - Educational institutions
+KW  - Equations
+KW  - Databases
+KW  - trust
+KW  - simulation
+KW  - personnel management flow
+DO  - 10.1109/SYNASC.2011.40
+JO  - 2011 13th International Symposium on Symbolic and Numeric Algorithms for Scientific Computing
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2011 13th International Symposium on Symbolic and Numeric Algorithms for Scientific Computing
+Y1  - 26-29 Sept. 2011
+AB  - In human society, trust plays an important role -- it is the main factor behind most decisions. Within an organization, both real and virtual, a series of decisions on personnel management flow are made. The paper proposes a trust model of agents in a virtual organization, which can be used to decide whether it is better to start, continue, or stop working with the evaluated agent. The trust factor of an agent is summarized as a unique value based on a function which properly aggregates the agent's characteristics and the available information on agent's performance. The proposed model has the advantage of assuring simple calculations and providing an overview of the evaluated agent's performance.
+ER  - 
+
+TY  - CONF
+TI  - Virtual Networks and Ethics: An Empirical Research in a Non-Governmental Organization
+T2  - 2009 42nd Hawaii International Conference on System Sciences
+SP  - 1
+EP  - 9
+AU  - A. Vaccaro
+AU  - P. Madsen
+PY  - 2009
+KW  - Ethics
+KW  - Business
+KW  - Privacy
+KW  - Communications technology
+KW  - Companies
+KW  - Intelligent networks
+KW  - Conference management
+KW  - Technology management
+KW  - IP networks
+KW  - Blogs
+DO  - 10.1109/HICSS.2009.501
+JO  - 2009 42nd Hawaii International Conference on System Sciences
+IS  - 
+SN  - 1530-1605
+VO  - 
+VL  - 
+JA  - 2009 42nd Hawaii International Conference on System Sciences
+Y1  - 5-8 Jan. 2009
+AB  - This paper analyzes the opportunities offered by information and communication technologies (ICTs) and the related ethical issues they raise within the transparency practices of non-governmental organizations (NGOs). Based upon a one-year study of a European NGO, the Italian Association of Blind People, it presents compelling empirical evidence concerning the main ethical, social and economic challenges that NGOs face in the development of more transparent relationships with the public and the related role that is played by ICTs. In particular, this study shows that, although attempting to be extremely transparent is held as an important ethical value, ICT-enabled information disclosure is limited by privacy and security concerns and by the pressure of financial supporters and benefactors and potential NGO competitors who vie for grants and donations. Finally, this paper presents implications and suggestions for managers of NGOs and policy makers.
+ER  - 
+
+TY  - CONF
+TI  - Exploring Staff Perception of InfoSec Policy Compliance: Palestine Universities Empirical Study
+T2  - 2019 First International Conference of Intelligent Computing and Engineering (ICOICE)
+SP  - 1
+EP  - 9
+AU  - Y. M. Iriqat
+AU  - A. R. Ahlan
+AU  - N. N. Abdul Molok
+AU  - N. H. Abd Rahim
+PY  - 2019
+KW  - Information security
+KW  - Privacy
+KW  - Appraisal
+KW  - Communications technology
+KW  - Information technology
+KW  - Information Security Policies
+KW  - InfoSec Policies Compliance
+KW  - SETA
+KW  - Policy-Focused Area
+DO  - 10.1109/ICOICE48418.2019.9035133
+JO  - 2019 First International Conference of Intelligent Computing and Engineering (ICOICE)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2019 First International Conference of Intelligent Computing and Engineering (ICOICE)
+Y1  - 15-16 Dec. 2019
+AB  - There is worldwide recognition of the problems associated with insider threats, intentional and unintentional; One of the significant issues in mitigating InfoSec risks is Staff compliance intention of InfoSec policies (ISP`s). The study purpose seeks to understand and explore Staff compliance intention of ISP's based on how Staff perceive several factors adopted from multi-theories from ISP's research. Such as Sanction from General Deterrence Theory, Rewards as extrinsic motivation, Coping Appraisal from Protection Motivation Theory, and, Information Reinforcement that constitute the theoretical model. In the context of Palestine universities, the research Model first part constitutes the understanding of Staff awareness of ISP's based on four selected Policy-Focused Areas (PFA) from SANS 2014. Moreover, to assess this knowledge to reflect on the multi-theory perception factors effects on Staff compliance intention. Furthermore, to investigated Staff SETA to assess how universities value their Staff knowledge on ISP's. The research Methodology explores the problem empirically using descriptive analysis research design such as summaries and regression analysis. The study has 600 datasets collected from six universities by the developed research quantitative instrument. The findings show that Staff value the importance of the model factors in promoting Staff compliance intention. Staff have some awareness of PFA's and SETA needs extra attention. The Practical implications for creating ISP compliance among university Staff by drawing on their perception of factors adopted from multi-theories. Consequently, as for the organisation, effective SETA programs to sustain the effort of Staff compliance intention of ISP's. Meanwhile, this study seeks to assert that ISP's compliance is the responsibility of all academic and administrative Staff from all department and as a paradigm for other employees. The research covers ISP perception among Palestine Staff, and the expected outcome includes - a novel theoretical contribution model with six significantly contributing factors. Also, PFA in the context of Palestine contributes as a methodological contribution and Staff SETA as practical research contribution.
+ER  - 
+
+TY  - CONF
+TI  - Big Data and Supply Chains Strategy in the 21st Century: insights from the field
+T2  - 2020 16th Dahe Fortune China Forum and Chinese High-educational Management Annual Academic Conference (DFHMC)
+SP  - 91
+EP  - 96
+AU  - Z. Changyi
+PY  - 2020
+KW  - Industries
+KW  - Privacy
+KW  - Supply chain management
+KW  - Law
+KW  - Supply chains
+KW  - Companies
+KW  - Tools
+KW  - Supply chain management
+KW  - strategy
+KW  - big data
+KW  - business digitalization
+DO  - 10.1109/DFHMC52214.2020.00026
+JO  - 2020 16th Dahe Fortune China Forum and Chinese High-educational Management Annual Academic Conference (DFHMC)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2020 16th Dahe Fortune China Forum and Chinese High-educational Management Annual Academic Conference (DFHMC)
+Y1  - 4-6 Dec. 2020
+AB  - This study focuses on big data application in supply chain management, which added value orientation, offer new a guideline and operational strategy for existing supply chain practitioner and related manager. A survey was conducted among employees of multinational companies across French, China and Switzerland, and in qualitative methods by focus groups and interview to explore the feasibility and sincerity of the application of big data, discuss the situation in digitalization of supply chain of strategy in practical business. The study also examines the ways in which research in digitalization of supply chain business and related fields differ effect when responding to and managing. The study expands grounds theory the applicability of information the digital supply chain strategy from academic research to commercial application. The results show that the adoption of big data technology can create considerable value-added and monetary gain for firms and will soon become a standard throughout the industry. due to the cost of learning and some non-negligible risks, it is currently more effective for middle and senior practitioners. It can be an inefficient business strategy for basic practitioners.
+ER  - 
+
+TY  - CONF
+TI  - Factors Affecting an Organisation's Decision to Adopt Cloud Services in Saudi Arabia
+T2  - 2015 3rd International Conference on Future Internet of Things and Cloud
+SP  - 553
+EP  - 557
+AU  - N. Alkhater
+AU  - G. Wills
+AU  - R. Walters
+PY  - 2015
+KW  - Computational modeling
+KW  - Security
+KW  - Complexity theory
+KW  - Software as a service
+KW  - Reliability
+KW  - Platform as a service
+KW  - cloud computing
+KW  - adoption
+KW  - influential factors
+KW  - Saudi Arabia
+DO  - 10.1109/FiCloud.2015.16
+JO  - 2015 3rd International Conference on Future Internet of Things and Cloud
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2015 3rd International Conference on Future Internet of Things and Cloud
+Y1  - 24-26 Aug. 2015
+AB  - The adoption of cloud technology in Saudi Arabia is still in its early stages and shifting the current set-up to the cloud is not a simple task. This study aims to investigate the factors that might affect a Saudi Arabian organisation's decision to employ cloud services. In this paper we propose an integrated model that identifies the key factors that might impact on an enterprise's intention to adopt cloud technology. In order to assess the proposed model for cloud adoption, quantitative research methods were used in this study. The results of the survey reveal that only 16 factors affect cloud computing adoption. These factors are: availability, reliability, security, privacy, trust, relative advantage, compatibility, trial ability, top management support, organisation size, technological readiness, compliance with regulations, physical location, external support, industry, and culture.
+ER  - 
+
+TY  - JOUR
+TI  - Complying with Data Handling Requirements in Cloud Storage Systems
+T2  - IEEE Transactions on Cloud Computing
+SP  - 1
+EP  - 1
+AU  - M. Henze
+AU  - R. Matzutt
+AU  - J. Hiller
+AU  - E. M?hmer
+AU  - J. H. Ziegeldorf
+AU  - J. van der Giet
+AU  - K. Wehrle
+PY  - 2020
+KW  - Cloud computing
+KW  - Data handling
+KW  - Legislation
+KW  - Distributed databases
+KW  - Law
+KW  - Data protection
+KW  - cloud computing
+KW  - data handling
+KW  - compliance
+KW  - distributed databases
+KW  - privacy
+KW  - public policy issues
+DO  - 10.1109/TCC.2020.3000336
+JO  - IEEE Transactions on Cloud Computing
+IS  - 
+SN  - 2168-7161
+VO  - 
+VL  - 
+JA  - IEEE Transactions on Cloud Computing
+Y1  - 
+AB  - In past years, cloud storage systems saw an enormous rise in usage. However, despite their popularity and importance as underlying infrastructure for more complex cloud services, today's cloud storage systems do not account for compliance with regulatory, organizational, or contractual data handling requirements by design. Since legislation increasingly responds to rising data protection and privacy concerns, complying with data handling requirements becomes a crucial property for cloud storage systems. We present PRADA, a practical approach to account for compliance with data handling requirements in key-value based cloud storage systems. To achieve this goal, PRADA introduces a transparent data handling layer, which empowers clients to request specific data handling requirements and enables operators of cloud storage systems to comply with them. We implement PRADA on top of the distributed database Cassandra and show in our evaluation that complying with data handling requirements in cloud storage systems is practical in real-world cloud deployments as used for microblogging, data sharing in the Internet of Things, and distributed email storage.
+ER  - 
+
+TY  - JOUR
+TI  - New Methods for Stress Assessment and Monitoring at the Workplace
+T2  - IEEE Transactions on Affective Computing
+SP  - 237
+EP  - 254
+AU  - D. Carneiro
+AU  - P. Novais
+AU  - J. C. Augusto
+AU  - N. Payne
+PY  - 2019
+KW  - Stress
+KW  - Monitoring
+KW  - Ambient intelligence
+KW  - Biomedical monitoring
+KW  - Employment
+KW  - Temperature sensors
+KW  - Stress
+KW  - human-computer interaction
+KW  - survey
+KW  - ambient intelligence
+DO  - 10.1109/TAFFC.2017.2699633
+JO  - IEEE Transactions on Affective Computing
+IS  - 2
+SN  - 1949-3045
+VO  - 10
+VL  - 10
+JA  - IEEE Transactions on Affective Computing
+Y1  - 1 April-June 2019
+AB  - The topic of stress is nowadays a very important one, not only in research but on social life in general. People are increasingly aware of this problem and its consequences at several levels: health, social life, work, quality of life, etc. This resulted in a significant increase in the search for devices and applications to measure and manage stress in real-time. Recent technological and scientific evolution fosters this interest with the development of new methods and approaches. In this paper we survey these new methods for stress assessment, focusing especially on those that are suited for the workplace: one of today's major sources of stress. We contrast them with more traditional methods and compare them between themselves, evaluating nine characteristics. Given the diversity of methods that exist nowadays, this work facilitates the stakeholders' decision towards which one to use, based on how much their organization values aspects such as privacy, accuracy, cost-effectiveness or intrusiveness.
+ER  - 
+
+TY  - CONF
+TI  - Discarded hard disks — A treasure trove for cybercriminals: A case study of recovered sensitive data from a discarded hard disk
+T2  - 2015 First International Conference on Anti-Cybercrime (ICACC)
+SP  - 1
+EP  - 6
+AU  - S. Zafar
+AU  - M. B. Tiwana
+PY  - 2015
+KW  - Malware
+KW  - Media
+KW  - Hard disks
+KW  - Electronic mail
+KW  - Organizations
+KW  - Software
+KW  - Digital Forensics
+KW  - Spear-phishing
+KW  - Cybercrime
+KW  - Advanced Persistent Threat
+KW  - Social Network Analysis
+KW  - Data Recovery
+KW  - Security and Privacy Awareness
+DO  - 10.1109/Anti-Cybercrime.2015.7351956
+JO  - 2015 First International Conference on Anti-Cybercrime (ICACC)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2015 First International Conference on Anti-Cybercrime (ICACC)
+Y1  - 10-12 Nov. 2015
+AB  - The modern malware poses serious security threats because of its evolved capability of using staged and persistent attack while remaining undetected over a long period of time to perform a number of malicious activities. The challenge for malicious actors is to gain initial control of the victim's machine by bypassing all the security controls. The most favored bait often used by attackers is to deceive users through a trusting or interesting email containing a malicious attachment or a malicious link. To make the email credible and interesting the cybercriminals often perform reconnaissance activities to find background information on the potential target. To this end, the value of information found on the discarded or stolen storage devices is often underestimated or ignored. In this paper, we present the partial results of analysis of one such hard disk that was purchased from the open market. The data found on the disk contained highly sensitive personal and organizational data. The results from the case study will be useful in not only understanding the involved risk but also creating awareness of related threats.
+ER  - 
+
+TY  - JOUR
+TI  - A First Public Research Collection of High-Resolution Latent Fingerprint Time Series for Short- and Long-Term Print Age Estimation
+T2  - IEEE Transactions on Information Forensics and Security
+SP  - 2276
+EP  - 2291
+AU  - R. Merkel
+AU  - J. Dittmann
+AU  - C. Vielhauer
+PY  - 2017
+KW  - Estimation
+KW  - Time series analysis
+KW  - Aging
+KW  - Fingerprint recognition
+KW  - Forensics
+KW  - Sensors
+KW  - Data privacy
+KW  - Latent fingerprints
+KW  - public research collection
+KW  - age estimation
+KW  - digitized forensics
+KW  - computer forensics
+KW  - fingerprint processing pipeline
+KW  - baseline performance
+DO  - 10.1109/TIFS.2017.2705622
+JO  - IEEE Transactions on Information Forensics and Security
+IS  - 10
+SN  - 1556-6021
+VO  - 12
+VL  - 12
+JA  - IEEE Transactions on Information Forensics and Security
+Y1  - Oct. 2017
+AB  - The creation of publicly available image databases for the signal processing community is a very time-consuming, yet immensely valuable task, enabling scientific progress by providing the opportunity of an objective comparison and reproduction of results. This paper presents for the first time a public research collection of high-resolution latent fingerprint time series for age estimation, captured from a pool of 116 different test subjects. It comprises ten different sets with a total of 2,618 time series (117,384 scans), varying between capturing devices (CWL and CLSM), data types (intensity versus topography), aging periods (short-term aging: 24 h, long-term aging: 0.5 - 3 years) and resolutions (1,270 - 180,142 ppi). Most series are annotated with donor information (age and gender) and capturing conditions (scan parameters, ambient temperature, and humidity). The data are anonymized (using partial prints only) and an organizational revocation mechanism is included to assure non-identifiability of donors in the future. Baseline results for age estimation on all ten sets are provided in the form of correlation coefficients and machine-learning based age estimation (kappa), using 19 features from prior feature spaces as well as new ones (Tamura contrast, Benford's law, and improved dust feature). Classification results exhibit kappa values between 0.51 and 0.85, highlighting the progress made in this very challenging area in recent years and also emphasizing the need of future studies on the issue.
+ER  - 
+
+TY  - CONF
+TI  - Towards a Maturity Model for Learning Analytics Adoption An Overview of its Levels and Areas
+T2  - 2020 IEEE 20th International Conference on Advanced Learning Technologies (ICALT)
+SP  - 122
+EP  - 126
+AU  - E. Freitas
+AU  - F. Fonseca
+AU  - V. Garcia
+AU  - R. Ferreira
+AU  - D. Gašević
+PY  - 2020
+KW  - Analytical models
+KW  - Data models
+KW  - Organizations
+KW  - Education
+KW  - Data analysis
+KW  - Task analysis
+KW  - Standards organizations
+KW  - learning analytics
+KW  - maturity model
+KW  - policy development
+KW  - adoption
+DO  - 10.1109/ICALT49669.2020.00059
+JO  - 2020 IEEE 20th International Conference on Advanced Learning Technologies (ICALT)
+IS  - 
+SN  - 2161-377X
+VO  - 
+VL  - 
+JA  - 2020 IEEE 20th International Conference on Advanced Learning Technologies (ICALT)
+Y1  - 6-9 July 2020
+AB  - Learning Analytics is a new field in education whose adoption can bring benefits for teaching and learning processes. However, many higher education institutions may not be ready to start using learning analytics due to challenges such as organizational culture, infrastructure, and privacy. In this context, Maturity Models (MMs) can support institutions to systematize their processes, enabling them to progress successively in the learning analytics adoption. MMs are used in different fields to support the improvement of processes, describing them in terms of maturity levels, and identifying enhancements that could lead an organization to higher levels of such maturity. Thus, this paper presents an outline of a MM for Learning Analytics adoption in higher education institutions, describing its levels and areas, together with its development methodology.
+ER  - 
+
+TY  - CONF
+TI  - A data hiding approach using enhanced-RDE in grayscale images
+T2  - 2017 International Conference on Advanced Mechatronics, Intelligent Manufacture, and Industrial Automation (ICAMIMIA)
+SP  - 35
+EP  - 40
+AU  - P. Maniriho
+AU  - T. Ahmad
+PY  - 2017
+KW  - Media
+KW  - Discrete cosine transforms
+KW  - Digital images
+KW  - Security
+KW  - Image restoration
+KW  - Gray-scale
+KW  - Informatics
+KW  - Data protection
+KW  - information hiding
+KW  - information security
+KW  - reduced difference expansion
+KW  - secret message
+DO  - 10.1109/ICAMIMIA.2017.8387553
+JO  - 2017 International Conference on Advanced Mechatronics, Intelligent Manufacture, and Industrial Automation (ICAMIMIA)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2017 International Conference on Advanced Mechatronics, Intelligent Manufacture, and Industrial Automation (ICAMIMIA)
+Y1  - 12-14 Oct. 2017
+AB  - Nowadays, the internet has become a broad network enabling many enterprises around the world to interact while sharing data. Nonetheless, this technology has brought many challenges related to securing private information. Information hiding is one of the best and most challenging field dealing with securing organizational sensitive data due to many factors such as identity theft, information phishing, privacy violation, copyright etc. To address these challenges, several data hiding approaches have been already suggested by many researchers around the globe. The main goal was to improve security, embedding capacity and the quality of the stego media. However, research have shown that there is still a challenge to achieve a good embedding capacity while preserving the quality of the stego media. Accordingly, to contribute to overcoming these problems this paper presents a new data hiding approach that ameliorates the quality of the stego image and the embedding capacity using enhanced reduced difference expansion (E-RDE) and pixel block. The grayscale image is first divided into blocks of size 4×1 after that the difference between pixels is computed in each block. To maintain the quality and capacity, the proposed E-RDE is further applied to reduce the difference values. The experiment shows that with this approach good results are yielded compared to the existing approaches.
+ER  - 
+
+TY  - CONF
+TI  - IoT-education policies on national and international level regarding best practices in German SMEs
+T2  - 2020 IEEE Global Engineering Education Conference (EDUCON)
+SP  - 1848
+EP  - 1857
+AU  - H. D. Mohammadian
+AU  - F. D. Mohammadian
+AU  - D. Assante
+PY  - 2020
+KW  - Internet of Things
+KW  - Internet of Things-Education
+KW  - Industry 4.0 & Society 5.0
+KW  - Educational policies
+KW  - German SMEs
+KW  - The 5th Wave Theory
+DO  - 10.1109/EDUCON45650.2020.9125148
+JO  - 2020 IEEE Global Engineering Education Conference (EDUCON)
+IS  - 
+SN  - 2165-9567
+VO  - 
+VL  - 
+JA  - 2020 IEEE Global Engineering Education Conference (EDUCON)
+Y1  - 27-30 April 2020
+AB  - Internet of Things-education technologies are bringing disruptive innovation in different sectors, radically changing the ways in which objects interact, are controlled and managed. In order to allow professionals and technicians to be able to operate with these new educational technologies and to benefit from them, various training initiatives have been activated, one of their new methods is usage of Internet of Things-education. This paper deals with a new theory called the 5<sup>th</sup> wave regarding German Internet of Things-educational policies on national and international level towards best practices in Internet of Things-education at German Sustainable Smart SMEs4.0 and Industry 4.0 Readiness. Internet of Things-education technologies are the pillars for the implementation of the modern smart economy. Preparing the European Universities and VET providers to face this educational challenge and offer courses on Internet of Things, role of Internet of Things for education in preservation and transmission of social values to sustainable development, defining the domains affected by the implementation of intelligent educational management system, presentation of a model for the implementation of Internet of Things-education technologies, considering the users' information and preserve their privacy in using Internet of Things-educational solutions to implement the cultural synergy for social capital, developing the educational infrastructures by using Internet of Things technologies and understanding the infrastructure of Internet of Things implementation are in authors' road map.
+ER  - 
+
+TY  - CONF
+TI  - Strategic Alliances for Technology Adoption: Alliances and Partnerships for Blockchain Adoption
+T2  - 2019 Portland International Conference on Management of Engineering and Technology (PICMET)
+SP  - 1
+EP  - 7
+AU  - A. Babu
+AU  - C. Weber
+PY  - 2019
+KW  - Blockchain
+KW  - Industries
+KW  - Supply chains
+DO  - 10.23919/PICMET.2019.8893740
+JO  - 2019 Portland International Conference on Management of Engineering and Technology (PICMET)
+IS  - 
+SN  - 2159-5100
+VO  - 
+VL  - 
+JA  - 2019 Portland International Conference on Management of Engineering and Technology (PICMET)
+Y1  - 25-29 Aug. 2019
+AB  - This paper aims to study the relevance and importance of strategic alliances for emerging technology adoption. The case researched and discussed here is Blockchain adoption in the semiconductor industry. As a technology, Blockchain has been around for over a decade and is known to provide tremendous value in business transactions. However, the adoption has not gained traction mainly due to the fact that it takes a network to adopt an industrial Blockchain and cannot work in silos. Most companies are shying away from it as they haven't explored what makes a successful strategy for adoption. A literature review was done on the similar technology adoption in the past. The nature of Blockchain and its network dependency were considered. It was clear that strategic alliances are the way to move forward. The various aspects to be considered while forming an alliance, such as understanding the core competencies, finding the right partners, and form of alliances was studied. The research converged in understanding the fact that companies should move away from the transactional business model and have the right expectations and scoping on all sides, standardization, digital integration, and a steady focus on security and privacy.
+ER  - 
+
+TY  - CONF
+TI  - Component middleware to support non-repudiable service interactions
+T2  - International Conference on Dependable Systems and Networks, 2004
+SP  - 605
+EP  - 614
+AU  - N. Cook
+AU  - P. Robinson
+AU  - S. Shrivastava
+PY  - 2004
+KW  - Middleware
+KW  - Manufacturing
+KW  - Contracts
+KW  - Web and internet services
+KW  - Cascading style sheets
+KW  - Privacy
+KW  - Prototypes
+KW  - Application software
+KW  - Web server
+KW  - Information security
+DO  - 10.1109/DSN.2004.1311931
+JO  - International Conference on Dependable Systems and Networks, 2004
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - International Conference on Dependable Systems and Networks, 2004
+Y1  - 28 June-1 July 2004
+AB  - The wide variety of services and resources available over the Internet presents new opportunities to create value added, inter-organisational composite services (CSs)from multiple existing services. To preserve their autonomy and privacy, each organisation needs to regulate access both to their services and to shared information within the CS. Key mechanisms to facilitate such regulated interactions are the collection and verification of non-repudiable evidence of the actions of the parties to the CS. The paper describes how component-based middleware can be enhanced to support non-repudiable service invocation and information sharing. A generic implementation, based on a J2EE application server, is presented.
+ER  - 
+
+TY  - CONF
+TI  - [Title page i]
+T2  - 2016 49th Hawaii International Conference on System Sciences (HICSS)
+SP  - i
+EP  - i
+PY  - 2016
+DO  - 10.1109/HICSS.2016.1
+JO  - 2016 49th Hawaii International Conference on System Sciences (HICSS)
+IS  - 
+SN  - 1530-1605
+VO  - 
+VL  - 
+JA  - 2016 49th Hawaii International Conference on System Sciences (HICSS)
+Y1  - 5-8 Jan. 2016
+AB  - The following topics are dealt with: collaboration systems; learning technologies; teaching technologies; information systems technology; communication technology; disaster management; crisis management; team creativity; organizational creativity; cross-border IS/IT collaboration; cross-organizational IS/IT collaboration; data science; innovation; social networking services; distributed group decision-making; global virtual teams; task-centered assistance systems; human-centered assistance systems; human-computer interaction; information design; mobility-enhanced social collaborations; value creation; team collaboration; serious games; gamification; collaboration research; social media; e-Business transformation; e-Health; mobile value services; service science; systems sciences; sustainability decision technologies; Big Data analytics; Internet of Things; Web mining; text mining; data mining; business analytics; smart city government; e-Society services; ICT-enabled services; digital service innovations; open phenomena; humanitarian operations research; intelligent decision support; supply chain management; logistics; interactive visual decision analytics; multi-criteria decision analysis; service analytics; smart service systems; soft computing; streaming data analytics; systemic financial risk analytics; collective intelligence; network analysis; digital media; social computing; electric energy systems; renewable generation; distributed generation; power system monitoring; power system control; power system protection; resilient networks; electronic government; Big and Linked Data; BOLD; cybersecurity; information and communication technologies; human development; social justice; digital government; healthcare; global health IT strategies; health behavior change support systems; IT architectures; learning health systems; mobile applications; clinical decision-making; healthy aging technologies; user experience design; Internet; digital economy; crowdfunding; electronic marketing; IS cross-cultural issues; behavioral IS security; privacy; Web content analysis; Web content usage; online games; game-like systems; social shopping; Internet of Everything; cloud computing; knowledge innovation; entrepreneurial systems; knowledge systems; socio-political legitimization; knowledge economics; knowledge flows; knowledge transfer; knowledge sharing; knowledge exchange; knowledge management; knowledge society; organizational learning; ecosystems decision support; enterprise architecture; human capital; business operations; information systems procurement; project management; IT management; open source application software; business intelligence; organizational information technologies; agile; lean; cybercrimes; cyberwarfare; defensive software technologies; offensive software technologies; digital forensics; parallel computing; software product lines; and wireless networks.
+ER  - 
+
+TY  - JOUR
+TI  - What's New in the Economics of Cybersecurity?
+T2  - IEEE Security & Privacy
+SP  - 11
+EP  - 13
+AU  - M. Felici
+AU  - N. Wainwright
+AU  - S. Cavallini
+AU  - F. Bisogni
+PY  - 2016
+KW  - security
+KW  - cybersecurity
+KW  - economics
+KW  - cyberactors
+KW  - intermediaries
+DO  - 10.1109/MSP.2016.64
+JO  - IEEE Security & Privacy
+IS  - 3
+SN  - 1558-4046
+VO  - 14
+VL  - 14
+JA  - IEEE Security & Privacy
+Y1  - May-June 2016
+AB  - Cyberactors are increasingly adopting traditional and innovative security measures to protect valuable information in the cyberworld. Information--and any aspect of it, such as its abundance, distortion, misuse, and value--governs the cyberworld. In this context, new actors are emerging alongside traditional ones with an essential role for intermediaries, who aim to systematically identify, handle, filter, monitor, and disseminate information. Cyberactors' changing roles highlight how interaction approaches, business models, and organizational practices relate to cybersecurity economics.
+ER  - 
+
+

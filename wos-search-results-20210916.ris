@@ -1,0 +1,1984 @@
+﻿TY  - CPAPER
+AU  - Ayalon, O
+AU  - Toch, E
+AU  - Hadar, I
+AU  - Birnhack, M
+A1  - Assoc Comp Machinery
+TI  - How Developers Make Design Decisions about Users' Privacy: The Place of Professional Communities and Organizational Climate
+T2  - CSCW'17: COMPANION OF THE 2017 ACM CONFERENCE ON COMPUTER SUPPORTED COOPERATIVE WORK AND SOCIAL COMPUTING
+LA  - English
+CP  - ACM Conference on Computer Supported Cooperative Work and Social Computing (CSCW)
+KW  - privacy
+KW  - information systems developers
+KW  - decision-making processes
+KW  - organizational climate
+AB  - New technologies continuously challenge people's information privacy, while privacy protection practices, such as Privacy-by-Design, did not become widespread engineering practices. The difficulty of designing privacy-preserving information systems highlights the need for studying developers' privacy decision-making processes, as the developers' communities are well coordinated and they are the ones who can promote or hinder privacy in the systems they design. We conducted an online survey (n=101), to understand the effectors on developers' professional privacy attitudes and practices. We investigate whether developer's privacy decision-making is shaped by several factors, including organizational (organizational privacy climate, business and legal contexts), professional (privacy knowledge) and personal (personal perceived privacy).
+FU  - Israel Science Foundation (ISF)Israel Science Foundation [1116/12]
+FX  - This research was funded by a grant from the Israel Science Foundation (ISF) grant no. 1116/12.
+NR  - 6
+PU  - ASSOC COMPUTING MACHINERY
+PI  - NEW YORK
+PA  - 1515 BROADWAY, NEW YORK, NY 10036-9998 USA
+SN  - 978-1-4503-4688-7
+PY  - 2017
+SP  - 135
+EP  - 138
+DO  - 10.1145/3022198.3026326
+AN  - WOS:000455085000033
+ER  -
+
+TY  - JOUR
+AU  - Solomon, G
+AU  - Brown, I
+TI  - The influence of organisational culture and information security culture on employee compliance behaviour
+T2  - JOURNAL OF ENTERPRISE INFORMATION MANAGEMENT
+LA  - English
+KW  - Organisational culture
+KW  - Information security culture
+KW  - Compliance behaviour
+KW  - MANAGEMENT
+KW  - FRAMEWORK
+KW  - AWARENESS
+KW  - SEM
+KW  - VALIDATION
+KW  - MOTIVATION
+KW  - POLICIES
+KW  - PRIVACY
+KW  - DESIGN
+KW  - MODELS
+AB  - Purpose Organisational culture plays an important role in influencing employee compliance with information security policies. Creating a subculture of information security can assist in facilitating compliance. The purpose of this paper is to explain the nature of the combined influence of organisational culture and information security culture on employee information security compliance. This study also aims to explain the influence of organisational culture on information security culture. Design/methodology/approach A theoretical model was developed showing the relationships between organisational culture, information security culture and employee compliance. Using an online survey, data was collected from a sample of individuals who work in organisations having information security policies. The data was analysed with Partial Least Square Structural Equation Modelling (PLS-SEM) to test the model. Findings Organisational culture and information security culture have significant, yet similar influences on employee compliance. In addition, organisational culture has a strong causal influence on information security culture. Practical implications Control-oriented organisational cultures are conducive to information security compliant behaviour. For an information security subculture to be effectively embedded in an organisation's culture, the dominant organisational culture would have to be considered first. Originality/value This research provides empirical evidence that information security subculture is influenced by organisational culture. Compliance is best explained by their joint influence.
+NR  - 87
+PU  - EMERALD GROUP PUBLISHING LTD
+PI  - BINGLEY
+PA  - HOWARD HOUSE, WAGON LANE, BINGLEY BD16 1WA, W YORKSHIRE, ENGLAND
+SN  - 1741-0398
+SN  - 1758-7409
+J9  - J ENTERP INF MANAG
+JI  - J. Enterp. Inf. Manag.
+DA  - JUL 15
+PY  - 2021
+VL  - 34
+IS  - 4
+SP  - 1203
+EP  - 1228
+DO  - 10.1108/JEIM-08-2019-0217
+AN  - WOS:000581542000001
+ER  -
+
+TY  - JOUR
+AU  - Zerella, S
+AU  - von Treuer, K
+AU  - Albrecht, SL
+TI  - The influence of office layout features on employee perception of organizational culture
+T2  - JOURNAL OF ENVIRONMENTAL PSYCHOLOGY
+LA  - English
+KW  - Organizational culture
+KW  - Office layout
+KW  - Architectural privacy
+KW  - Physical proximity
+KW  - Workstation equality
+KW  - Physical environment
+KW  - OPEN-PLAN OFFICES
+KW  - STRUCTURAL EQUATION MODELS
+KW  - PHYSICAL-ENVIRONMENT
+KW  - NONTERRITORIAL OFFICE
+KW  - FIELD EXPERIMENT
+KW  - COMMUNICATION
+KW  - PRIVACY
+KW  - SPACE
+KW  - SATISFACTION
+KW  - PERFORMANCE
+AB  - Office layout features and organizational culture have independently been shown to influence employee job satisfaction; however, little is known about whether office layout influences organizational culture. This study had two aims. The first was to investigate the association between office layout and organizational culture. The second was to investigate whether organizational culture mediates the relationship between office layout and job satisfaction. A total of 202 Australian workers completed an online survey. Structural equation modelling revealed that office layout features were significantly and positively associated with ratings of organizational culture. Additionally, culture ratings were shown to mediate the relationship between the office layout features and job satisfaction. These findings suggest that perceptions of office layout can influence employees' perceptions of the organizational culture and important employee attitudes. (C) 2017 Elsevier Ltd. All rights reserved.
+NR  - 84
+PU  - ACADEMIC PRESS LTD- ELSEVIER SCIENCE LTD
+PI  - LONDON
+PA  - 24-28 OVAL RD, LONDON NW1 7DX, ENGLAND
+SN  - 0272-4944
+J9  - J ENVIRON PSYCHOL
+JI  - J. Environ. Psychol.
+DA  - DEC
+PY  - 2017
+VL  - 54
+SP  - 1
+EP  - 10
+DO  - 10.1016/j.jenvp.2017.08.004
+AN  - WOS:000418979800001
+ER  -
+
+TY  - JOUR
+AU  - Attili, VSP
+AU  - Mathew, SK
+AU  - Sugumaran, V
+TI  - Information Privacy Assimilation in IT Organizations
+T2  - INFORMATION SYSTEMS FRONTIERS
+LA  - English
+KW  - Information privacy
+KW  - Privacy assimilation in organizations
+KW  - Strategy
+KW  - Neo-institutional theory
+KW  - Organizational culture
+KW  - Privacy capability
+KW  - Senior management
+KW  - SECURITY POLICY COMPLIANCE
+KW  - SYSTEMS SECURITY
+KW  - INSTITUTIONAL PRESSURES
+KW  - ABSORPTIVE-CAPACITY
+KW  - E-COMMERCE
+KW  - MANAGEMENT
+KW  - TECHNOLOGY
+KW  - RATIONALITY
+KW  - INNOVATIONS
+KW  - KNOWLEDGE
+AB  - Information privacy concerns have been rising over a few decades. As per the recent General Data Protection Regulation, organizations need to implement the highest-possible privacy settings by design and default. Following the neo-institutional theory, this study develops a model for understanding the mechanism of information privacy assimilation in Information Technology (IT) organizations. This study treats information privacy as a distinct dimension separate from security. After analyzing a sample survey data of 214 respondents from the IT industry, privacy capability and organizational culture emerged as influencing factors with a statistically significant influence on information privacy assimilation. The findings from this study support the mediating role of senior management participation between the external coercive forces and privacy-related business strategy. Business strategy also plays a mediating role between coercive/normative forces and privacy-related activities within an organization. Here the mimetic forces show a direct influence on privacy-related activities. A positive moderating effect of organizational culture on normative forces and privacy-related activities relationship; and a negative moderating effect of privacy capability on mimetic forces and privacy-related activities relationship are observed. These findings could enable senior managers to respond to institutional pressures by focusing on appropriate factors within an organization for developing effective privacy strategies and actions. This work is an extension of the pilot work that was published in Communications of the Association for Information Systems (CAIS), 2018. The prior work focuses on developing the propositions qualitatively. Building on that, we have formally defined the hypotheses, developed the appropriate survey instrument and collected the primary data which is large enough to do adequate analysis. Adopted a quantitative approach using an extensive sample survey of IT organizations, followed a more rigorous process for data collection, analysis, and discussion of the results. In addition, based on the lessons learned from the pilot study, we have updated the research model and hypotheses with a focus on privacy-related business strategy and activities.
+NR  - 106
+PU  - SPRINGER
+PI  - DORDRECHT
+PA  - VAN GODEWIJCKSTRAAT 30, 3311 GZ DORDRECHT, NETHERLANDS
+SN  - 1387-3326
+SN  - 1572-9419
+J9  - INFORM SYST FRONT
+JI  - Inf. Syst. Front.
+DO  - 10.1007/s10796-021-10158-0
+AN  - WOS:000664401300002
+ER  -
+
+TY  - JOUR
+AU  - Chang, SE
+AU  - Liu, AYC
+AU  - Lin, SM
+TI  - Exploring privacy and trust for employee monitoring
+T2  - INDUSTRIAL MANAGEMENT & DATA SYSTEMS
+LA  - English
+KW  - Organizational culture
+KW  - Compliance
+KW  - Trust
+KW  - Commitment
+KW  - Communication privacy management
+KW  - Employee monitoring
+KW  - SECURITY POLICY COMPLIANCE
+KW  - INFORMATION-SYSTEMS
+KW  - MODEL
+KW  - MANAGEMENT
+KW  - SURVEILLANCE
+KW  - CULTURE
+KW  - WORK
+KW  - DETERMINANTS
+KW  - INTEGRATION
+KW  - FRAMEWORK
+AB  - Purpose-The purpose of this paper is to evaluate privacy boundaries and explores employees' reactions in employee monitoring.
+   Design/methodology/approach-The research used the metaphor of boundary turbulence in the Communication Privacy Management (CPM) theory to demonstrate the psychological effect on employees. The model comprised organizational culture, CPM, trust, and employee performance in employee monitoring to further investigated the influence exerted by organizational culture and how employees viewed their trust within the organization when implementing employee monitoring. Variables were measured empirically by administrating questionnaires to full-time employees in organizations that currently practice employee monitoring.
+   Findings-The findings showed that a control-oriented organizational culture raised communication privacy turbulence in CPM. The communication privacy turbulence in CPM mostly had negative effects on trust in employee monitoring policy, but not on trust in employee monitoring members. Both trust in employee monitoring policy and trust in employee monitoring members had positive effects on employee commitment and compliance to employee monitoring.
+   Research limitations/implications-This research applied the CPM theory in workplace privacy to explore the relationship between employees' privacy and trust. The results provide insights of why employees feel psychological resistance when they are forced to accept the practice of employee monitoring. In addition, this study explored the relationship between CPM and trust, and offer support and verification to prior studies.
+   Practical implications-For practitioners, the findings help organizations to improve the performance of their employees and to design a more effective environment for employee monitoring.
+   Originality/value-A research model was proposed to study the impacts of CPM on employee monitoring, after a broad survey on related researches. The validated model and its corresponding study results can be referenced by organization managers and decision makers to make favorable tactics for achieving their goals of implementing employee monitoring.
+FU  - Ministry of Science and Technology, TaiwanMinistry of Science and Technology, Taiwan [MOST-103-2221-E-005-050-MY2]
+FX  - This work was supported by the Ministry of Science and Technology, Taiwan, under contract number MOST-103-2221-E-005-050-MY2.
+NR  - 71
+PU  - EMERALD GROUP PUBLISHING LTD
+PI  - BINGLEY
+PA  - HOWARD HOUSE, WAGON LANE, BINGLEY BD16 1WA, W YORKSHIRE, ENGLAND
+SN  - 0263-5577
+SN  - 1758-5783
+J9  - IND MANAGE DATA SYST
+JI  - Ind. Manage. Data Syst.
+PY  - 2015
+VL  - 115
+IS  - 1
+SP  - 88
+EP  - 106
+DO  - 10.1108/IMDS-07-2014-0197
+AN  - WOS:000349644500005
+ER  -
+
+TY  - JOUR
+AU  - Hadar, I
+AU  - Hasson, T
+AU  - Ayalon, O
+AU  - Toch, E
+AU  - Birnhack, M
+AU  - Sherman, S
+AU  - Balissa, A
+TI  - Privacy by designers: software developers' privacy mindset
+T2  - EMPIRICAL SOFTWARE ENGINEERING
+LA  - English
+KW  - Data protection
+KW  - Privacy
+KW  - Privacy by design
+KW  - Qualitative research
+KW  - Grounded analysis
+KW  - Social cognitive theory
+KW  - Organizational climate
+KW  - SOCIAL COGNITIVE THEORY
+KW  - SAFETY CLIMATE
+KW  - ETHICAL CLIMATE
+KW  - INFORMATION PRIVACY
+KW  - BEHAVIOR
+KW  - MODEL
+KW  - EMPLOYEE
+KW  - SYSTEMS
+KW  - PERSONALIZATION
+KW  - ORGANIZATIONS
+AB  - Privacy by design (PbD) is a policy measure that guides software developers to apply inherent solutions to achieve better privacy protection. For PbD to be a viable option, it is important to understand developers' perceptions, interpretation and practices as to informational privacy (or data protection). To this end, we conducted in-depth interviews with 27 developers from different domains, who practice software design. Grounded analysis of the data revealed an interplay between several different forces affecting the way in which developers handle privacy concerns. Borrowing the schema of Social Cognitive Theory (SCT), we classified and analyzed the cognitive, organizational and behavioral factors that play a role in developers' privacy decision making. Our findings indicate that developers use the vocabulary of data security to approach privacy challenges, and that this vocabulary limits their perceptions of privacy mainly to third-party threats coming from outside of the organization; that organizational privacy climate is a powerful means for organizations to guide developers toward particular practices of privacy; and that software architectural patterns frame privacy solutions that are used throughout the development process, possibly explaining developers' preference of policy-based solutions to architectural solutions. Further, we show, through the use of the SCT schema for framing the findings of this study, how a theoretical model of the factors that influence developers' privacy practices can be conceptualized and used as a guide for future research toward effective implementation of PbD.
+FU  - Israel Science FoundationIsrael Science Foundation [1116/12]
+FX  - We acknowledge the support of the Israel Science Foundation, Grant 1116/12.
+NR  - 92
+PU  - SPRINGER
+PI  - DORDRECHT
+PA  - VAN GODEWIJCKSTRAAT 30, 3311 GZ DORDRECHT, NETHERLANDS
+SN  - 1382-3256
+SN  - 1573-7616
+J9  - EMPIR SOFTW ENG
+JI  - Empir. Softw. Eng.
+DA  - FEB
+PY  - 2018
+VL  - 23
+IS  - 1
+SP  - 259
+EP  - 289
+DO  - 10.1007/s10664-017-9517-1
+AN  - WOS:000424199400007
+ER  -
+
+TY  - CPAPER
+AU  - Costa, G
+AU  - Prior, M
+AU  - Rogerson, S
+ED  - Tome, E
+TI  - Why Link Knowledge Management, Organizational Culture and Ethics: Inquiring Results
+T2  - PROCEEDINGS OF THE 11TH EUROPEAN CONFERENCE ON KNOWLEDGE MANAGEMENT, VOLS 1 AND 2
+LA  - English
+CP  - 11th European Conference on Knowledge Management
+KW  - knowledge management
+KW  - organizational culture
+KW  - ethics
+KW  - ethical issues
+KW  - social dilemmas
+KW  - empirical outcomes
+KW  - INFORMATION-SYSTEMS
+KW  - PRINCIPLES
+AB  - This paper aims to understand how the interaction between knowledge management, organizational culture and ethics occur, focusing on the potential tensions between personal and collective knowledge in learning organizations. These tensions are reflected upon ethical and social dilemmas which are often neglected by managers and produce unexpected impacts into the organizational strategy. Therefore, this contribution is divided into two main sections: knowledge management (levels, dimensions, and ethical issues/social dilemmas); empirical procedures (methodological design, data collection methods, and empirical outcomes). However, in order to promote a reliable argument, this manuscript will shed some light about the underlying topics. Knowledge management (KM) can be characterized as the acquisition and utilization of resources to generate a milieu in which information is available to all, allowing individuals to obtain, share and employ that information to increase their own knowledge and apply their knowledge for organizational benefit. Despite this consideration, KM as a strategy encompasses two antagonistic levels of analysis: personal knowledge management (PKM) and organizational knowledge management (OKM), leading to potential tensions. Moreover, the "knowledge continuum process" is synchronized throughout organizational culture, technology, and ethics. As a result, it is fundamental to approach the ethical issues (free access to organizational knowledge, autonomy, dignity, privacy, intellectual property, fair compensation), and social dilemmas (organizational trust) that literature claims. Moving forward, this research project unites descriptive and explanatory assumptions through an interpretative and critical epistemological study. Additionally, an embedded multiple-case study with grounded theory (multi-method) will be under scrutiny. Nevertheless, the complex and sensitive nature of the research imposes challenges regarding data collection methods (interviews and questionnaires), leading to protocol fine-tune in order to improve the level of confidence. In spite of these constraints, the empirical outcomes clearly demonstrate that a wide range of ethical issues and social dilemmas occur within organizational contexts, which managers do not recognize or neglect.
+NR  - 51
+PU  - ACADEMIC CONFERENCES LTD
+PI  - NR READING
+PA  - CURTIS FARM, KIDMORE END, NR READING, RG4 9AY, ENGLAND
+SN  - 978-1-906638-70-2
+PY  - 2010
+SP  - 1144
+EP  - 1152
+AN  - WOS:000284261400125
+ER  -
+
+TY  - JOUR
+AU  - Mastrangelo, PM
+AU  - Popovich, PM
+TI  - Employees' attitudes toward drug testing, perceptions of organizational climate, and withdrawal from the employer
+T2  - JOURNAL OF BUSINESS AND PSYCHOLOGY
+LA  - English
+CP  - 67th Annual Meeting of the Eastern-Psychological-Association
+KW  - SELECTION PROCEDURES
+KW  - PERCEIVED FAIRNESS
+KW  - JOB
+KW  - INTENTIONS
+KW  - PERFORMANCE
+KW  - PERSONALITY
+KW  - PROGRAMS
+AB  - Theoretical models suggest that attitudes toward an employer's drug testing policy affect organizational climate and employee behavior, but empirical evidence has been scarce with limited external validity. Based on 66 manufacturing employees' questionnaire responses, attitudes toward drug testing significantly correlated with attitudes toward top management (r = +.39), support for employee safety (r = +.34), turnover intentions (r = -.31), and other variables. Although these data support a link between attitudes toward drug testing and employee withdrawal, they cannot address the issue of causality. Results suggest that perceived invasion of privacy is more strongly related to climate perceptions and turnover intentions than is perceived fairness.
+NR  - 30
+PU  - KLUWER ACADEMIC-HUMAN SCIENCES PRESS
+PI  - NEW YORK
+PA  - 233 SPRING ST, NEW YORK, NY 10013-1578 USA
+SN  - 0889-3268
+J9  - J BUS PSYCHOL
+JI  - J. Bus. Psychol.
+DA  - FAL
+PY  - 2000
+VL  - 15
+IS  - 1
+SP  - 3
+EP  - 18
+DO  - 10.1023/A:1007783900650
+AN  - WOS:000089863100001
+ER  -
+
+TY  - CPAPER
+AU  - Salleh, KA
+AU  - Janczewski, L
+ED  - Varajao, JEQ
+ED  - CruzCunha, MM
+ED  - Martinho, R
+ED  - Rijo, R
+ED  - BjornAndersen, N
+ED  - Turner, R
+ED  - Alves, D
+TI  - Technological, organizational and environmental security and privacy issues of big data: A literature review
+T2  - INTERNATIONAL CONFERENCE ON ENTERPRISE INFORMATION SYSTEMS/INTERNATIONAL CONFERENCE ON PROJECT MANAGEMENT/INTERNATIONAL CONFERENCE ON HEALTH AND SOCIAL CARE INFORMATION SYSTEMS AND TECHNOLOGIES, CENTERIS/PROJMAN / HCIST 2016
+LA  - English
+CP  - 2016 CENTERIS/ProjMAN/HCist
+KW  - big data
+KW  - TOE framework
+KW  - security and privacy
+KW  - big data adoption
+KW  - ANALYTICS
+KW  - CONTEXT
+KW  - SCIENCE
+AB  - This paper provides a literature review on security and privacy issues of big data. These issues are classified into three contexts; technological, organizational and environmental that is meant to facilitate future research. The main objectives of the review are to identify security and privacy issues of big data and to categorize the issues into a classification framework. The outcome of this review reveals that security and privacy issues of big data not only originate from technological deficiencies, but it may also be the outcome of organizational culture and environmental influences. At the end of review for each of the contexts, main issues were extracted and presented as potential factors that may affect organizational intention to adopt big data. (C) 2016 The Authors. Published by Elsevier B.V.
+FU  - Malaysia's Ministry of Higher Education; Universiti Teknologi Mara, Malaysia
+FX  - The authors would like to thank the anonymous reviewers for their helpful comments. The first author would also like to thank Malaysia's Ministry of Higher Education and Universiti Teknologi Mara, Malaysia for financing her PhD research.
+NR  - 58
+PU  - ELSEVIER SCIENCE BV
+PI  - AMSTERDAM
+PA  - SARA BURGERHARTSTRAAT 25, PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN  - 1877-0509
+J9  - PROCEDIA COMPUT SCI
+PY  - 2016
+VL  - 100
+SP  - 19
+EP  - 28
+DO  - 10.1016/j.procs.2016.09.119
+AN  - WOS:000392695900003
+ER  -
+
+TY  - JOUR
+AU  - Smith, SA
+AU  - Brunner, SR
+TI  - To Reveal or Conceal: Using Communication Privacy Management Theory to Understand Disclosures in the Workplace
+T2  - MANAGEMENT COMMUNICATION QUARTERLY
+LA  - English
+KW  - disclosure
+KW  - organizations
+KW  - communication privacy management
+KW  - employee communication
+KW  - FACEBOOK FRIEND REQUESTS
+AB  - A sample of 103 full-time employees from various organizations and industries completed an online, open-ended survey to explore and understand the decisions people make to manage their private disclosures at work. Communication privacy management theory was used to understand the management of private information. Results indicate that core and catalyst criteria motivate people to reveal/conceal at work, such as boundary maintenance based on organizational culture, relational considerations, a desire for feedback, and risk/benefit considerations. People also used implicit/explicit rules, reiteration of privacy rules, and retaliation to limit and respond to turbulence. The theoretical and practical implications of these findings are discussed along with limitations and directions for future research.
+NR  - 51
+PU  - SAGE PUBLICATIONS INC
+PI  - THOUSAND OAKS
+PA  - 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN  - 0893-3189
+SN  - 1552-6798
+J9  - MANAGE COMMUN Q
+JI  - Manag. Commun. Q.
+DA  - AUG
+PY  - 2017
+VL  - 31
+IS  - 3
+SP  - 429
+EP  - 446
+DO  - 10.1177/0893318917692896
+AN  - WOS:000405077900005
+ER  -
+
+TY  - CPAPER
+AU  - Selviandro, N
+AU  - Wisudiawan, G
+AU  - Puspitasari, S
+AU  - Adrian, M
+A1  - IEEE
+TI  - Preliminary Study for Determining Bring Your Own Device Implementation Framework Based on Organizational Culture Analysis Enhanced by Cloud Management Control
+T2  - 2015 3RD INTERNATIONAL CONFERENCE ON INFORMATION AND COMMUNICATION TECHNOLOGY (ICOICT)
+LA  - English
+CP  - 3rd International Conference on Information and Communication Technology ICoICT
+KW  - BYOD
+KW  - Organization Culture
+KW  - Cloud Computing Management Control
+KW  - Customer Satisfaction
+AB  - Bring your own device or BYOD is one of the technological trends that give direct impact for organizations, because of technology information adaptation in organizations. BYOD referred to an environment in which employees use personal technology such as laptops, smartphones, tablets, and even desktop PCs - to access corporate networks, applications, and data. Furthermore, basic motivation of this study is trying to answer whether implementing BYOD in organizations with respect to organizational culture and adaptation of cloud management control, may gives better result while implementing it without considering organizational culture and adaptation of cloud management control. In this study, the organizational culture will refer to OCAI organizational types and BYOD implementation will refer to BYOD privacy concerns indicators. This paper shall discuss the formulation and methodology to develop a proposed framework and the expected benefits while implementing BYOD by considering organizations culture.
+NR  - 8
+PU  - IEEE
+PI  - NEW YORK
+PA  - 345 E 47TH ST, NEW YORK, NY 10017 USA
+SN  - 978-1-4799-7752-9
+PY  - 2015
+SP  - 113
+EP  - 118
+AN  - WOS:000380549200021
+ER  -
+
+TY  - JOUR
+AU  - Madhiwalla, N
+AU  - Ghoshal, R
+AU  - Mavani, P
+AU  - Roy, N
+TI  - Identifying disrespect and abuse in organisational culture: a study of two hospitals in Mumbai, India
+T2  - REPRODUCTIVE HEALTH MATTERS
+LA  - English
+KW  - childbirth in LMICs
+KW  - disrespect and abuse
+KW  - obstetric practice in LMICs
+KW  - provider behaviour
+KW  - hospital culture
+KW  - CARE
+KW  - DELIVERY
+AB  - This paper draws on findings from a qualitative study of two government hospitals in Mumbai, India, which aimed to provide a better understanding of the institutional drivers of disrespect and abuse (D&A) in childbirth. The paper describes the structural context, in which government hospital providers can exercise considerable power over patients, yet may be themselves vulnerable to violence and external influence. Decisions that affect care are made by a bureaucracy, which does not perceive problems with the same intensity as providers who are directly attending to patients. Within this context, while contrasting organisational cultures had evolved at the two hospitals, both were characterised by social/professional inequality and hierarchical functioning, and marginalising women. This context generates invisible pressures on subordinate staff, and creates interpersonal conflicts and ambiguity in the division of roles and responsibilities that manifest in individual actions of D&A. Services are organised around the internal logic of the institution, rather than being centred on women. This results in conditions that violate women's privacy, and disregards their choice and consent. The structural environment of resource constraints, poor management and bureaucratic decision-making leads to precarious situations, endangering women's safety. With the institution's functioning based on hierarchies and authority, rather than adherence to universal standards or established protocols, irrational, harmful practices endorsed by senior staff are institutionalised and reproduced. A deeper focus on organisational culture, embedded in the discourse of D&A, would help to evolve effective strategies to address D&A as systemic problems.
+FU  - Wellcome Trust, UKWellcome Trust
+FX  - The authors would like to acknowledge the Wellcome Trust, UK for funding the study.
+NR  - 26
+PU  - TAYLOR & FRANCIS LTD
+PI  - ABINGDON
+PA  - 2-4 PARK SQUARE, MILTON PARK, ABINGDON OR14 4RN, OXON, ENGLAND
+SN  - 0968-8080
+SN  - 1460-9576
+J9  - REPROD HEALTH MATTER
+JI  - Reprod. Health Matters
+PY  - 2018
+VL  - 26
+IS  - 53
+SP  - 36
+EP  - 47
+DO  - 10.1080/09688080.2018.1502021
+AN  - WOS:000446598100004
+ER  -
+
+TY  - JOUR
+AU  - Al-Abdullat, BM
+AU  - Dababneh, A
+TI  - The mediating effect of job satisfaction on the relationship between organizational culture and knowledge management in Jordanian banking sector
+T2  - BENCHMARKING-AN INTERNATIONAL JOURNAL
+LA  - English
+KW  - Research methods
+KW  - Organizational performance
+KW  - Financial performance
+KW  - Banking
+KW  - Knowledge management
+KW  - Quality
+KW  - COMMITMENT
+KW  - IMPACT
+AB  - Purpose The purpose of this paper is to examine the positive effect of organizational culture on knowledge management (KM) by clarifying the mediating effect of job satisfaction on the banking sector in Jordan. The study was conducted on Jordanian banks to develop the organizational culture concept to be reflected in the bank activities. The population of this study consists of junior and senior customer service and administrative employees working at Jordanian banks in Jordan.
+   Design/methodology/approach The sample of this research is purposive one because the research cannot get a list containing names of customer service employees for privacy reasons. Various statistical tests were employed to test the research hypotheses. The study utilized two statistical packages - Statistical Package for Social Sciences (SPSS) and SPSS-AMOS - for analyzing the data.
+   Findings The development of organizational culture at banks in Jordan is still not stable and efficient. This may be affected by the management style and teamwork spirit in Jordan and other factors related to bank culture and how it will be reflected in customer service. The creation and application of KM at banks in Jordan is still modest. Knowledge is mainly shared internally within the bank with little efforts dedicated to soliciting knowledge from the external environment including customers. The job satisfaction at banks in Jordan is still modest.
+   Originality/value The purpose of this study is to investigate how the organizational culture can improve job satisfaction for efficient work knowledge. The relationship between organizational culture and KM of organizational members is developed and analyzed herein by proposing a mediating role of job satisfaction. Few research papers have focused on job satisfaction and its mechanism contributing to individual effectiveness in the Jordanian market, and many ignored the benefits of KM and value of culture in many sectors.
+NR  - 52
+PU  - EMERALD GROUP PUBLISHING LTD
+PI  - BINGLEY
+PA  - HOWARD HOUSE, WAGON LANE, BINGLEY BD16 1WA, W YORKSHIRE, ENGLAND
+SN  - 1463-5771
+SN  - 1758-4094
+J9  - BENCHMARKING
+JI  - Benchmarking
+PY  - 2018
+VL  - 25
+IS  - 2
+SP  - 517
+EP  - 544
+DO  - 10.1108/BIJ-06-2016-0081
+AN  - WOS:000426531100007
+ER  -
+
+TY  - JOUR
+AU  - Chang, SE
+AU  - Liu, AY
+TI  - Information security in practices: Exploring privacy and trust in computer and internet surveillance
+T2  - COMPUTER SYSTEMS SCIENCE AND ENGINEERING
+LA  - English
+KW  - Information security
+KW  - Information privacy
+KW  - Trust
+KW  - Computer surveillance
+KW  - Internet surveillance
+KW  - ORGANIZATIONAL CULTURE
+KW  - MANAGEMENT
+KW  - MODEL
+KW  - SYSTEMS
+KW  - WORK
+KW  - PLS
+AB  - Computer and Internet surveillance is widely used in organizations to monitor employees' activities on computers and the internet. Even though computer and internet surveillance helps to protect and secure property in an enterprise, employees are concerned that their privacy rights have been invaded under constant surveillance. Studies have been performed to investigate the effect of organizational settings, with different types of cultures having different effects on the implementation of surveillance practices and policies. In addition, employees' trust of surveillance systems and policies has been investigated. This study demonstrated that practicing computer and internet surveillance in different organizational cultures reveals different perceptions of information privacy and trust. This explains why the results of the practice of electronic surveillance vary depending on the type of enterprise. This study provides a better understanding of employees' perceptions of privacy and trust in practicing computer and internet surveillance.
+NR  - 51
+PU  - C R L PUBLISHING LTD
+PI  - LEICESTER
+PA  - 5 WEIR RD, KIBWORTH BEAUCHAMP, LEICESTER LE8 0LQ, ENGLAND
+SN  - 0267-6192
+J9  - COMPUT SYST SCI ENG
+JI  - Comput. Syst. Sci. Eng.
+DA  - MAR
+PY  - 2016
+VL  - 31
+IS  - 2
+SP  - 147
+EP  - 155
+AN  - WOS:000381250400008
+ER  -
+
+TY  - JOUR
+AU  - Wells, MM
+AU  - Thelen, L
+AU  - Ruark, J
+TI  - Workspace personalization and organizational culture - Does your workspace reflect you or your company?
+T2  - ENVIRONMENT AND BEHAVIOR
+LA  - English
+KW  - workspaces
+KW  - personalization
+KW  - culture
+KW  - organizational commitment
+KW  - status
+KW  - survey
+KW  - COMMITMENT
+KW  - DISPLAYS
+KW  - PRIVACY
+KW  - PLACES
+AB  - Approximately 70% to 90% of American workers personalize their workspaces. Personalization has many benefits for employees (e.g., enhanced job satisfaction and well-being) and organizations (e.g., improved morale and reduced turnover). Personalization is also related to organizational issues such as employee status, workspace quality, and policies. This study extended the research by examining organizational commitment and culture. It was predicted that highly committed employees personalize more than do less-committed employees and that culture has an indirect effect on personalization. Thus, 172 office employees from 19 businesses were surveyed. Path analyses revealed that employee commitment was only indirectly related to personalization through status. As expected, organizational culture had an indirect effect on personalization, via personalization policies or norms and employee status. Thus, this research suggests for the first time that the primary predictors of workspace personalization are organizational rather than personal. Your workspace most likely reflects your company rather than you.
+NR  - 45
+PU  - SAGE PUBLICATIONS INC
+PI  - THOUSAND OAKS
+PA  - 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN  - 0013-9165
+SN  - 1552-390X
+J9  - ENVIRON BEHAV
+JI  - Environ. Behav.
+DA  - SEP
+PY  - 2007
+VL  - 39
+IS  - 5
+SP  - 616
+EP  - 634
+DO  - 10.1177/0013916506295602
+AN  - WOS:000248756800002
+ER  -
+
+TY  - JOUR
+AU  - Lobschat, L
+AU  - Mueller, B
+AU  - Eggers, F
+AU  - Brandimarte, L
+AU  - Diefenbach, S
+AU  - Kroschke, M
+AU  - Wirtz, J
+TI  - Corporate digital responsibility
+T2  - JOURNAL OF BUSINESS RESEARCH
+LA  - English
+KW  - Corporate digital responsibility (CDR)
+KW  - Digital technologies
+KW  - Data
+KW  - Ethics
+KW  - Privacy
+KW  - Organizational culture
+KW  - SOCIAL-RESPONSIBILITY
+KW  - INFORMATION PRIVACY
+KW  - ORGANIZATIONAL CULTURE
+KW  - CONSUMER PRIVACY
+KW  - MEDIATING ROLE
+KW  - MANAGEMENT
+KW  - ETHICS
+KW  - TECHNOLOGY
+KW  - INTERNET
+KW  - TRUST
+AB  - We propose that digital technologies and related data become increasingly prevalent and that, consequently, ethical concerns arise. Looking at four principal stakeholders, we propose corporate digital responsibility (CDR) as a novel concept. We define CDR as the set of shared values and norms guiding an organization's operations with respect to four main processes related to digital technology and data. These processes are the creation of technology and data capture, operation and decision making, inspection and impact assessment, and refinement of technology and data. We expand our discussion by highlighting how to managerially effectuate CDR com-pliant behavior based on an organizational culture perspective. Our conceptualization unlocks future research opportunities, especially regarding pertinent antecedents and consequences. Managerially, we shed first light on how an organization's shared values and norms regarding CDR can get translated into actionable guidelines for users. This provides grounds for future discussions related to CDR readiness, implementation, and success.
+NR  - 126
+PU  - ELSEVIER SCIENCE INC
+PI  - NEW YORK
+PA  - STE 800, 230 PARK AVE, NEW YORK, NY 10169 USA
+SN  - 0148-2963
+SN  - 1873-7978
+J9  - J BUS RES
+JI  - J. Bus. Res.
+DA  - JAN
+PY  - 2021
+VL  - 122
+SP  - 875
+EP  - 888
+DO  - 10.1016/j.jbusres.2019.10.006
+AN  - WOS:000590682800030
+ER  -
+
+TY  - CPAPER
+AU  - Connolly, L
+AU  - Lang, M
+AU  - Tygar, JD
+ED  - Federrath, H
+ED  - Gollmann, D
+TI  - Investigation of Employee Security Behaviour: A Grounded Theory Approach
+T2  - ICT SYSTEMS SECURITY AND PRIVACY PROTECTION
+LA  - English
+CP  - 30th IFIP TC 11 International Information Security and Privacy Conference (SEC)
+KW  - Employee security behaviour
+KW  - Security countermeasures
+KW  - Organisational culture
+KW  - National culture
+KW  - CULTURE
+KW  - ABUSE
+AB  - At a time of rapid business globalisation, it is necessary to understand employee security behaviour within diverse cultural settings. While general deterrence theory has been extensively used in Behavioural Information Security research with the aim to explain the effect of deterrent factors on employees' security actions, these studies provide inconsistent and even contradictory findings. Therefore, a further examination of deterrent factors in the security context is required. The aim of this study is to contribute to the emerging field of Behavioural Information Security research by investigating how a combination of security countermeasures and cultural factors impact upon employee security behaviour in organisations. A particular focus of this project is to explore the effect of national culture and organisational culture on employee actions as regards information security. Preliminary findings suggest that organisational culture, national culture, and security countermeasures do have an impact upon employee security behaviour.
+NR  - 38
+PU  - SPRINGER-VERLAG BERLIN
+PI  - BERLIN
+PA  - HEIDELBERGER PLATZ 3, D-14197 BERLIN, GERMANY
+SN  - 1868-4238
+SN  - 1868-422X
+SN  - 978-3-319-18467-8
+J9  - IFIP ADV INF COMM TE
+PY  - 2015
+VL  - 455
+SP  - 283
+EP  - 296
+DO  - 10.1007/978-3-319-18467-8_19
+AN  - WOS:000364779100019
+ER  -
+
+TY  - JOUR
+AU  - Reid, PT
+AU  - Cole, E
+AU  - Kern, ML
+TI  - Wives of College and University Presidents: Identity, Privacy, and Relationships
+T2  - PSYCHOLOGY OF WOMEN QUARTERLY
+LA  - English
+KW  - sex roles
+KW  - social class
+KW  - role expectations
+KW  - role satisfaction
+KW  - well being
+KW  - occupational adjustment
+KW  - social identity
+KW  - organizational climate
+KW  - GENDER
+KW  - WOMEN
+KW  - BEHAVIORS
+KW  - COUPLES
+KW  - FAMILY
+KW  - ROLES
+KW  - MEN
+AB  - How does a modern woman react to being defined by the role of wife? In our study, the authors examined the experiences, benefits, and challenges encountered by wives of college and university presidents. In a relationship where the husband has a prestigious and well-defined role, the female partner may still be expected to play a traditional role on a regular basis, bringing both benefits and challenges. Through focus groups, interviews, and a survey, women shared their experiences. Cluster analytic techniques identified six groups of women that were involved in, adjusted to, or conflicted by serving in the presidential spouse role. The authors employ the voices of the women themselves to illuminate their experiences, satisfactions, challenges, and frustrations. Wives indicated that they had to deal with loss of privacy, conflicted personal relationships, and increased ambiguity about their own identity. Interestingly, wives did not allow these challenges to undermine their marriage; instead, for those who had difficulty meeting these demands, the loss was to their own sense of self-worth. The results suggest that the role of presidential wife should be examined through the intersectional lens of gender and class. This intersection can be seen to shape the expectations of the wife herself, as well as the demands made by her spouse and others in her community. Her previous experiences, education, and career preparation provide insights into how she approaches the public role. Recognizing and giving voice to the complex sociocultural issues involved may help wives thrive in their roles as a college or university president's wife. Additional online materials for this article are available to PWQ subscribers on PWQ's website at http://pwq.sagepub-com.ez46.periodicos.capes.gov.br/supplemental
+NR  - 30
+PU  - SAGE PUBLICATIONS LTD
+PI  - LONDON
+PA  - 1 OLIVERS YARD, 55 CITY ROAD, LONDON EC1Y 1SP, ENGLAND
+SN  - 0361-6843
+J9  - PSYCHOL WOMEN QUART
+JI  - Psychol. Women Q.
+DA  - DEC
+PY  - 2011
+VL  - 35
+IS  - 4
+SP  - 547
+EP  - 557
+DO  - 10.1177/0361684311417402
+AN  - WOS:000300154500001
+ER  -
+
+TY  - JOUR
+AU  - Lippert, SK
+AU  - Swiercz, PM
+TI  - Human resource information systems (HRIS) and technology trust
+T2  - JOURNAL OF INFORMATION SCIENCE
+LA  - English
+KW  - technology trust
+KW  - human resource information systems
+KW  - systems implementation
+KW  - organizational trust
+KW  - pooled interdependence
+KW  - organizational community
+KW  - organizational culture
+KW  - technology adoption
+KW  - technology utility
+KW  - technology usability
+KW  - socialization
+KW  - sensitivity to privacy
+KW  - predisposition to trust
+KW  - ORGANIZATIONAL CULTURE
+KW  - INTERPERSONAL-TRUST
+KW  - KNOWLEDGE MANAGEMENT
+KW  - CLOSE RELATIONSHIPS
+KW  - HUMAN INTERVENTION
+KW  - MODEL
+KW  - IMPLEMENTATION
+KW  - PERFORMANCE
+KW  - SUCCESS
+KW  - DESIGN
+AB  - Scholars in many disciplines have considered the antecedents and consequences of various forms of trust. This paper generates 11 propositions exploring the relationship between Human Resource Information Systems (HRIS) and the trust an individual places in the inanimate technology (technology trust) and models the effect of those relationships on HRIS implementation success. Specifically, organizational, technological, and user factors are considered and modeled to generate a set of testable propositions that can subsequently be investigated in various organizational settings. Eleven propositions are offered suggesting that organizational trust, pooled interdependence, organizational community, organizational culture, technology adoption, technology utility, technology usability, socialization, sensitivity to privacy, and predisposition to trust influence an individual's level of trust in the HRIS technology (technology trust) and ultimately the success of an HRIS implementation process. A summary of the relationships between the key constructs in the model and recommendations for future research are provided.
+NR  - 97
+PU  - SAGE PUBLICATIONS LTD
+PI  - LONDON
+PA  - 1 OLIVERS YARD, 55 CITY ROAD, LONDON EC1Y 1SP, ENGLAND
+SN  - 0165-5515
+SN  - 1741-6485
+J9  - J INF SCI
+JI  - J. Inf. Sci.
+PY  - 2005
+VL  - 31
+IS  - 5
+SP  - 340
+EP  - 353
+DO  - 10.1177/0165551505055399
+AN  - WOS:000232107900002
+ER  -
+
+TY  - CPAPER
+AU  - Hassan, NH
+AU  - Maarop, N
+AU  - Ismail, Z
+AU  - Abidin, WZ
+A1  - IEEE
+TI  - Information Security Culture in Health Informatics Environment: A Qualitative Approach
+T2  - 2017 5TH INTERNATIONAL CONFERENCE ON RESEARCH AND INNOVATION IN INFORMATION SYSTEMS (ICRIIS 2017): SOCIAL TRANSFORMATION THROUGH DATA SCIENCE
+LA  - English
+CP  - 5th International Conference on Research and Innovation in Information Systems (ICRIIS) - Social Transformation through Data Science
+KW  - information security culture
+KW  - health-belief model
+KW  - ISMS
+KW  - organisational culture
+KW  - CARE
+KW  - PRIVACY
+KW  - MODEL
+AB  - Information security culture is recognised as having an influence towards end-user compliance towards information security controls and policies in the organisation. Literature agrees that cultural beliefs can be found to influence behaviours among members of a profession that distinguish them in the organisational system and profession that they belong to. Therefore, these phenomena led towards the investigation and understanding of factors influencing information security culture in healthcare organisations. A qualitative approach has been conducted to evaluate the proposed conceptual model that hinges on Systematic Literature Review (SLR), organisational culture characteristics and Health Belief Model (HBM). A semi-structured interview has been conducted with 19 healthcare professionals. Twelve themes found to be the factors that may influence information security culture in health informatics environment. The study outcomes may contribute towards the design of an appropriate Information Security Management System (ISMS) for establishing information security culture in healthcare organisations.
+NR  - 28
+PU  - IEEE
+PI  - NEW YORK
+PA  - 345 E 47TH ST, NEW YORK, NY 10017 USA
+SN  - 2324-8149
+SN  - 978-1-5090-3035-4
+J9  - INT CONF RES INNOV
+PY  - 2017
+AN  - WOS:000425930700013
+ER  -
+
+TY  - JOUR
+AU  - Kallio, TJ
+AU  - Kallio, KM
+AU  - Blomberg, AJ
+TI  - Physical space, culture and organisational creativity - a longitudinal study
+T2  - FACILITIES
+LA  - English
+KW  - Innovation
+KW  - A longitudinal study
+KW  - Organisational change
+KW  - Organizational culture
+KW  - Space
+KW  - Organisational creativity
+KW  - OPEN-PLAN OFFICE
+KW  - EMPLOYEE REACTIONS
+KW  - WORK-ENVIRONMENT
+KW  - INNOVATION
+KW  - COMMUNICATION
+KW  - SATISFACTION
+KW  - PRIVACY
+KW  - BARRIERS
+AB  - Purpose - The purpose of this study is to explore the potential positive effects of the design of a physical organisational environment on the emergence of an organisational culture conducive to organisational creativity.
+   Design/methodology/approach - The study is based on an in-depth, longitudinal case study, the aim being to enhance understanding of how a change in physical space, including location, spatial organisation and architectonic details, supports cultural change.
+   Findings - It is suggested that physical space plays an implicit yet significant role in the emergence of a culture conducive to organisational creativity. It appears from the case analysis that there are three aspects of culture in particular, equality, openness and collectivity, that may be positively affected by the design of an organisation's physical environment. Practical implications - The careful choice, planning and design of an organisation's physical location, layout and style can advance the appearance of an organisational culture conducive to creativity.
+   Originality/value - The paper describes a longitudinal study comparing a case organisation before and after a change in its physical environment. The longitudinal data illustrates how a change in the spatial environment contributes to the emergence of a culture conducive to organisational creativity.
+NR  - 78
+PU  - EMERALD GROUP PUBLISHING LTD
+PI  - BINGLEY
+PA  - HOWARD HOUSE, WAGON LANE, BINGLEY BD16 1WA, W YORKSHIRE, ENGLAND
+SN  - 0263-2772
+SN  - 1758-7131
+J9  - FACILITIES
+JI  - Facilities
+PY  - 2015
+VL  - 33
+IS  - 5-6
+SP  - 389
+EP  - 411
+DO  - 10.1108/F-09-2013-0074
+AN  - WOS:000210856000007
+ER  -
+
+TY  - JOUR
+AU  - Cegarra-Navarro, JG
+AU  - Papa, A
+AU  - Garcia-Perez, A
+AU  - Fiano, F
+TI  - An open-minded strategy towards eco-innovation: A key to sustainable growth in a global enterprise
+T2  - TECHNOLOGICAL FORECASTING AND SOCIAL CHANGE
+LA  - English
+KW  - Eco-innovation
+KW  - Global enterprise
+KW  - Privacy concerns
+KW  - Open-mindedness
+KW  - Organisational performance
+KW  - Technology users
+KW  - RESEARCH-AND-DEVELOPMENT
+KW  - KNOWLEDGE MANAGEMENT
+KW  - ENVIRONMENTAL INNOVATION
+KW  - LEARNING ORIENTATION
+KW  - EXTERNAL KNOWLEDGE
+KW  - PRIVACY CONCERNS
+KW  - PLS-SEM
+KW  - PERFORMANCE
+KW  - TECHNOLOGY
+KW  - AMBIDEXTERITY
+AB  - This study examines the extent to which business performance in global enterprises can be influenced by three key factors in the current dynamic, socio-economic context. These are: (1) an open organisational culture derived from an open-mindedness attitude, (2) an organisation's investments in innovation in environmentally friendly and health-conscious products and services, and (3) customers' perception of risk of information security and privacy concerns derived from their engagement with the organisation and its products and services. Taking Apple as the basis for our study, an empirical investigation of 161 of its customers from a variety of socio-economic and cultural backgrounds, our results indicate that a culture of open mindedness relates, indirectly and though environmental product innovation, to the way the firm addresses the privacy concerns of end users. This, in turn, helps addressing the privacy concerns of the customer base and, simultaneously improves firms' performance, offering a mix-blended source of strategic advantage. Based on a leading innovation company in the U.S. and globally, and one of the most important names in the technology industry, lessons can be learned from our study both for further theoretical developments and for management practice in a variety of knowledge-intensive, global enterprises.
+NR  - 126
+PU  - ELSEVIER SCIENCE INC
+PI  - NEW YORK
+PA  - STE 800, 230 PARK AVE, NEW YORK, NY 10169 USA
+SN  - 0040-1625
+SN  - 1873-5509
+J9  - TECHNOL FORECAST SOC
+JI  - Technol. Forecast. Soc. Chang.
+DA  - NOV
+PY  - 2019
+VL  - 148
+DO  - 10.1016/j.techfore.2019.119727
+AN  - WOS:000502883400030
+ER  -
+
+TY  - CPAPER
+AU  - Page, BB
+ED  - Kocaoglu, DF
+ED  - Anderson, TR
+ED  - Daim, TU
+ED  - Kozanoglu, DC
+ED  - Niwa, K
+ED  - Perman, G
+ED  - Steenhuis, HJ
+TI  - Exploring Organizational Culture for Information Security in Healthcare Organizations: A Literature Review
+T2  - 2017 PORTLAND INTERNATIONAL CONFERENCE ON MANAGEMENT OF ENGINEERING AND TECHNOLOGY (PICMET)
+LA  - English
+CP  - Portland International Conference on Management of Engineering and Technology (PICMET)
+KW  - POLICY COMPLIANCE
+KW  - SYSTEMS
+KW  - AWARENESS
+KW  - MANAGEMENT
+KW  - PARTICIPATION
+KW  - TECHNOLOGY
+KW  - BEHAVIOR
+KW  - INSIDER
+KW  - PRIVACY
+KW  - IMPACT
+AB  - The healthcare sector has generally been a late adopter of information technology solutions. As a result of the American Recovery and Reinvestment Act of 2009, the Centers for Medicare and Medicaid Services implemented a program whereby financial incentives were made available for eligible healthcare entities and healthcare providers implementing health information technology solutions. These healthcare entities and providers were required to attest to "meaningful use" (e.g. electronic data capture of clinical data, provision of electronic health records to patients) in order to receive the financial incentives. This program, more than any other key driver, has transformed the utilization of health information technology (HIT) in clinical settings. Health IT is now ubiquitous. With the advent of these HIT solutions has come large caches of private and protected health information which must be guarded from both accidental disclosure and nefarious criminal activity. Compliance monitoring efforts by the Department of Health and Human Service's Office for Civil Rights have increased dramatically in recent years with multi-million dollar fines being levied across the country for security gaps. As a result of this increased risk, many healthcare organization are revisiting their information security position and culture in the age of electronic medical records. This paper will review the current state of that culture.
+NR  - 86
+PU  - IEEE
+PI  - NEW YORK
+PA  - 345 E 47TH ST, NEW YORK, NY 10017 USA
+SN  - 2159-5100
+SN  - 978-1-890843-36-6
+J9  - PORTL INT CONF MANAG
+PY  - 2017
+AN  - WOS:000419843900218
+ER  -
+
+TY  - JOUR
+AU  - Alharthi, A
+AU  - Krotov, V
+AU  - Bowman, M
+TI  - Addressing barriers to big data
+T2  - BUSINESS HORIZONS
+LA  - English
+KW  - Big data
+KW  - Big data infrastructure
+KW  - Data privacy
+KW  - Organizational culture
+KW  - Competitive advantage
+KW  - Hadoop
+AB  - Increasingly, big data is viewed as the most strategic resource of the 21st century, similar in importance to gold and oil. While sitting on these vast pools of data, many organizations are simply not ready to take advantage of this new strategic resource. Embracing big data requires addressing a number of barriers that fall into the domains of technology, people, and organization. A holistic, socio-technical approach is required to overcome these barriers. This article introduces the specific tactics we recommend for addressing big data barriers, which involve changes to technology infrastructure, a focus on privacy, promotion of big data and analytic skills development, and the creation of a clear organizational vision related to big data. (C) 2017 Kelley School of Business, Indiana University. Published by Elsevier Inc. All rights reserved.
+NR  - 19
+PU  - ELSEVIER SCIENCE BV
+PI  - AMSTERDAM
+PA  - PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN  - 0007-6813
+SN  - 1873-6068
+J9  - BUS HORIZONS
+JI  - Bus. Horiz.
+DA  - MAY-JUN
+PY  - 2017
+VL  - 60
+IS  - 3
+SP  - 285
+EP  - 292
+DO  - 10.1016/j.bushor.2017.01.002
+AN  - WOS:000401201700004
+ER  -
+
+TY  - CPAPER
+AU  - Connolly, L
+AU  - Lang, M
+AU  - Tygar, D
+ED  - CuppensBoulahia, N
+ED  - Cuppens, F
+ED  - Jajodia, S
+ED  - ElKalam, AA
+ED  - Sans, T
+TI  - Managing Employee Security Behaviour in Organisations: The Role of Cultural Factors and Individual Values
+T2  - ICT SYSTEMS SECURITY AND PRIVACY PROTECTION, IFIP TC 11 INTERNATIONAL CONFERENCE, SEC 2014
+LA  - English
+CP  - 29th IFIP International Information Security and Privacy Conference (SEC)
+KW  - Information Security
+KW  - Information Security Culture
+KW  - Organisational Culture
+KW  - National Culture
+KW  - Employee Behaviour
+KW  - Individual Values
+KW  - INFORMATION SECURITY
+KW  - MANAGEMENT
+AB  - An increasing number of information security breaches in organisations presents a potentially serious threat to the privacy and confidentiality of personal and commercially sensitive data. Recent research shows that human beings are the weakest link in the security chain and the root cause of a great portion of security breaches. In the late 1990's, a new phenomenon called "information security culture" has emerged as a measure to promote security-cautious behaviour of employees in organisational settings. The concept of information security culture is relatively new and research on the subject is still evolving. This research-in-progress paper contributes to our understanding of this very important topic by offering a conceptualisation of information security culture. Additionally, this study indentifies factors that instigate adverse employee behaviour in organisations.
+NR  - 37
+PU  - SPRINGER-VERLAG BERLIN
+PI  - BERLIN
+PA  - HEIDELBERGER PLATZ 3, D-14197 BERLIN, GERMANY
+SN  - 1868-4238
+SN  - 1868-422X
+SN  - 978-3-642-55415-5
+J9  - IFIP ADV INF COMM TE
+PY  - 2014
+VL  - 428
+SP  - 417
+EP  - 430
+AN  - WOS:000364653800035
+ER  -
+
+TY  - JOUR
+AU  - Ibanez, JC
+AU  - Olmeda, MV
+TI  - Operationalising AI ethics: how are companies bridging the gap between practice and principles? An exploratory study
+T2  - AI & SOCIETY
+LA  - English
+KW  - Artificial intelligence
+KW  - Ethics
+KW  - Privacy
+KW  - Explainability
+KW  - Fairness
+KW  - Principles
+AB  - Despite the increase in the research field of ethics in artificial intelligence, most efforts have focused on the debate about principles and guidelines for responsible AI, but not enough attention has been given to the "how" of applied ethics. This paper aims to advance the research exploring the gap between practice and principles in AI ethics by identifying how companies are applying those guidelines and principles in practice. Through a qualitative methodology based on 22 semi-structured interviews and two focus groups, the goal of the current study is to understand how companies approach ethical issues related to AI systems. A structured analysis of the transcripts brought out many actual practices and findings, which are presented around the following main research topics: ethics and principles, privacy, explainability, and fairness. The interviewees also raised issues of accountability and governance. Finally, some recommendations are suggested such as developing specific sector regulations, fostering a data-driven organisational culture, considering the algorithm's complete life cycle, developing and using a specific code of ethics, and providing specific training on ethical issues. Despite some obvious limitations, such as the type and number of companies interviewed, this work identifies real examples and direct priorities to advance the research exploring the gap between practice and principles in AI ethics, with a specific focus on Spanish companies.
+NR  - 57
+PU  - SPRINGER
+PI  - NEW YORK
+PA  - ONE NEW YORK PLAZA, SUITE 4600, NEW YORK, NY, UNITED STATES
+SN  - 0951-5666
+SN  - 1435-5655
+J9  - AI SOC
+JI  - AI Soc.
+DO  - 10.1007/s00146-021-01267-0
+AN  - WOS:000691715100001
+ER  -
+
+TY  - CPAPER
+AU  - Miller, J
+AU  - Friedman, B
+AU  - Jancke, G
+AU  - Gill, B
+A1  - ACM
+TI  - Value Tensions in Design: The Value Sensitive Design, Development, and Appropriation of a Corporation's Groupware System
+T2  - GROUP'07: PROCEEDINGS OF THE 2007 INTERNATIONAL ACM CONFERENCE ON SUPPORTING GROUP WORK
+LA  - English
+CP  - International ACM Conference on Supporting Group Work
+KW  - design method
+KW  - Value Sensitive Design
+KW  - value dams and flows
+KW  - human values
+KW  - groupware
+KW  - organizational culture
+KW  - emergent issues
+KW  - privacy
+KW  - awareness
+KW  - reputation
+AB  - We report on the value sensitive design, development, and appropriation of a groupware system to support software engineering knowledge sharing. Usage data (5,965 visitors) and semi-structured interviews (18 individuals) suggest the methods employed were Successful in addressing value tensions, particularly with respect to privacy, awareness, and reputation. Key contributions include: (1) "proof-of-concept" that established Value Sensitive Design principles and methods can be used to good effect for the design of groupware in an industry setting, (2) a new design method for addressing value tensions, Value Dams and Flows, and (3) demonstration of the co-evolution of technology and organizational policy.
+NR  - 19
+PU  - ASSOC COMPUTING MACHINERY
+PI  - NEW YORK
+PA  - 1515 BROADWAY, NEW YORK, NY 10036-9998 USA
+SN  - 978-1-59593-845-9
+PY  - 2007
+SP  - 281
+EP  - 290
+AN  - WOS:000266407100033
+ER  -
+
+TY  - CPAPER
+AU  - Sherif, K
+AU  - Jewesimi, O
+A1  - Assoc Informat Syst
+TI  - Electronic Performance Monitoring Friend or Foe? Empowering Employees through Data Analytics Emergent Research Forum (ERF)
+T2  - AMCIS 2018 PROCEEDINGS
+LA  - English
+CP  - 24th Americas Conference on Information Systems (AMCIS) - Digital Disruption
+KW  - Electronic Performance Monitoring
+KW  - Human Resource Management
+KW  - Culture
+KW  - WORK
+AB  - Recent advances in electronic performance monitoring (EPM) have raised employee concerns regarding invasion of privacy and the erosion of trust. However, the use of data analytics on the EPM data promises to improve organizational and employee performance. Aligning the design of the EPM system with the organizational culture and establishing effective organizational mechanisms to address concerns will positively affect how employees perceive the technology. Data collected from two organizations in the US and in Qatar within the oil and gas sector reveals organizational efforts to promote the image of EPM as an employee-empowering technology, providing objective feedback to achieve individual and organizational goals.
+FU  - Qatar University Research Office [QUST-CBE-SPR-17/182]
+FX  - The work is supported in part by Qatar University Research Office under grant No. QUST-CBE-SPR-17/182. Any opinions, findings, and conclusions or recommendations expressed in this material are those of the authors and do not necessarily reflect the views of Qatar University.
+NR  - 15
+PU  - ASSOC INFORMATION SYSTEMS
+PI  - ATLANTA
+PA  - P.O. BOX 2712, ATLANTA, GA 30301-2712 USA
+SN  - 978-0-9966831-6-6
+PY  - 2018
+AN  - WOS:000589328101062
+ER  -
+
+TY  - JOUR
+AU  - Sherif, K
+AU  - Jewesimi, O
+AU  - El-Masri, M
+TI  - Empowering employees: the other side of electronic performance monitoring
+T2  - JOURNAL OF INFORMATION COMMUNICATION & ETHICS IN SOCIETY
+LA  - English
+KW  - Culture
+KW  - HRM
+KW  - Qualitative research
+KW  - Comparative case study
+KW  - Electronic performance monitoring
+KW  - ORGANIZATIONAL CULTURE
+KW  - SYSTEMS
+KW  - PERCEPTIONS
+AB  - Purpose
+   Advances in electronic performance monitoring (EPM) have raised employees' concerns regarding the invasion of privacy and erosion of trust. On the other hand, EPM promises to improve performance and processes. This paper aims to focus on how the alignment of EPM design and organizational culture through effective organizational mechanisms can address privacy concerns, and, hence, positively affect employees' perception toward technology.
+   Design/methodology/approach
+   Based on a theoretical lens extending two conceptual frameworks, a qualitative approach was used to analyze interview data collected from a comparative case study of two organizations in the USA and Qatar within the oil and gas sector. These two contexts were selected to emphasize the cross-cultural and organizational differences in employees' acceptance of EPM.
+   Findings
+   The study revealed that national and corporate cultures affected employees' perception and acceptance of monitoring in both countries. Because of diversity, though EPM was better accepted in Qatar, as they are an easy way to enforce standardization and to push employees to adapt to a dominating corporate culture. Conversely, in the USA where culture is more innovation-oriented, organizational mechanisms shifted the perceptions of EPM to being mean to obtain feedback rather than to impose standards.
+   Research limitations/implications
+   This qualitative study is based on a descriptive comparative case study of two organizations with two cultural contexts. The limited sample size and cross-sectional nature of data may need to be extended to a larger cultural scope that is observed over a longer period to safely generalize the findings.
+   Practical implications
+   Decision-makers in multinational corporations with different cultural backgrounds may benefit of this study's outcomes, as it emphasizes the importance of the fit between EPM designs and the cultural settings. Furthermore, organizations aiming to conduct analytics on EPM data have to justify and prove its benefits to employees to facilitate acceptance.
+   Social implications
+   The study shows that employees in Qatar have a different cultural frame of reference in their perception of fairness and ethics than their counterparts in the USA because of changes in the meaning of social relations, personal goals and behavioral norms.
+   Originality/value
+   The originality of this study lays in its empirical validation of a composite framework examining both national and corporate cultures on employees' reactions to EPM systems. It also proves the critical importance of organizational mechanisms to align the EPM design with the organization cultural settings.
+NR  - 29
+PU  - EMERALD GROUP PUBLISHING LTD
+PI  - BINGLEY
+PA  - HOWARD HOUSE, WAGON LANE, BINGLEY BD16 1WA, W YORKSHIRE, ENGLAND
+SN  - 1477-996X
+SN  - 1758-8871
+J9  - J INF COMMUN ETHICS
+JI  - J. Inf. Commun. Ethics Soc.
+DA  - JUN 4
+PY  - 2021
+VL  - 19
+IS  - 2
+SP  - 207
+EP  - 221
+DO  - 10.1108/JICES-04-2020-0038
+AN  - WOS:000592827500001
+ER  -
+
+TY  - JOUR
+AU  - Mubarak, S
+TI  - Developing a theory-based information security management framework for human service organizations
+T2  - JOURNAL OF INFORMATION COMMUNICATION & ETHICS IN SOCIETY
+LA  - English
+KW  - Information security
+KW  - Human information behaviour
+KW  - Computer crime
+KW  - Human service organizations
+KW  - Information security management
+KW  - Organizational theories
+KW  - KNOWLEDGE CREATION
+KW  - CULTURE
+KW  - SYSTEMS
+AB  - Purpose - This paper aims to identify organizations' information security issues and to explore dynamic, organizational culture and contingency theories to develop an implementable framework for information security systems in human service organizations (HSOs) based soundly in theory and practice.
+   Design/methodology/approach - The paper includes a critical review of global information security management issues for HSOs and relevant multi-disciplinary organizational theories to address them.
+   Findings - Effective information security management can be particularly challenging to HSO because of their use of volunteer staff in a borderless electronic environment. Organizations' lack of recognition of the need for staff awareness of information security threats and for training in secure work practices, particularly in terms of maintaining clients' privacy and confidentiality, is a major issue. The dynamic theory of organizational knowledge creation, organizational culture theory and contingency theory were identified as the most suitable theoretical perspectives to address this issue and underpin an effective information security management framework for HSOs.
+   Research limitations/implications - The theory-based framework presented here has not been tested in practice. Such testing will be carried out in further research.
+   Originality/value - Currently, there is no framework for information security systems in HSOs. The framework developed here provides a foundation on which HSO can build information security systems specific to their needs.
+NR  - 56
+PU  - EMERALD GROUP PUBLISHING LTD
+PI  - BINGLEY
+PA  - HOWARD HOUSE, WAGON LANE, BINGLEY BD16 1WA, W YORKSHIRE, ENGLAND
+SN  - 1477-996X
+SN  - 1758-8871
+J9  - J INF COMMUN ETHICS
+JI  - J. Inf. Commun. Ethics Soc.
+PY  - 2016
+VL  - 14
+IS  - 3
+SP  - 254
+EP  - 271
+DO  - 10.1108/JICES-06-2015-0018
+AN  - WOS:000412554900003
+ER  -
+
+TY  - JOUR
+AU  - Orsi, R
+TI  - A METHOD FOR ARTICULATING GRASSROOTS COMMUNITY ORGANIZING OUTCOMES
+T2  - JOURNAL OF COMMUNITY PSYCHOLOGY
+LA  - English
+KW  - PROGRAM THEORY
+KW  - DEVELOP
+AB  - Concept mapping (Trochim, ) was used to visually articulate the full range of organizing outcomes from a grassroots community organization (GCO) in a western United States city. Outcomes belong to five general categories: (a) victories, (b) personal development, (c) public leadership skills, (d) organizational relationships with power people, and (e) building an organizational culture of civic engagement. Results from the concept map have been triangulated with other GCO data sources to determine whether the concept map presents a credible representation of the range of outcomes which can be expected from community organizing. Advantages of concept mapping as a method for community-based research are discussed. Names of places and organizations have been changed to protect the privacy of participants.
+NR  - 41
+PU  - WILEY
+PI  - HOBOKEN
+PA  - 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN  - 0090-4392
+SN  - 1520-6629
+J9  - J COMMUNITY PSYCHOL
+JI  - J. Community Psychol.
+DA  - MAY
+PY  - 2014
+VL  - 42
+IS  - 4
+SP  - 398
+EP  - 413
+DO  - 10.1002/jcop.21617
+AN  - WOS:000333961400002
+ER  -
+
+TY  - JOUR
+AU  - Aden, H
+TI  - Information sharing, secrecy and trust among law enforcement and secret service institutions in the European Union
+T2  - WEST EUROPEAN POLITICS
+LA  - English
+KW  - Security agencies in the EU
+KW  - transnational cooperation
+KW  - information sharing
+KW  - secrecy
+KW  - trust
+KW  - transparency
+KW  - accountability
+KW  - EU
+AB  - Transnational information sharing among security agencies in the European Union and beyond has grown considerably more important over the past decades. Centralised databases and numerous formal and informal networks now facilitate cooperation and information sharing. However, sharing intelligence may not only conflict with the protection of fundamental rights (data protection/privacy; presumption of innocence), but also with the organisational culture of institutions that are built upon secrecy. Police agencies often keep knowledge about individual cases and their strategies secret as long as possible. Intelligence services build their work and strategies upon secrecy even more. This paper analyses the variations of secrecy that can be observed for police agencies and secret services, and the relationship between information sharing among security agencies, secrecy, trust, transparency and accountability. In a normative perspective, the paper explores answers to the questions of how secret the work of security agencies should be in democratic rule of law systems and how accountability can be improved without making these institutions work less effectively.
+NR  - 60
+PU  - ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI  - ABINGDON
+PA  - 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN  - 0140-2382
+SN  - 1743-9655
+J9  - WEST EUR POLIT
+JI  - West Eur. Polit.
+PY  - 2018
+VL  - 41
+IS  - 4
+SP  - 981
+EP  - 1002
+DO  - 10.1080/01402382.2018.1475613
+AN  - WOS:000435712300009
+ER  -
+
+TY  - CPAPER
+AU  - Freitas, E
+AU  - Fonseca, F
+AU  - Garcia, V
+AU  - Ferreira, R
+AU  - Gasevic, D
+ED  - Chang, M
+ED  - Sampson, DG
+ED  - Huang, R
+ED  - Hooshyar, D
+ED  - Chen, NS
+ED  - Kinshuk
+ED  - Pedaste, M
+TI  - Towards a Maturity Model for Learning Analytics Adoption An Overview of its Levels and Areas
+T2  - 2020 IEEE 20TH INTERNATIONAL CONFERENCE ON ADVANCED LEARNING TECHNOLOGIES (ICALT 2020)
+LA  - English
+CP  - 20th IEEE International Conference on Advanced Learning Technologies (ICALT)
+KW  - learning analytics
+KW  - maturity model
+KW  - policy development
+KW  - adoption
+KW  - FRAMEWORK
+AB  - Learning Analytics is a new field in education whose adoption can bring benefits for teaching and learning processes. However, many higher education institutions may not be ready to start using learning analytics due to challenges such as organizational culture, infrastructure, and privacy. In this context, Maturity Models (MMs) can support institutions to systematize their processes, enabling them to progress successively in the learning analytics adoption. MMs are used in different fields to support the improvement of processes, describing them in terms of maturity levels, and identifying enhancements that could lead an organization to higher levels of such maturity. Thus, this paper presents an outline of a MM for Learning Analytics adoption in higher education institutions, describing its levels and areas, together with its development methodology.
+NR  - 23
+PU  - IEEE
+PI  - NEW YORK
+PA  - 345 E 47TH ST, NEW YORK, NY 10017 USA
+SN  - 2161-3761
+SN  - 978-1-7281-6090-0
+J9  - IEEE INT CONF ADV LE
+PY  - 2020
+SP  - 180
+EP  - 184
+DO  - 10.1109/ICALT49669.2020.00059
+AN  - WOS:000620344900052
+ER  -
+
+TY  - JOUR
+AU  - Mitchell, ET
+TI  - Assessing service quality and organizational goal alignment for service units
+T2  - TECHNICAL SERVICES QUARTERLY
+LA  - English
+KW  - Assessment
+KW  - data analysis
+KW  - qualitative and quantitative analysis
+KW  - research methods
+KW  - technical services
+AB  - Previous articles in this column have studied how technical service units provide value to their organizations. Those articles explored ways in which cataloging units provide service to libraries and how to develop and market those services to communicate their value. This article builds on this previous work by studying assessment approaches broadly for departments like technical services that provide building block or supporting services for user-facing organizations like libraries. The author proposes a framework for identifying an assessment outcome and connecting it back to a specific research question and design (i.e., intended outcome, assessment question[s], data gathering approach, data gathering method, data analysis method). Issues around question design, privacy, and organizational culture are discussed as factors to consider in the assessment of building-block services.
+NR  - 5
+PU  - ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI  - ABINGDON
+PA  - 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN  - 0731-7131
+SN  - 1555-3337
+J9  - TECH SERV Q
+JI  - Tech. Serv. Q.
+PY  - 2017
+VL  - 34
+IS  - 4
+SP  - 388
+EP  - 398
+DO  - 10.1080/07317131.2017.1356072
+AN  - WOS:000408777700003
+ER  -
+
+TY  - CPAPER
+AU  - Potnis, D
+AU  - Regenstreif-Harms, R
+AU  - Hunter, D
+A1  - Assoc Comp Machinery
+TI  - Challenges to Deploying Library Services in the Cloud: Data Issues Influencing IT, People, Costs, and Policy Challenges
+T2  - JCDL'18: PROCEEDINGS OF THE 18TH ACM/IEEE JOINT CONFERENCE ON DIGITAL LIBRARIES
+LA  - English
+CP  - 18th ACM/IEEE-CS Joint Conference on Digital Libraries (JCDL)
+KW  - Libraries
+KW  - Cloud
+KW  - Software as a Service
+KW  - Challenges
+AB  - This poster analyzes challenges to planning, deploying, and maintaining different types of library services in the cloud. We apply grounded theory principles to analyze 75 articles authored by library administrators, librarians with IT expertise, IT professionals, cybersecurity experts, and business consultants engaged in planning, deploying, and maintaining library services in the cloud. Data analysis reveals that a majority of the past literature reports challenges to implementing Software as a Service (SaaS) in libraries. The seven key areas critical to the successful implementation of SaaS in libraries are related to: (1) data, (2) authentication and privacy of patrons, (3) skills and knowledge of library staff and organizational culture, (4) IT infrastructure, (5) features of services, (6) fixed and operational costs associated with data and technology, and (7) policies and contracts.
+NR  - 7
+PU  - ASSOC COMPUTING MACHINERY
+PI  - NEW YORK
+PA  - 1515 BROADWAY, NEW YORK, NY 10036-9998 USA
+SN  - 2575-7865
+SN  - 2575-8152
+SN  - 978-1-4503-5178-2
+J9  - ACM-IEEE J CONF DIG
+PY  - 2018
+SP  - 375
+EP  - 376
+DO  - 10.1145/3197026.3203897
+AN  - WOS:000458178700073
+ER  -
+
+TY  - CPAPER
+AU  - Tsohou, A
+AU  - Theoharidou, M
+AU  - Kokolakis, S
+AU  - Gritzalis, D
+ED  - Lambrinoudakis, C
+ED  - Pernul, G
+ED  - Tjoa, AM
+TI  - Addressing cultural dissimilarity in the Information Security Management Outsourcing relationship
+T2  - TRUST, PRIVACY AND SECURITY IN DIGITAL BUSINESS, PROCEEDINGS
+LA  - English
+CP  - 4th International Conference on Trust, Privacy, and Security in Digital Business
+KW  - Information Security Management Outsourcing
+KW  - organizational
+KW  - culture
+AB  - Organizational culture influences the way a) information security is perceived, b) security countermeasures are adopted, and c) the organization reacts to the cultural changes of a new security program. In Information Security Management Outsourcing (ISMO), cultural differences may arise between the organization and the provider, for example conflict between the countermeasures applied by the provider and the company's internal policies. We propose a conceptual framework of security mechanisms in order organizations that choose ISMO to identify and manage cultural dissimilarity.
+NR  - 31
+PU  - SPRINGER-VERLAG BERLIN
+PI  - BERLIN
+PA  - HEIDELBERGER PLATZ 3, D-14197 BERLIN, GERMANY
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 978-3-540-74408-5
+J9  - LECT NOTES COMPUT SC
+PY  - 2007
+VL  - 4657
+SP  - 24
+EP  - +
+AN  - WOS:000249585500004
+ER  -
+
+TY  - JOUR
+AU  - Nieh, FP
+TI  - KEY SUCCESS FACTORS OF INNOVATIVE MANAGEMENT IN CATERING INDUSTRY
+T2  - ACTUAL PROBLEMS OF ECONOMICS
+LA  - English
+KW  - catering industry
+KW  - innovative management
+KW  - key success factor
+AB  - This study aims to establish the key success factors of innovative and sustainable management of catering industry. This study applies Analytic Hierarchy Process (AHP) method to establish a hierarchy model with 4 dimensions: Members participating in innovation, Organizational system, Innovative protection, and Surrounding environment. It aims to hierarchicalize, structurize, and quantify the innovative management indicators in catering industry. Having investigated 256 supervisors and consumers in catering industry, the innovative management indicators and the weight system are established. The findings show that: 1) organizational system plays a critical role in innovative management, Supporting adventure and change and Tolerating mistakes are better emphasized in Organizational culture; 2) organizational equivalent privacy is better focused in Innovative protection; 3) communication competence of R&D supervisors is better stressed in Members participating it: innovation; and 4) customer interactions are paid more attention in Surrounding environment.
+NR  - 17
+PU  - NATL ACAD MANAGEMENT
+PI  - KYIV
+PA  - VUL PANASA MYMOGO 26, KYIV, 01011, UKRAINE
+SN  - 1993-6788
+J9  - ACTUAL PROBL ECON
+JI  - Actual Probl. Econ.
+PY  - 2011
+IS  - 126
+SP  - 400
+EP  - 408
+AN  - WOS:000299648900046
+ER  -
+
+TY  - CPAPER
+AU  - Bushey, J
+ED  - Gathegi, JN
+ED  - Tonta, Y
+ED  - Kurbanoglu, S
+ED  - AlUmut
+ED  - Taskin, Z
+TI  - Trustworthy Digital Images and the Cloud: Early Findings of the Records in the Cloud Project
+T2  - CHALLENGES OF INFORMATION MANAGEMENT BEYOND THE CLOUD
+LA  - English
+CP  - 4th International Symposium on Information Management in a Changing World (IMCW)
+KW  - Digital images
+KW  - archives
+KW  - cloud computing
+KW  - trustworthy records
+AB  - Digitized and born digital images are being created and disseminated at an ever-increasing rate as the by-products of business activities and the residue of organizational culture. In the past decade, the popularity of digitization as an archival activity aimed at preserving vulnerable archival materials and providing increased access to archival collections has presented archivists with a number of challenges including: platform interoperability, access controls, scalable infrastructure and privacy and rights management. The Cloud presents a range of solutions to the problems posed by managing large data sets such as digital image collections; however, at this early stage the benefits and risks associated with cloud-based services are still being identified. This paper will discuss the current state of digital imaging and highlight key issues in the creation and use, management, and preservation of digital images as trustworthy records in the context of an evolving online environment.
+NR  - 18
+PU  - SPRINGER-VERLAG BERLIN
+PI  - BERLIN
+PA  - HEIDELBERGER PLATZ 3, D-14197 BERLIN, GERMANY
+SN  - 1865-0929
+SN  - 978-3-662-44412-2
+SN  - 978-3-662-44411-5
+J9  - COMM COM INF SC
+PY  - 2014
+VL  - 423
+SP  - 43
+EP  - 53
+AN  - WOS:000357859500005
+ER  -
+
+TY  - CPAPER
+AU  - Stanciu, V
+AU  - Caratas, MA
+A1  - SGEM
+TI  - PROJECTIONS OVER THE INTERNAL AUDIT FUNCTION IN A RESHAPING BUSINESS CONTEXT
+T2  - POLITICAL SCIENCES, LAW, FINANCE, ECONOMICS AND TOURISM, VOL II
+LA  - English
+CP  - International Multidisciplinary Scientific Conferences on Social Sciences and Arts (SGEM 2014)
+KW  - internal audit
+KW  - auditor' skills
+KW  - risks
+KW  - IT business solutions
+AB  - In the conditions of a changing environment for business, auditors face lots of challenges in finding new methods for improving organizations' operational efficiency. Stakeholders got higher expectations and internal audit function needs to adapt on these new requirements. Therefore, we have tried to underline projections on the internal audit evolution and its impact to the internal control system in the Romanian organizations. Meanwhile, we analyzed organizational culture influence over the internal audit from the perspective of adapting to new business conditions while respecting the culture of the organization. We identified several risks affecting companies in last years and we analyzed their impact on their economic stability. The results lead us to shape some conclusions regarding the new risk factors like insecurity of IT or data privacy that contribute to internal audit evolution. Authors' contribution comes in suggestions for revising internal audit in order to bring higher added value to companies.
+NR  - 11
+PU  - STEF92 TECHNOLOGY LTD
+PI  - SOFIA
+PA  - 1 ANDREY LYAPCHEV BLVD, SOFIA, 1797, BULGARIA
+SN  - 2367-5659
+SN  - 978-619-7105-26-1
+J9  - INT MULTIDDISCIP SCI
+PY  - 2014
+SP  - 601
+EP  - +
+DO  - 10.5593/SGEMSOCIAL2014/B22/S6.076
+AN  - WOS:000359614600076
+ER  -
+
+TY  - JOUR
+AU  - Fayard, AL
+AU  - Weeks, J
+TI  - Who Moved My Cube?
+T2  - HARVARD BUSINESS REVIEW
+LA  - English
+AB  - Managers once discouraged casual interaction among employees, viewing it as a distraction from "real work." Today we know that chance encounters on the job promote cooperation and innovation, and companies craft their floor plans and cultures with this in mind. So why do their careful, well-intentioned efforts often go awry?
+   Common sense, it turns out, is a poor guide when it comes to designing for interaction. Work spaces inspire informal encounters only if they properly balance three factors that have both physical and social aspects:
+   Proximity. Spaces should naturally bring people together.
+   Privacy. People must be able to control access to their conversations and themselves.
+   Permission. The social purpose of the space needs to be evident, and the organizational culture should signal that nonwork interactions are not just sanctioned but encouraged.
+   Creating the right conditions is challenging enough in the physical world; doing it in a virtual environment is even harder. But asking employees to set Skype, IM, and other applications to indicate their availability can replicate a sense of proximity online. Setting clear policies governing access to electronic communications helps convey reassurance that privacy is protected. And leaving video links and virtual offices open promotes the feeling that geographically disparate groups are welcome to engage with one another casually, just as they might in a real-world common space.
+   There's no simple formula for balancing proximity, privacy, and permission in either the physical or virtual spheres. Managers who grasp the fundamentals and design spaces with balance in mind, however, will be better equipped to understand and predict the effects of different spaces on interactions, and to learn from their successes and inevitable mistakes.
+NR  - 0
+PU  - HARVARD BUSINESS SCHOOL PUBLISHING CORPORATION
+PI  - WATERTOWN
+PA  - 300 NORTH BEACON STREET, WATERTOWN, MA 02472 USA
+SN  - 0017-8012
+J9  - HARVARD BUS REV
+JI  - Harv. Bus. Rev.
+DA  - JUL-AUG
+PY  - 2011
+VL  - 89
+IS  - 7-8
+SP  - 102
+EP  - +
+AN  - WOS:000292060900033
+ER  -
+
+TY  - CPAPER
+AU  - Gabriela, P
+AU  - Delia, P
+AU  - Ofelia, RV
+AU  - Ionut, B
+ED  - Bulucea, CA
+ED  - Mladenov, V
+ED  - Pop, E
+ED  - Leba, M
+ED  - Mastorakis, N
+TI  - Conflict management system planning at the Inspectorate for Emergency situations Dambovita
+T2  - RECENT ADVANCES IN E-ACTIVITIES, INFORMATION SECURITY AND PRIVACY
+LA  - English
+CP  - 8th WSEAS International Conference on E-Activities/8th WSEAS International Conference on Information Security and Privacy
+KW  - Organization management team
+KW  - change
+KW  - conflict management system planning
+KW  - Inspectorate for Emergency Situation of Dambovita county
+AB  - Ideally, the organization should be a place where highly motivated people can work together to achieve both their individual goals and the goals of the organization. If the organization management team has done a good job by acquiring well-qualified individuals, the challenge becomes one of developing and maintaining a supportive organizational climate. This is not an easy task to fulfill. The environment of an organization is strongly influenced by two factors namely, change and conflict, which can impede the efforts of the individuals and groups toward organization goals accomplishment. The organization management team needs to understand and manage these two factors in order to make things go normally and profitably within the organization.
+NR  - 4
+PU  - WORLD SCIENTIFIC AND ENGINEERING ACAD AND SOC
+PI  - ATHENS
+PA  - AG LOANNOU THEOLOGOU 17-23, 15773 ZOGRAPHOU, ATHENS, GREECE
+SN  - 978-960-474-143-4
+J9  - ELE COM ENG
+PY  - 2009
+SP  - 204
+EP  - +
+AN  - WOS:000276195400034
+ER  -
+
+TY  - CPAPER
+AU  - Ward, J
+AU  - Dogan, H
+AU  - Apeh, E
+AU  - Mylonas, A
+AU  - Katos, V
+ED  - Tryfonas, T
+TI  - Using Human Factor Approaches to an Organisation's Bring Your Own Device Scheme
+T2  - HUMAN ASPECTS OF INFORMATION SECURITY, PRIVACY AND TRUST (HAS 2017)
+LA  - English
+CP  - 5th International Conference on Human Aspects of Information Security, Privacy and Trust (HAS) Held as Part of 19th International Conference on Human-Computer Interaction (HCI International)
+KW  - Bring Your Own Device (BYOD)
+KW  - Mobile devices
+KW  - Mobile device management
+KW  - Security
+KW  - Interactive Management
+KW  - Human Factors
+AB  - Bring Your Own Device (BYOD) is an emerging trend that is being adopted by an increasing number of organisations due to the benefits it provides in terms of cost efficiency, employee productivity, and staff morale. However, organisations who could benefit from implementing BYOD remain sceptical, due to the increasing threats and vulnerabilities introduced by mobile technology, which are amplified due to the human element (insider threats, non-security savvy employees). In this context, this paper investigates the application of human factor techniques to the BYOD scheme of an anonymised, real-life organisation (referred to as "Globex"). Questionnaires and Interactive Management are two Human Factor methods used in this case study to help determine areas for improvement. Results from the experiment highlight an issue with employee satisfaction towards their employers' BYOD scheme, which could negatively impact their organisational culture. The paper concludes with recommendations for additional information within the BYOD policy and the review of reimbursement eligibility and entitlements.
+NR  - 35
+PU  - SPRINGER INTERNATIONAL PUBLISHING AG
+PI  - CHAM
+PA  - GEWERBESTRASSE 11, CHAM, CH-6330, SWITZERLAND
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 978-3-319-58460-7
+SN  - 978-3-319-58459-1
+J9  - LECT NOTES COMPUT SC
+PY  - 2017
+VL  - 10292
+SP  - 396
+EP  - 413
+DO  - 10.1007/978-3-319-58460-7_28
+AN  - WOS:000431846800028
+ER  -
+
+TY  - JOUR
+AU  - Hollanda, E
+AU  - de Siqueira, SAV
+AU  - de Andrade, GRB
+AU  - Molinaro, A
+AU  - Vaitsman, J
+TI  - User satisfaction and responsiveness in the healthcare services at Fundacao Oswaldo Cruz
+T2  - CIENCIA & SAUDE COLETIVA
+LA  - Portuguese
+KW  - User satisfaction
+KW  - Responsiveness
+KW  - Evaluation
+KW  - Out-patient clinics
+KW  - Survey
+KW  - PATIENT SATISFACTION
+KW  - QUALITY
+AB  - The paper discusses the results of research into user satisfaction in three healthcare facilities at Oswaldo Cruz Foundation in Rio de Janeiro. The analysis is based on the concepts of user satisfaction and responsiveness. Perceptions and opinions of outpatients from Instituto de Pesquisa Evandro Chagas, Instituto Fernandes Figueira and Centro de Sa de Escola Germano Sinval Faria were investigated. Intention samples were drawn for each institution and a total of 1.339 valid questionnaires were obtained. The study found that patients are satisfied with healthcare at Fiocruz, especially with health professionals. Nevertheless, restroom hygiene and privacy during consultations were less well evaluated. The improvement of these aspects depends not only on financial and technological investments but on changes in organizational culture. The first part of the paper discusses the literature on user satisfaction and responsiveness, with the definition of the categories that guided the study. The methodology is then presented as well as the four health services dimensions assessed - dignity, agility, facilities and communication - and the results are analyzed.
+NR  - 29
+PU  - ABRASCO-ASSOC BRASILEIRA POS-GRADUACAO & SAUDE COLETIVA
+PI  - RIO DE JANEIRO
+PA  - AVENIDA BRASIL, 4036, SALA 700 MANGUINHOS-1, RIO DE JANEIRO, 21040-36, BRAZIL
+SN  - 1413-8123
+SN  - 1678-4561
+J9  - CIENC SAUDE COLETIVA
+JI  - Cienc. Saude Coletiva
+DA  - DEC
+PY  - 2012
+VL  - 17
+IS  - 12
+SP  - 3343
+EP  - 3352
+DO  - 10.1590/S1413-81232012001200019
+AN  - WOS:000311535600019
+ER  -
+
+TY  - CPAPER
+AU  - Ruighaver, AB
+AU  - Maynard, SB
+ED  - FischerHubner, S
+ED  - Rannenberg, K
+ED  - Yngstrom, L
+ED  - Lindskog, S
+TI  - Organizational security culture: More than just an end-user phenomenon
+T2  - SECURITY AND PRIVACY IN DYNAMIC ENVIRONMENTS
+LA  - English
+CP  - 21st International Information Security Conference (SEC 2006)
+AB  - The concept of security culture is relatively new. It is often investigated in a simplistic manner focusing on end-users and on the technical aspects of security. Security, however, is a management problem and as a result the nvestigation of security. culture should also have a management focus. This paper discusses security culture based on an organisational culture framework of eight dimensions. We believe that use of this framework in security culture research will reduce the inherent biases of researchers who tend to focus on only technical aspects of culture from an end users perspective.
+NR  - 10
+PU  - SPRINGER
+PI  - NEW YORK
+PA  - 233 SPRING STREET, NEW YORK, NY 10013, UNITED STATES
+SN  - 1571-5736
+SN  - 0-387-33405-X
+J9  - INT FED INFO PROC
+PY  - 2006
+VL  - 201
+SP  - 425
+EP  - +
+AN  - WOS:000237334600036
+ER  -
+
+TY  - CPAPER
+AU  - Dhillon, G
+AU  - Samonas, S
+AU  - Etudo, U
+ED  - Hoepman, JH
+ED  - Katzenbeisser, S
+TI  - Developing a Human Activity Model for Insider IS Security Breaches Using Action Design Research
+T2  - ICT SYSTEMS SECURITY AND PRIVACY PROTECTION, SEC 2016
+LA  - English
+CP  - 31st IFIP TC 11 International Conference International Conference on ICT Systems Security and Privacy Protection (SEC)
+KW  - Human activity model
+KW  - Insider threats
+KW  - Security culture
+KW  - Action design research
+KW  - INFORMATION-SYSTEMS SECURITY
+KW  - PROTECTION MOTIVATION
+KW  - POLICY COMPLIANCE
+KW  - THREAT
+KW  - IMPACT
+KW  - ORGANIZATIONS
+KW  - DETERRENCE
+KW  - MANAGEMENT
+KW  - AWARENESS
+KW  - CULTURE
+AB  - Insider security breaches in organizations have been identified as a pressing problem for academics and practitioners. The literature generally addresses this problem by focusing on the compliance of human behavior to stated policy or the conformance with organizational culture. The cultural stance and resultant activities of organizational insiders are key determinants of information security. However, whilst compliance with security policies and regulations is of great importance, the very structure of human activities that facilitates or hinders such compliance have seldom appeared in the literature. In this paper we present a human activity model that captures different aspects of a security culture. The model elucidates the patterns of behavior in organizations. Applying the model before and after an insider security breach allows us to make salient, critical areas that need attention.
+NR  - 44
+PU  - SPRINGER-VERLAG BERLIN
+PI  - BERLIN
+PA  - HEIDELBERGER PLATZ 3, D-14197 BERLIN, GERMANY
+SN  - 1868-4238
+SN  - 978-3-319-33630-5
+SN  - 978-3-319-33629-9
+J9  - IFIP ADV INF COMM TE
+PY  - 2016
+VL  - 471
+SP  - 49
+EP  - 61
+DO  - 10.1007/978-3-319-33630-5_4
+AN  - WOS:000385789400004
+ER  -
+
+TY  - CPAPER
+AU  - Tajuddin, S
+AU  - Olphert, W
+AU  - Doherty, N
+ED  - Giannakopoulos, G
+ED  - Sakas, DP
+ED  - KyriakiManessi, D
+TI  - Relationship Between Stakeholders' Information Value Perception and Information Security Behaviour
+T2  - INTERNATIONAL CONFERENCE ON INTEGRATED INFORMATION (IC-ININFO 2014)
+LA  - English
+CP  - 4th International Conference on Integrated Information (IC-ININFO)
+KW  - POLICY COMPLIANCE
+KW  - PERCEIVED VALUE
+KW  - PRIVACY
+KW  - USERS
+AB  - The study, reported in this paper, aims to explore the relationship between the stakeholders' perceptions about the value of information and their resultant information security behaviours. Moreover, this study seeks to explore the role of national and organisational culture in facilitating information value assignment. Information Security is a concept that formed from the recognition that information is valuable and that there is a need to protect it. The ISO 27002 defines information as an asset, which, like other important business assets, is essential to an organisation's business and consequently needs to be appropriately protected. By definition, an asset has a value to the organisation hence it requires protection.
+   Information protection is typically accomplished through the implementation of countermeasures against the threats and vulnerabilities of information security, for example, implementation of technological processes and mechanisms such as firewall and authorization and authentication systems, set-up of deterrence procedures such as password control and enforcement of organisational policy on information handling procedures. However, evidence routinely shows that despite such measures, information security breaches and incidents are on the rise. These breaches lead to loss of information, personal records, or other data, with consequent implications for the value of the information asset.
+   A number of studies have suggested that such problems are not related primarily to technology problems or procedural deficiencies, but rather to stakeholders' poor compliance with the security measures that are in place. Research indicates that compliance behaviour is affected by many variables including perceived costs and benefits, national and organisational culture and norms. However, there has been little research to understand the concept of information value from the perspective of those who interact with the data, and the consequences for information security behaviours. This study seeks to address this gap in the research. Data will be presented from a pilot study consisting of interviews with 6 participants from public organisations in Brunei Darussalam which illustrate the nature of the value assignment process, together with an initial model of the relationship between perceived information value and information security behaviours.
+NR  - 47
+PU  - AMER INST PHYSICS
+PI  - MELVILLE
+PA  - 2 HUNTINGTON QUADRANGLE, STE 1NO1, MELVILLE, NY 11747-4501 USA
+SN  - 0094-243X
+SN  - 978-0-7354-1283-5
+J9  - AIP CONF PROC
+PY  - 2015
+VL  - 1644
+SP  - 69
+EP  - 77
+DO  - 10.1063/1.4907819
+AN  - WOS:000354859800009
+ER  -
+
+TY  - JOUR
+AU  - Cowan, RL
+AU  - Horan, SM
+TI  - Understanding Information and Communication Technology Use in Workplace Romance Escalation and De-Escalation
+T2  - INTERNATIONAL JOURNAL OF BUSINESS COMMUNICATION
+LA  - English
+KW  - ICT
+KW  - work groups
+KW  - workplace romance
+KW  - relationship development
+KW  - social media
+KW  - qualitative
+KW  - grounded theory
+KW  - RELATIONAL MAINTENANCE
+KW  - SEXUAL-HARASSMENT
+KW  - WORK
+KW  - PERCEPTIONS
+KW  - UNCERTAINTY
+KW  - FACEBOOK
+KW  - LOVE
+KW  - FRIENDSHIPS
+KW  - PREDICTORS
+KW  - BEHAVIORS
+AB  - The primary purpose of this study was to learn how and why information and communication technologies (ICTs) are used to initiate, maintain, and dissolve workplace romantic relationships, creating a new model. Workplace romantic relationships are different from traditional romantic relationships in several ways: those in workplace romances may face additional implications following workplace romance disclosure and need to be mindful of how they disclose, they risk damaging gossip that could result in negative professional consequences, and they are influenced by organizational culture. How and why people chose to date those they met at work has important implications for individuals, organizations, and society. Using a constructivist grounded theory approach and collecting in-depth qualitative data, we uncovered a model of ICT use in workplace romantic relationships. We also found privacy was a predominant concern in both the initiation and maintenance stages and that communication was generally avoided during dissolution. Technology was used to end many of these relationships including text messages and social networking sites because they are asynchronous and help both parties avoid more direct communication. Theoretical and practical implications for employees, managers, and organizations are discussed.
+NR  - 79
+PU  - SAGE PUBLICATIONS INC
+PI  - THOUSAND OAKS
+PA  - 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN  - 2329-4884
+SN  - 2329-4892
+J9  - INT J BUS COMMUN
+JI  - Int. J. Bus. Commun.
+DA  - JAN
+PY  - 2021
+VL  - 58
+IS  - 1
+SP  - 55
+EP  - 78
+DO  - 10.1177/2329488417731860
+AN  - WOS:000599611000003
+ER  -
+
+TY  - JOUR
+AU  - Botoseneanu, A
+AU  - Wu, HL
+AU  - Wasserman, J
+AU  - Jacobson, PD
+TI  - Achieving public health legal preparedness: how dissonant views on public health law threaten emergency preparedness and response
+T2  - JOURNAL OF PUBLIC HEALTH
+LA  - English
+KW  - government and law
+KW  - management and policy
+KW  - public health
+KW  - QUALITATIVE RESEARCH
+KW  - COLLABORATION
+KW  - MANAGEMENT
+AB  - Background Effective management of modern public health emergencies requires the coordinated efforts of multiple agencies representing various disciplines. Organizational culture differences between public health (PH) and emergency management (EM) entities may hinder interagency collaboration. We examine how PH and EM differ in their approach to PH law and how such differences affect their collaboration towards PH preparedness.
+   Methods We conducted 144 semi-structured interviews with local and state PH and EM officials between April 2008 and November 2009. Thematic qualitative analysis in ATLAS. ti was used to extract characteristics of each agency's approach to PH legal preparedness.
+   Results Two conflicting approaches to the law emerge. The PH approach is characterized by perceived uncertainty regarding legal authority over preparedness planning tasks; expectation for guidance on interpretation of existing laws; and concern about individual and organizational liability. The EM approach reveals perception of broad legal authority; flexible interpretation of existing laws; and ethical concerns over infringement of individual freedoms and privacy.
+   Conclusions Distinct interpretations of preparedness law impede effective collaboration for PH preparedness. Clarification of legal authority mandates, designation within laws of scope of preparedness activities and guidance on interpretation of current federal and state laws are needed.
+FU  - Centers for Disease Control and Prevention at the U.S. Department of Health and Human Services [TP000102]; National Institute on Aging at the National Institutes of HealthUnited States Department of Health & Human ServicesNational Institutes of Health (NIH) - USANIH National Institute on Aging (NIA) [T32-AG027708]; NATIONAL INSTITUTE ON AGINGUnited States Department of Health & Human ServicesNational Institutes of Health (NIH) - USANIH National Institute on Aging (NIA) [T32AG027708] Funding Source: NIH RePORTER
+FX  - This work was supported by grants TP000102 (to P.D.J. and J.W.) from the Centers for Disease Control and Prevention at the U.S. Department of Health and Human Services and T32-AG027708 (to A.B.) from the National Institute on Aging at the National Institutes of Health. The authors thank the funding agencies for their generous support.
+NR  - 23
+PU  - OXFORD UNIV PRESS
+PI  - OXFORD
+PA  - GREAT CLARENDON ST, OXFORD OX2 6DP, ENGLAND
+SN  - 1741-3842
+J9  - J PUBLIC HEALTH-UK
+JI  - J. Public Health
+DA  - SEP
+PY  - 2011
+VL  - 33
+IS  - 3
+SP  - 361
+EP  - 368
+DO  - 10.1093/pubmed/fdq092
+AN  - WOS:000294556400008
+ER  -
+
+TY  - JOUR
+AU  - Cowan, KE
+AU  - McKean, AJ
+AU  - Gentry, MT
+AU  - Hilty, DM
+TI  - Barriers to Use of Telepsychiatry: Clinicians as Gatekeepers
+T2  - MAYO CLINIC PROCEEDINGS
+LA  - English
+KW  - FACE-TO-FACE
+KW  - POSTTRAUMATIC-STRESS-DISORDER
+KW  - MENTAL-HEALTH-SERVICES
+KW  - TELEMENTAL HEALTH
+KW  - PRIMARY-CARE
+KW  - PEDIATRIC TELEPSYCHIATRY
+KW  - PSYCHIATRIC ASSESSMENTS
+KW  - PHYSICIANS KNOWLEDGE
+KW  - THERAPEUTIC ALLIANCE
+KW  - PATIENT-RELATIONSHIP
+AB  - Telepsychiatry is effective and has generated hope and promise for improved access and enhanced quality of care with reasonable cost containment. Clinicians and organizations are informed about clinical, technological, and administrative telepsychiatric barriers via guidelines, but there are many practical patient and clinician factors that have slowed implementation and undermined sustainability. Literature describing barriers to use of telepsychiatry was reviewed. PubMed search terms with date limits from January 1, 1959, to April 25, 2019, included telepsychiatry, telemedicine, telemental health, videoconferencing, video based, Internet, synchronous, real-time, two-way, limitations, restrictions, barriers, obstacles, challenges, issues, implementation, utilization, adoption, perspectives, perceptions, attitudes, beliefs, willingness, acceptability, feasibility, culture/cultural, outcomes, satisfaction, quality, effectiveness, and efficacy. Articles were selected for inclusion on the basis of relevance. Barriers are described from both patient and clinicians' perspectives. Patients and clinicians are largely satisfied with telepsychiatry, but concerns about establishing rapport, privacy, safety, and technology limitations have slowed acceptance of telepsychiatry. Clinicians are also concerned about reimbursement/ financial, legal/regulatory, licensure/credentialing, and education/learning issues. These issues point to system and policy concerns, which, in combination with other administrative concerns, raise questions about system design/workflow, efficiency of clinical care, and changing organizational culture. Although telepsychiatry service is convenient for patients, the many barriers from clinicians' perspectives are concerning, because they serve as gatekeepers for implementation and sustainability of telepsychiatry services. This suggests that solutions to overcome barriers must start by addressing the concerns of clinicians and enhancing clinical workflow. (C) 2019 Mayo Foundation for Medical Education and Research
+NR  - 133
+PU  - ELSEVIER SCIENCE INC
+PI  - NEW YORK
+PA  - STE 800, 230 PARK AVE, NEW YORK, NY 10169 USA
+SN  - 0025-6196
+SN  - 1942-5546
+J9  - MAYO CLIN PROC
+JI  - Mayo Clin. Proc.
+DA  - DEC
+PY  - 2019
+VL  - 94
+IS  - 12
+SP  - 2510
+EP  - 2523
+DO  - 10.1016/j.mayocp.2019.04.018
+AN  - WOS:000500791900022
+ER  -
+
+TY  - JOUR
+AU  - Devine, CM
+AU  - Nelson, JA
+AU  - Chin, N
+AU  - Dozier, A
+AU  - Fernandez, ID
+TI  - "Pizza is cheaper than salad": Assessing workers' views for an environmental food intervention
+T2  - OBESITY
+LA  - English
+KW  - worksite
+KW  - environment
+KW  - diet
+KW  - intervention
+KW  - PRECEDE
+KW  - HEALTH-PROMOTION PROGRAMS
+KW  - FORMATIVE RESEARCH
+KW  - WHITEHALL-II
+KW  - WEIGHT-GAIN
+KW  - JOB STRAIN
+KW  - OBESITY
+KW  - PARTICIPATION
+KW  - PREVENTION
+KW  - PURCHASES
+KW  - FRUIT
+AB  - Objective: "Images of a Healthy Worksite" aims to provide easy access to healthful foods and to reduce sedentarism at the worksite-to prevent weight gain. Formative research for the nutrition intervention component was aimed at gaining a broad understanding of the sociocultural role of food and eating among workers and worker perspectives on socially feasible and culturally acceptable environmental intervention strategies.
+   Research Methods and Procedures: Using an adapted PRECEDE health planning model, we conducted ecological, educational, environmental, and administrative assessments at the worksite. Through 15 in-depth interviews, five focus groups, and community mapping at two sites with 79 administrators, managers, workers, and food service personnel (51% men, 82% white), we assessed workers' perspectives on physical, sociocultural, economic, and policy environments. Data were coded for predisposing, enabling, and reinforcing factors related to intervention strategies in vending, cafeteria, catering, and informal food environments. After classification for reach, intensity, and sustainability, objectives and evaluation plans were developed for each highly ranked strategy.
+   Results: Key sociocultural factors affecting food and eating included: stress-related eating in a downsizing workplace, enthusiasm for employer-sponsored weight gain prevention efforts that respect personal, privacy, and the consequences of organizational culture on worker access to the food and eating environment. Workers supported healthier cafeteria and catering options, bringing healthful foods closer, and labeling of healthful options.
+   Discussion: We provide a practical and systematic approach to formative research and assess the interrelatedness of the physical, policy, economic, and sociocultural factors that affect environmental worksite interventions to prevent weight gain among employees.
+FU  - NHLBI NIH HHSUnited States Department of Health & Human ServicesNational Institutes of Health (NIH) - USANIH National Heart Lung & Blood Institute (NHLBI) [5R01HL079511] Funding Source: Medline; NATIONAL HEART, LUNG, AND BLOOD INSTITUTEUnited States Department of Health & Human ServicesNational Institutes of Health (NIH) - USANIH National Heart Lung & Blood Institute (NHLBI) [R01HL079511] Funding Source: NIH RePORTER
+NR  - 34
+PU  - WILEY
+PI  - HOBOKEN
+PA  - 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN  - 1930-7381
+SN  - 1930-739X
+J9  - OBESITY
+JI  - Obesity
+DA  - NOV
+PY  - 2007
+VL  - 15
+SP  - 57S
+EP  - 68S
+DO  - 10.1038/oby.2007.388
+AN  - WOS:000251939100007
+ER  -
+
+TY  - JOUR
+AU  - Leon, N
+AU  - Schneider, H
+AU  - Daviaud, E
+TI  - Applying a framework for assessing the health system challenges to scaling up mHealth in South Africa
+T2  - BMC MEDICAL INFORMATICS AND DECISION MAKING
+LA  - English
+KW  - MHealth
+KW  - Mobile phone technology
+KW  - Health systems framework
+KW  - Community-based health services
+KW  - South Africa
+KW  - INFORMATION-TECHNOLOGY
+KW  - PROGRAMS
+KW  - QUALITY
+AB  - Background: Mobile phone technology has demonstrated the potential to improve health service delivery, but there is little guidance to inform decisions about acquiring and implementing mHealth technology at scale in health systems. Using the case of community-based health services (CBS) in South Africa, we apply a framework to appraise the opportunities and challenges to effective implementation of mHealth at scale in health systems.
+   Methods: A qualitative study reviewed the benefits and challenges of mHealth in community-based services in South Africa, through a combination of key informant interviews, site visits to local projects and document reviews. Using a framework adapted from three approaches to reviewing sustainable information and communication technology (ICT), the lessons from local experience and elsewhere formed the basis of a wider consideration of scale up challenges in South Africa.
+   Results: Four key system dimensions were identified and assessed: government stewardship and the organisational, technological and financial systems. In South Africa, the opportunities for successful implementation of mHealth include the high prevalence of mobile phones, a supportive policy environment for eHealth, successful use of mHealth for CBS in a number of projects and a well-developed ICT industry. However there are weaknesses in other key health systems areas such as organisational culture and capacity for using health information for management, and the poor availability and use of ICT in primary health care. The technological challenges include the complexity of ensuring interoperability and integration of information systems and securing privacy of information. Finally, there are the challenges of sustainable financing required for large scale use of mobile phone technology in resource limited settings.
+   Conclusion: Against a background of a health system with a weak ICT environment and limited implementation capacity, it remains uncertain that the potential benefits of mHealth for CBS would be retained with immediate large-scale implementation. Applying a health systems framework facilitated a systematic appraisal of potential challenges to scaling up mHealth for CBS in South Africa and may be useful for policy and practice decision-making in other low- and middle-income settings.
+FU  - Atlantic Philanthropies; Centers for Disease ControlUnited States Department of Health & Human ServicesCenters for Disease Control & Prevention - USA
+FX  - The authors would like to thank all research participants for giving generously of their time and for sharing their knowledge of and enthusiasm for mHealth and for commenting on the technical report that formed the basis for this article. We acknowledge the contribution of Professor Uta Lehmann (School of Public Health, University of Western Cape) who participated in the study design and gave valuable feedback and Mr. Wesley Solomon from Health Systems Research Unit, Medical Research Council of South Africa, who provided expert knowledge on mobile technologies. Dr. Christopher Colvin (University of Cape Town) provided valuable conceptual and editing feedback. The research was made possible by grants to the School of Public Health, UWC, from the Atlantic Philanthropies and Centers for Disease Control.
+NR  - 44
+PU  - BMC
+PI  - LONDON
+PA  - CAMPUS, 4 CRINAN ST, LONDON N1 9XW, ENGLAND
+SN  - 1472-6947
+J9  - BMC MED INFORM DECIS
+JI  - BMC Med. Inform. Decis. Mak.
+DA  - NOV 5
+PY  - 2012
+VL  - 12
+DO  - 10.1186/1472-6947-12-123
+AN  - WOS:000313046600001
+ER  -
+
+TY  - JOUR
+AU  - McCann, TV
+AU  - Lubman, DI
+TI  - Help-seeking barriers and facilitators for affected family members of a relative with alcohol and other drug misuse: A qualitative study
+T2  - JOURNAL OF SUBSTANCE ABUSE TREATMENT
+LA  - English
+KW  - Affected family members
+KW  - Barriers and facilitators
+KW  - Help-seeking
+KW  - Alcohol and other drug misuse
+KW  - Stigma
+KW  - INFORMAL CARERS
+KW  - MENTAL-ILLNESS
+KW  - SUBSTANCE USE
+KW  - YOUNG-PEOPLE
+KW  - CAREGIVERS
+KW  - HEALTH
+KW  - SUPPORT
+KW  - ADDICTION
+KW  - STIGMA
+KW  - SERVICES
+AB  - Aims: To identify affected family members' (AFMs) experiences of barriers and facilitators to informal and formal help-seeking for themselves and on behalf of a close relative with alcohol and other drug (AOD) misuse.
+   Methods: Qualitative study, informed by interpretative phenomenological analysis. Semi-structured, audio-recorded, telephone interviews were used to collect data from 31 AFMs.
+   Results: AFMs experienced several overlapping and at times competing help-seeking obstacles and enablers in accessing informal and formal support for themselves and on behalf of their relative with AOD misuse, and these are reflected in two themes and associated sub-themes: barriers to help-seeking and facilitators to help-seeking. Five help-seeking barriers were abstracted from the data: Stigma discourages help-seeking, Difficulty locating informal and formal support services, Previous negative AOD service help-seeking experiences deter subsequent help-seeking, Hopelessness inhibits help-seeking, and Feeling undervalued as an AFM. Three help-seeking facilitators were abstracted from the data: Previous positive help-seeking experiences increase future help-seeking, Overcoming shame and isolation and being open with trusted significant others, and Persevering in help-seeking.
+   Conclusions: AFMs who access informal and formal help sources for themselves, and on behalf of their relative, are more likely to sustain their important support-giving role. Measures to strengthen AFMs' capacity and willingness to support their relative should be founded on an understanding of factors that affect their own help seeking in addition to those encountered when help-seeking on behalf of their relative. Our findings have implications for the visibility of AOD services and informal support groups on the Internet, organisational culture of some AOD services, valuing the contributions of AFMs, and protecting AFMs and their relatives' privacy. Our findings also have implications for reducing public stigma of AOD misuse, changing some AFMs' scepticism about treatment outcomes, and reinforcing and enhancing AFMs' skills in persevering with help-seeking.
+FU  - Victoria University
+FX  - Victoria University provided grant funding to support this study.
+NR  - 52
+PU  - PERGAMON-ELSEVIER SCIENCE LTD
+PI  - OXFORD
+PA  - THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN  - 0740-5472
+J9  - J SUBST ABUSE TREAT
+JI  - J. Subst. Abus. Treat.
+DA  - OCT
+PY  - 2018
+VL  - 93
+SP  - 7
+EP  - 14
+DO  - 10.1016/j.jsat.2018.07.005
+AN  - WOS:000443105600002
+ER  -
+
+TY  - JOUR
+AU  - Belwal, S
+AU  - Belwal, R
+AU  - Al-Hashemi, SE
+TI  - Family friendly policies and the Omani Labour Law What it entails for women employees in Oman
+T2  - EMPLOYEE RELATIONS
+LA  - English
+KW  - Oman
+KW  - GCC
+KW  - Women workers
+KW  - Labour law
+KW  - Family-friendly policies
+KW  - Work-life balance
+KW  - WORK-LIFE BALANCE
+KW  - SHIFT WORK
+KW  - FORCE PARTICIPATION
+KW  - TURNOVER INTENTIONS
+KW  - MARRIED MOTHERS
+KW  - HUMAN-RESOURCES
+KW  - SOCIAL-CHANGE
+KW  - CONFLICT
+KW  - WORKPLACE
+KW  - EMPLOYMENT
+AB  - Purpose The purpose of this paper is to take cognisance of the work-life balance (WLB) challenges facing working women in Oman, make a review of the family-friendly policies (FFPs), related provisions in labour laws of various nations, and identify and suggest some FFP-based solutions for attracting women to private sector jobs. Design/methodology/approach Initially, desk research was used to review the labour laws of the six Gulf Cooperation Council (GCC) countries and some pioneering countries known for their workplace policies using the major electronic databases and official websites. An exploratory approach was used to understand the lived experience of participants using 46 in-depth interviews. The data were analysed and the findings were explained and contextualised in terms of the Arab culture, wider social processes and consequences related to WLB. Findings The interviews revealed that the majority of women in the private sector are not fully aware of the labour laws and FFPs, and are not satisfied with the existing policies, as they do not provide the right WLB. Women in the private sector demand flexible working hours, privacy at work, reduced work hours and certain other benefits akin to the government sector. Omani Labour Law needs a review of FFPs in line with the best global practices and Oman's diversification initiatives. The provision, awareness and implementation of FFPs in the workplace are necessary to attract Omani women to private sector jobs. Research limitations/implications - This research focusses on Oman in particular and GCC countries in general in its coverage of Omani women workers. The outcomes would be important for the specific segment but would have limited potential to generalise. Practical implications - The study of WLB and FFPs is of interest for both academia and industry globally. In its strategic vision 2040, Oman aims to encourage, support and develop the private sector to drive the national economy. To retain and boost the socio-economic development in the post-oil economy, the success of the private sector will depend on the participation of the Omani workforce. The role of working Omani women will be pivotal, for they form a substantial part of the skilled human resources inventory. Social implications Women working in Oman are influenced by labour laws, organisational culture, traditional attitudes and societal values and influences. The voices of women working in the private sector indicate a great need to create awareness of existing policies, ensure their compliance and devise additional workplace policies to enable women to contribute to the labour market. Originality/value There is a dearth of studies examining work policies and employment of women in the context of Oman in particular and the GCC Countries in general. Even in the extant literature, the sectoral imbalance between the government and private sector has not been explored from the perspective of WLB and FFPs. This study presents a unique approach and findings in this regard.
+FU  - Research Council (TRC) of Oman [ORG/EHR/15/002]
+FX  - The authors gratefully acknowledge the Open Research Grant No. ORG/EHR/15/002 from the Research Council (TRC) of Oman, which was instrumental in conducting this research work. We also acknowledge Professor Shirley Dex, Emeritus Professor, Institute of Education, University College London, the United Kingdom for her guidance contributing to this publication.
+NR  - 126
+PU  - EMERALD GROUP PUBLISHING LTD
+PI  - BINGLEY
+PA  - HOWARD HOUSE, WAGON LANE, BINGLEY BD16 1WA, W YORKSHIRE, ENGLAND
+SN  - 0142-5455
+SN  - 1758-7069
+J9  - EMPL RELAT
+JI  - Empl. Relat.
+DA  - NOV 28
+PY  - 2019
+VL  - 42
+IS  - 2
+SP  - 315
+EP  - 348
+DO  - 10.1108/ER-09-2018-0245
+AN  - WOS:000503563900001
+ER  -
+
+TY  - JOUR
+AU  - Yang, TM
+AU  - Wu, YJ
+TI  - Examining the socio-technical determinants influencing government agencies' open data publication: A study in Taiwan
+T2  - GOVERNMENT INFORMATION QUARTERLY
+LA  - English
+KW  - Open data
+KW  - Information sharing
+KW  - Government information
+KW  - Open government
+KW  - OPEN DATA POLICIES
+KW  - INFORMATION-TECHNOLOGY
+KW  - USER ACCEPTANCE
+KW  - ORGANIZATIONS
+KW  - TRANSPARENCY
+KW  - INDICATORS
+KW  - PRINCIPLES
+KW  - BARRIERS
+KW  - BENEFITS
+KW  - PRIVACY
+AB  - Open government data has become an important movement for government administrations around the world. Nevertheless, government agencies tend not to open their datasets and can act reluctantly to embed the concept of data publication in their daily operations. Accordingly, this study examines the determinants that are argued to have influences on the government agencies' intention and behavior of open data publication. Relevant hypotheses are developed through literature review to form a preliminary research model, and respective influences of the determinants on the government agencies' intention and behavior to publish datasets are statistically tested. The empirical results show that the determinants account for 60.4% of the variance in agencies' intention and 54.2% of the variance in agencies' behavior. All the determinants are statistically significant except for perceived effort and perceived benefits. Specifically, facilitating conditions and organizational capability are the two factors having the strongest positive effect. Perceived usefulness, external influence, and organizational culture also have positive influences while perceived risks indeed incur a negative impact on the intention. On the contrary, perceived effort and perceived benefits are found to be insignificant. Lastly, intention is statistically significant and indeed acts as a strong antecedent to predict government agencies' activities of open data publication. Practical implications are also offered to practitioners. A designated government agency should act as the coordinator to help agencies obtain facilitations from others. Agencies' concern of data misuse should be mitigated, as it is found to be the major driver having a negative impact. The limitations and future research directions are also discussed. The findings and discussions of this study are expected to contribute to the current open data literature.
+FU  - National Development Council of Taiwan; Taiwan E Governance Research Center; Ministry of Science and Technology, TaiwanMinistry of Science and Technology, Taiwan [NSC 102-2410-H-002-006-MY2]
+FX  - The authors are grateful to the editor and the three anonymous reviewers providing thoughtful comments to help the authors improve the paper. The authors also thank the government officials who participated in this research. This research was supported by the National Development Council of Taiwan and Taiwan E Governance Research Center. This study was funded by the Ministry of Science and Technology, Taiwan (grant number NSC 102-2410-H-002-006-MY2).
+NR  - 95
+PU  - ELSEVIER INC
+PI  - SAN DIEGO
+PA  - 525 B STREET, STE 1900, SAN DIEGO, CA 92101-4495 USA
+SN  - 0740-624X
+SN  - 1872-9517
+J9  - GOV INFORM Q
+JI  - Gov. Inf. Q.
+DA  - JUL
+PY  - 2016
+VL  - 33
+IS  - 3
+SP  - 378
+EP  - 392
+DO  - 10.1016/j.giq.2016.05.003
+AN  - WOS:000385057300002
+ER  -
+
+TY  - JOUR
+AU  - Kalaignanam, K
+AU  - Tuli, KR
+AU  - Kushwaha, T
+AU  - Lee, L
+AU  - Gal, D
+TI  - Marketing Agility: The Concept, Antecedents, and a Research Agenda
+T2  - JOURNAL OF MARKETING
+LA  - English
+KW  - agile marketing
+KW  - experimentation
+KW  - iteration
+KW  - marketing agility
+KW  - sensemaking
+KW  - speed
+KW  - PRODUCT DEVELOPMENT TEAMS
+KW  - INFORMATION-TECHNOLOGY
+KW  - ORGANIZATIONAL CULTURE
+KW  - GROUP POLARIZATION
+KW  - PERFORMANCE
+KW  - MODEL
+KW  - CREATIVITY
+KW  - FIRM
+KW  - CONSEQUENCES
+KW  - ORIENTATION
+AB  - Changes in the way customers shop, accompanied by an explosion of customer touchpoints and fast-changing competitive and technological dynamics, have led to an increased emphasis on agile marketing. The objective of this article is to conceptualize and investigate the emerging concept of marketing agility. The authors synthesize the literature from marketing and allied disciplines and insights from in-depth interviews with 22 senior managers. Marketing agility is defined as the extent to which an entity rapidly iterates between making sense of the market and executing marketing decisions to adapt to the market. It is conceptualized as occurring across different organizational levels and shown to be distinct from related concepts in marketing and allied fields. The authors highlight the firm challenges in executing marketing agility, including ensuring brand consistency, scaling agility across the marketing ecosystem, managing data privacy concerns, pursuing marketing agility as a fad, and hiring marketing leaders. The authors identify the antecedents of marketing agility at the organizational, team, marketing leadership, and employee levels and provide a roadmap for future research. The authors caution that marketing agility may not be well-suited for all firms and all marketing activities.
+NR  - 117
+PU  - SAGE PUBLICATIONS INC
+PI  - THOUSAND OAKS
+PA  - 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN  - 0022-2429
+SN  - 1547-7185
+J9  - J MARKETING
+JI  - J. Mark.
+DA  - JAN
+PY  - 2021
+VL  - 85
+IS  - 1
+SP  - 35
+EP  - 58
+DO  - 10.1177/0022242920952760
+AN  - WOS:000599813900005
+ER  -
+
+TY  - JOUR
+AU  - Wohlers, C
+AU  - Hertel, G
+TI  - Choosing where to work at work - towards a theoretical model of benefits and risks of activity-based flexible offices
+T2  - ERGONOMICS
+LA  - English
+KW  - Activity-based flexible offices
+KW  - new ways of working
+KW  - flex-office
+KW  - theoretical framework
+KW  - desk sharing
+KW  - office design
+KW  - FACE-TO-FACE
+KW  - SELF-DETERMINATION THEORY
+KW  - PHYSICAL-ENVIRONMENT
+KW  - EMPLOYEE REACTIONS
+KW  - JOB DEMANDS
+KW  - PSYCHOLOGICAL OWNERSHIP
+KW  - ORGANIZATIONAL CULTURE
+KW  - INDIVIDUAL-DIFFERENCES
+KW  - INTRINSIC MOTIVATION
+KW  - FIELD EXPERIMENT
+AB  - Although there is a trend in today's organisations to implement activity-based flexible offices (A-FOs), only a few studies examine consequences of this new office type. Moreover, the underlying mechanisms why A-FOs might lead to different consequences as compared to cellular and open-plan offices are still unclear. This paper introduces a theoretical framework explaining benefits and risks of A-FOs based on theories from work and organisational psychology. After deriving working conditions specific for A-FOs (territoriality, autonomy, privacy, proximity and visibility), differences in working conditions between A-FOs and alternative office types are proposed. Further, we suggest how these differences in working conditions might affect work-related consequences such as well-being, satisfaction, motivation and performance on the individual, the team and the organisational level. Finally, we consider task-related (e.g. task variety), person-related (e.g. personality) and organisational (e.g. leadership) moderators. Based on this model, future research directions as well as practical implications are discussed.Practitioner Summary: Activity-based flexible offices (A-FOs) are popular in today's organisations. This article presents a theoretical model explaining why and when working in an A-FO evokes benefits and risks for individuals, teams and organisations. According to the model, A-FOs are beneficial when management encourages employees to use the environment appropriately and supports teams.
+FU  - German Research FoundationGerman Research Foundation (DFG) [1712/1]
+FX  - This research was supported by a grant from the German Research Foundation to the research training group 'Trust and Communication in a Digitized World' [1712/1].
+NR  - 126
+PU  - TAYLOR & FRANCIS LTD
+PI  - ABINGDON
+PA  - 2-4 PARK SQUARE, MILTON PARK, ABINGDON OR14 4RN, OXON, ENGLAND
+SN  - 0014-0139
+SN  - 1366-5847
+J9  - ERGONOMICS
+JI  - Ergonomics
+PY  - 2017
+VL  - 60
+IS  - 4
+SP  - 467
+EP  - 486
+DO  - 10.1080/00140139.2016.1188220
+AN  - WOS:000399577900002
+ER  -
+
