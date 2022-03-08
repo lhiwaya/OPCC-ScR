@@ -1,5 +1,5 @@
 # OPCC-ScR
-OPCC Scoping Review - Documentation and Replication Package
+OPCC Scoping Review - Replication Package
 
 In this repository you can find the main files for the replication of the scoping review on Organisational Privacy Culture and Climate (OPCC).
 
